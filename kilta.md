@@ -6,11 +6,11 @@ title: Kilta
 
 tähän tulee viel joku navi:
 
-* aski
+* [aski](/kilta/aski/)
 * [hallitus](/kilta/hallitus/)
-* toimihenkilöt
-* viestintä
-* gt
-* halloped
-* jäsenyys
-* säätökerho
+* [toimihenkilöt](/kilta/toimihenkilot/)
+* [viestintä](/kilta/viestinta/)
+* [gt](/kilta/gt/)
+* [halloped](/kilta/halloped/)
+* [jäsenyys](/kilta/jasenyys/)
+* [säätökerho](/kilta/saatokerho/)
