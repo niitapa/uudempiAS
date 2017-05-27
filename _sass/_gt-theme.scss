@@ -73,6 +73,9 @@ body {
     text-decoration: none;
     color: $text-color;
   }
+  a:hover{
+    color: $purple-color;
+  }
 }
 
 .header__title {
