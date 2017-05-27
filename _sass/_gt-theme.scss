@@ -1,6 +1,7 @@
+
 body {
   font-family: $font-sans;
-  background-color: $grey-color-light;
+  background-color: $white-color;
 }
 
 .teaser {
@@ -36,15 +37,14 @@ body {
 }
 
 .site-footer {
-  background: $grey-color-dark;
-  border-top: 5px solid $brand-color;
+  background: $grey-color-light;
   padding: $spacing-unit;
-  color: $background-color;
+  color: black;
   .footer-col {
-    color: $background-color;
+    color: black;
   }
   h2 {
-    font-family: 'Fjalla One';
+    font-family: 'Sintony', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 1.3em;
@@ -52,26 +52,21 @@ body {
 }
 
 .header__navigation {
-  border-top: 3px solid $brand-color;
+
   margin-top: $spacing-unit / 4;
   overflow: hidden;
   ul {
     overflow: hidden;
-    background: $white-color;
+    background: $grey-color-light;
     margin: 0;
     padding: $spacing-unit /2 0;
   }
   text-align: center;
   .navigation__item {
     display: inline-block;
-    padding: 0 20px;
-    @include breakpoint(tablet) {
-      padding: 0;
-      display: block;
-      float: left;
-      width: 20%;
-    }
-    font-size: 1.2em;
+    padding: 0 10px;
+
+    font-size: 1.0em;
   }
   a, a:visited, a:hover {
     color: $text-color;
@@ -79,23 +74,20 @@ body {
 }
 
 .header__title {
-    padding-top: $spacing-unit;
-    padding-bottom: $spacing-unit;
+    padding-top: $spacing-unit/2;
+    padding-bottom: $spacing-unit/2;
+    background-color: #730099;
     h1 {
-        margin: 0 auto;
-        max-width: 200px;
         text-align: center;
         //border-bottom: 1px solid;
         //border-top: 1px solid;
-
     }
 }
 
 .site-title {
-    font-family: 'Fjalla One';
+    font-family: 'Sintony', sans-serif;
     letter-spacing: 1px;
-    font-size: 1.5em;
-    text-transform: uppercase;
+    font-size: 1.0em;
 }
 
 .header__logo {
