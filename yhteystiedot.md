@@ -12,11 +12,12 @@ PL 15500<br>
 
 ## Kiltahuone
 
-* Käyntiosoite: Maarintie 8 (ent. Otaniementie 17), Espoo (kartta)
+* Käyntiosoite: Maarintie 8 (ent. Otaniementie 17), Espoo ([kartta](/kilta/askikartta/))
 * Kiltahuoneen puhelin: 050 432 9223
 
 ## Hallitus
 
+* [Hallituksen jäsenten yhteystiedot](/kilta/hallitus/)
 * E-mail: hallitus ät as.fi
 
 ## Tilitiedot

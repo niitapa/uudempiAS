@@ -8,13 +8,13 @@ Kilta käyttää useita eri viestintävälineitä killan sisäiseen viestintää
 
 Sähköpostilistoja käytetään killassa jäsenistön tiedottamiseen ja hallituksen tavoittamiseen.
 
-hallitus ät as.fi Killan hallituksen lista. Listan kautta saat yhteyden koko hallitukseen.
+Killan hallituksen postilista: hallitus ät as.fi. Listan kautta saat yhteyden koko hallitukseen.
 
-Jäsenet lisätään automaattisesti kahdelle killan sähköpostilistoista, as-akt -listalle ja as-jas -listalle. https://list.ayy.fi/mailman/listinfo/as-akt as-akt -lista on killan aktiivilista. Listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muiden tahojen järjestämistä killistejä mahdollisesti kiinnostavista tapahtumista. https://list.ayy.fi/mailman/listinfo/as-jas as-jas -lista AS:n jäsenlista. Listalle kuuluu kaikki killan jäsenet. Listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista.
+Jäsenet lisätään automaattisesti kahdelle killan sähköpostilistoista, as-akt-listalle ja as-jas-listalle. [as-akt-lista](https://list.ayy.fi/mailman/listinfo/as-akt) on killan aktiivilista. Listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muiden tahojen järjestämistä killistejä mahdollisesti kiinnostavista tapahtumista. [as-jas-lista](https://list.ayy.fi/mailman/listinfo/as-jas) on AS:n jäsenlista. Listalle kuuluu kaikki killan jäsenet. Listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista.
 
-Lisäksi käytössä on as-rekry -lista, jolle voit itse liittyä halutessasi https://list.ayy.fi/mailman/listinfo/as-rekry as-rekry on lista, jolle lähetetään yritysten rekry-ilmoituksia ja muuta vastaavaa.
+Lisäksi käytössä on as-rekry-lista, jolle voit itse liittyä halutessasi. [as-rekry](https://list.ayy.fi/mailman/listinfo/as-rekry) on lista, jolle lähetetään yritysten työpaikkailmoituksia ja muuta vastaavaa.
 
-Listoille liittyminen tai niiltä poistuminen tapahtuu sivulla, jolle pääset klikkaamalla listan nimeä.
+Sähköpostilistoille liittyminen tai niiltä poistuminen tapahtuu sivulla, jolle pääset klikkaamalla listan nimeä.
 
 ## Foorumi
 
@@ -22,7 +22,7 @@ Killan foorumilla keskustellaan asiallisesti virallisia killan asioita. Foorumei
 
 ## Telegram
 
-Killan tiedotuskanavalle lähetetään tiivistelmä viikkotiedotteesta sekä lyhyitä infoviestejä killan tapahtumista ja toiminnasta. Tiedotus-kanavalle pääset linkistä: https://telegram.me/automit
+Killan tiedotuskanavalle lähetetään tiivistelmä viikkotiedotteesta sekä lyhyitä infoviestejä killan tapahtumista ja toiminnasta. Tiedotus-kanavalle pääset linkistä: [https://telegram.me/automit](https://telegram.me/automit)
 
 Telegram-keskusteluja kiltalaisten keskuudessa on monia, mutta tärkeimmät ovat AS ja !AivanSama. AS -keskustelu on kaikkia aASeja varten. Aihe on vapaa ja keskustelu pitkälti moderoimatonta, mutta hyvät käytöstavat pidetään kunniassa. !AivanSamalla voit keskustella killan toimintaan liittyvistä asioista ja tavoitat hallituksen sekä myös monet toimareista. Keskustelun sävy on asiallinen.
 
