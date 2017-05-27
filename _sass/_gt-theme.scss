@@ -1,0 +1,253 @@
+body {
+  font-family: $font-sans;
+  background-color: $grey-color-light;
+}
+
+.teaser {
+  &:not(:first-of-type) {
+    margin: ($spacing-unit / 2) 0;
+  }
+  background-color: $white-color;
+  @at-root {
+    .teaser__image {
+      display: inline-block;
+      @include breakpoint(tablet) {
+        max-width: 200px;
+      }
+    }
+    .teaser__text {
+      display: inline-block;
+      vertical-align: middle;
+      padding: ($spacing-unit / 2);
+    }
+  }
+}
+.teaser--with-image .teaser__text {
+  @include breakpoint(tablet) {
+    max-width: 60%;
+  }
+  @include breakpoint(desktop) {
+    max-width: 70%;
+  }
+}
+
+.header__title {
+  background-color: $white-color;
+}
+
+.site-footer {
+  background: $grey-color-dark;
+  border-top: 5px solid $brand-color;
+  padding: $spacing-unit;
+  color: $background-color;
+  .footer-col {
+    color: $background-color;
+  }
+  h2 {
+    font-family: 'Fjalla One';
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+  }
+}
+
+.header__navigation {
+  border-top: 3px solid $brand-color;
+  margin-top: $spacing-unit / 4;
+  overflow: hidden;
+  ul {
+    overflow: hidden;
+    background: $white-color;
+    margin: 0;
+    padding: $spacing-unit /2 0;
+  }
+  text-align: center;
+  .navigation__item {
+    display: inline-block;
+    padding: 0 20px;
+    @include breakpoint(tablet) {
+      padding: 0;
+      display: block;
+      float: left;
+      width: 20%;
+    }
+    font-size: 1.2em;
+  }
+  a, a:visited, a:hover {
+    color: $text-color;
+  }
+}
+
+.header__title {
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
+    h1 {
+        margin: 0 auto;
+        max-width: 200px;
+        text-align: center;
+        //border-bottom: 1px solid;
+        //border-top: 1px solid;
+
+    }
+}
+
+.site-title {
+    font-family: 'Fjalla One';
+    letter-spacing: 1px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.header__logo {
+  display: block;
+  margin: auto;
+}
+
+.post-content {
+  font-family: $font-serif;
+}
+
+.post__ingress {
+  font-size: 1.15em;
+  font-family: $font-serif;
+  @include breakpoint(desktop) {
+    width: 95%;
+  }
+}
+
+.post__category {
+  color: $brand-color;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-right: 5px;
+}
+
+.post {
+  overflow: auto;
+  padding: $spacing-unit / 2;
+  @include breakpoint(mobile) {
+    padding: $spacing-unit;
+  }
+  background-color: $white-color;
+}
+
+h2 a,
+h3 a,
+h4 a {
+  &, &:visited {
+    color: $text-color;
+  }
+}
+
+.section-main {
+    @include breakpoint(mobile) {
+    float: left;
+    width: 68%;
+    &.article-list {
+      width: 73%;
+    }
+  }
+}
+
+.sidebar {
+  @include breakpoint(mobile) {
+    float: right;
+    width: 25%;
+  }
+}
+
+.teaser--magazine {
+  margin: 0;
+  padding: 10px 20px;
+}
+
+.magazine__number {
+  text-align: center;
+  margin: 5px;
+}
+
+.fourfold {
+  @extend %clearfix;
+}
+
+.fourfold__row {
+  @extend %clearfix;
+  @include breakpoint(0, tablet) {
+    border-top: 1px solid #ddd;
+  }
+}
+
+.fourfold__cell {
+    width: 33%;
+    float: left;
+    min-height: 100px;
+    border-top: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    @include breakpoint(0, tablet) {
+      border: none;
+    }
+}
+
+.author {
+  margin: $spacing-unit;
+  @at-root {
+    .author__image {
+      object-fit: cover;
+      width: 150px;
+      height: 150px;
+      padding: 10px;
+      display: inline-block;
+    }
+    .author__text {
+      display: inline-block;
+    }
+    .author__job {
+      font-weight: bold;
+    }
+  }
+}
+.authors {
+  width: 50%;
+  float: left;
+}
+
+
+.page--magazine {
+  .teaser--magazine {
+    @include breakpoint(mobile) {
+      float: left;
+      width: 30%;
+    }
+  }
+}
+.article-list--magazine {
+  @include breakpoint(mobile) {
+    width: 68%;
+    float: right;
+    .teaser:first-of-type {
+      margin-top: 0;
+    }
+  }
+  .teaser {
+    margin-top: $spacing-unit / 2;
+  }
+  h2 {
+    margin: 0;
+  }
+  .post-link {
+    font-size: 0.8em;
+  }
+}
+
+.sidebar__related {
+  padding-top: $spacing-unit;
+  margin-top: $spacing-unit;
+  border-top: 1px solid $border-color;
+}
+
+.teaser--heading {
+  padding: $spacing-unit / 2 $spacing-unit / 4 0;
+}
