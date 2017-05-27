@@ -7,7 +7,7 @@ title: Kilta
 tähän tulee viel joku navi:
 
 * aski
-* hallitus (väliaikaisesti tossa topnavissa esimerkkinä yolo)
+* [hallitus](/kilta/hallitus/)
 * toimihenkilöt
 * viestintä
 * gt
