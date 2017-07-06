@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hallitus
+kilta: yes
 ---
 hallitus on ankka, kävelee kuin mannerheim
 
