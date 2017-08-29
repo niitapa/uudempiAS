@@ -4,13 +4,4 @@ permalink: /kilta/
 title: Kilta
 ---
 
-tähän tulee viel joku navi:
-
-* [aski](/kilta/aski/)
-* [hallitus](/kilta/hallitus/)
-* [toimihenkilöt](/kilta/toimihenkilot/)
-* [viestintä](/kilta/viestinta/)
-* [gt](/kilta/gt/)
-* [halloped](/kilta/halloped/)
-* [jäsenyys](/kilta/jasenyys/)
-* [säätökerho](/kilta/saatokerho/)
+Killan tarkoituksena on yhdistää Automaatio- ja informaatioteknologian opiskelijoita ja edistää heidän yhteiskunnallisia, sosiaalisia ja henkisiä, sekä opiskeluun ja opiskelijan asemaan yliopistossa ja yhteiskunnassa liittyviä pyrkimyksiä, sekä kasvattaa heistä teekkari- ja ammatti-identiteetiltään vahvoja osaajia. Kilta toimii Aalto-yliopiston ylioppilaskunnan AYY:n piirissä.
