@@ -2,7 +2,7 @@
 layout: page
 title: Viestintä
 ---
-Kilta käyttää useita eri viestintävälineitä killan sisäiseen viestintään. Sähköpostilistoja käytetään killistien tiedottamiseen, foorumia viralliseen keskusteluun ja Telegramia yleisempään jutteluun. Tapahtumat saat helposti omaan kalenteriisi lisäämällä killan tapahtumakalenterin omaasi. Lisäksi ASkista löytyy ilmoitustaulu hallituksen tiedotteita varten sekä pyykkinaru julisteita varten.
+Kilta käyttää useita eri viestintävälineitä killan sisäiseen viestintään. Tieto killan toiminnasta ja tapahtumista kulkee sähköpostitse viikkotiedotteen muodossa. Lisäksi käytetään foorumia virallisempaan keskusteluun ja Telegramia yleisempään jutteluun. Tapahtumat saat helposti omaan kalenteriisi lisäämällä killan tapahtumakalenterin omaasi. Lisäksi ASkista löytyy ilmoitustaulu hallituksen tiedotteita varten sekä pyykkinaru julisteita varten.
 
 ## Sähköpostilistat
 
@@ -10,7 +10,9 @@ Sähköpostilistoja käytetään killassa jäsenistön tiedottamiseen ja hallitu
 
 Killan hallituksen postilista: hallitus ät as.fi. Listan kautta saat yhteyden koko hallitukseen.
 
-Jäsenet lisätään automaattisesti kahdelle killan sähköpostilistoista, as-akt-listalle ja as-jas-listalle. [as-akt-lista](https://list.ayy.fi/mailman/listinfo/as-akt) on killan aktiivilista. Listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muiden tahojen järjestämistä killistejä mahdollisesti kiinnostavista tapahtumista. [as-jas-lista](https://list.ayy.fi/mailman/listinfo/as-jas) on AS:n jäsenlista. Listalle kuuluu kaikki killan jäsenet. Listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista.
+Jäsenet lisätään automaattisesti kahdelle killan sähköpostilistoista, as-akt-listalle ja as-jas-listalle. 
+[as-akt-lista] (https://list.ayy.fi/mailman/listinfo/as-akt) on killan aktiivilista. Listalle lähetetään viikkotiedotteet, jotka sisältävät infoa killan tapahtumista ja muiden tahojen järjestämistä killistejä mahdollisesti kiinnostavista tapahtumista. 
+[as-jas-lista](https://list.ayy.fi/mailman/listinfo/as-jas) on AS:n jäsenlista. Listalle kuuluu kaikki killan jäsenet. Listalle lähetetään kokouskutsut sekä tietoa vuosijuhlista.
 
 Lisäksi käytössä on as-rekry-lista, jolle voit itse liittyä halutessasi. [as-rekry](https://list.ayy.fi/mailman/listinfo/as-rekry) on lista, jolle lähetetään yritysten työpaikkailmoituksia ja muuta vastaavaa.
 
