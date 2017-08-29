@@ -11,6 +11,7 @@ email: hallitus@as.fi
 description: > # this means to ignore newlines until "baseurl:"
   hilipatipimppa
 url: "http://as.fi" # the base hostname & protocol for your site
+baseurl: ''
 
 # Build settings
 markdown: kramdown
