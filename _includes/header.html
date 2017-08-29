@@ -8,7 +8,7 @@
     <nav class="navigation header__navigation">
       {% assign url_tokens = page.url | split: '/' %}
       {% assign main_page_href = '/' | append: url_tokens[1] %}
-      {% assign subpage_href = url_tokens[2] %}
+      {% assign subpage_href = '/' | append: url_tokens[2] %}
       <ul>
         {% if site.data.navi.items[0] %}
           {% for item in site.data.navi.items %}
@@ -18,7 +18,7 @@
                 {% assign current_page = false %}
               {% endif %}
             <li class="navigation__item {% if current_page %}active{% endif %}">
-              <a href="{{ item.href }}">{{ item.title }}</a>
+              <a href="{{ site.url }}{{ item.href }}">{{ item.title }}</a>
             </li>
             {% if current_page and item.subnavi %}
               {% assign subnavi = item.subnavi %}
@@ -32,7 +32,7 @@
         <ul>
             {% for subitem in subnavi.items %}
               <li class="navigation__item {% if subitem.href == subpage_href %}active{% endif %}">
-                <a href="{{ subitem.href }}">{{ subitem.title }}</a>
+                <a href="{{ site.url }}{{ main_page_href }}{{ subitem.href }}">{{ subitem.title }}</a>
               </li>
             {% endfor %}
         </ul>

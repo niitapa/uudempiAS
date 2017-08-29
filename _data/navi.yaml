@@ -7,21 +7,21 @@ items:
       directory: kilta
       items:
         - title: Hallitus
-          href: hallitus.html
+          href: /hallitus.html
         - title: Toimihenkilöt
-          href: toimihenkilot.html
+          href: /toimihenkilot.html
         - title: Viestintä
-          href: viestinta.html
+          href: /viestinta.html
         - title: Jäsenyys
-          href: jasenyys.html
+          href: /jasenyys.html
         - title: Aski
-          href: aski.html
+          href: /aski.html
         - title: Halloped
-          href: halloped.html
+          href: /halloped.html
         - title: GT
-          href: gt.html
+          href: /gt.html
         #- title: Säätökerho
-        #  href: saatokerho.html
+        #  href: /saatokerho.html
   - title: Opiskelu
     href: /opiskelu.html
   - title: Uudet opiskelijat
@@ -29,15 +29,15 @@ items:
     subnavi:
       items:
         - title: VarASlähtö
-          href: varaslahto.html
+          href: /varaslahto.html
         - title: Eka päivä
-          href: ekapaiva.html
+          href: /ekapaiva.html
         - title: Hyödyllisiä yhteystietoja / linkkejä
-          href: yhteystietojalinkkeja.html
+          href: /yhteystietojalinkkeja.html
         - title: Haalarit
-          href: haalarit.html
+          href: /haalarit.html
         - title: Teekkarilakki
-          href: teekkarilakki.html
+          href: /teekkarilakki.html
   - title: Tapahtumat
     href: /tapahtumat.html
   - title: Yrityksille
