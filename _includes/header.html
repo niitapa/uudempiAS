@@ -8,17 +8,38 @@
       </h1>
     </div>
     <nav class="navigation header__navigation">
+      {% assign url_tokens = page.url | split: '/' %}
+      {% assign main_page_href = '/' | append: url_tokens[1] %}
+      {% assign subpage_href = url_tokens[2] %}
       <ul>
-        <li class="navigation__item"><a href="{{ '/' | prepend: site.baseurl}}">Etusivu</a></li>
-        <li class="navigation__item"><a href="{{ '/kilta/' | prepend: site.baseurl }}">Kilta</a></li>
-        <li class="navigation__item"><a href="{{ '/opiskelu/' | prepend: site.baseurl }}">Opiskelu</a></li>
-        <li class="navigation__item"><a href="{{ '/phuksit/' | prepend: site.baseurl }}">Uudet opiskelijat</a></li>
-        <li class="navigation__item"><a href="{{ '/tapahtumat/' | prepend: site.baseurl }}">Tapahtumat</a></li>
-        <li class="navigation__item"><a href="{{ '/yrityksille/' | prepend: site.baseurl }}">Yrityksille</a></li>
-        <li class="navigation__item"><a href="{{ '/yhteystiedot/' | prepend: site.baseurl }}">Yhteystiedot</a></li>
-        <li class="navigation__item"><a href="{{ '/in-english/' | prepend: site.baseurl }}">In English</a></li>
+        {% if site.data.navi.items[0] %}
+          {% for item in site.data.navi.items %}
+              {% if item.href == main_page_href or item.href == main_page_href | concat: '/' %}
+                {% assign current_page = true %}
+              {% else %}
+                {% assign current_page = false %}
+              {% endif %}
+            <li class="navigation__item {% if current_page %}active{% endif %}">
+              <a href="{{ item.href }}">{{ item.title }}</a>
+            </li>
+            {% if current_page and item.subnavi %}
+              {% assign subnavi = item.subnavi %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       </ul>
     </nav>
+    {% if subnavi %}
+      <nav id="navigation_sub" class="navigation header__navigation">
+        <ul>
+            {% for subitem in subnavi.items %}
+              <li class="navigation__item {% if subitem.href == subpage_href %}active{% endif %}">
+                <a href="{{ subitem.href }}">{{ subitem.title }}</a>
+              </li>
+            {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
 
 
 

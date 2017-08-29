@@ -78,6 +78,13 @@ body {
   }
 }
 
+.navigation__item.active {
+  font-weight: bold;
+}
+
+.navigation__item.active a {
+  color: $purple-color;
+}
 .header__title {
     padding-top: $spacing-unit/4;
     padding-bottom: $spacing-unit/4;

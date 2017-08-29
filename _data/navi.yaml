@@ -1,0 +1,36 @@
+items:
+  - title: Etusivu
+    href: /
+  - title: Kilta
+    href: /kilta
+    subnavi:
+      directory: kilta
+      items:
+        - title: Hallitus
+          href: hallitus.html
+        - title: Toimihenkilöt
+          href: toimihenkilot.html
+        - title: Viestintä
+          href: viestinta.html
+        - title: Jäsenyys
+          href: jasenyys.html
+        - title: Aski
+          href: aski.html
+        - title: Halloped
+          href: halloped.html
+        - title: GT
+          href: gt.html
+        #- title: Säätökerho
+        #  href: saatokerho.html
+  - title: Opiskelu
+    href: /opiskelu.html
+  - title: Uudet opiskelijat
+    href: /phuksit.html
+  - title: Tapahtumat
+    href: /tapahtumat.html
+  - title: Yrityksille
+    href: /yrityksille.html
+  - title: Yhteystiedot
+    href: /yhteystiedot.html
+  - title: In English
+    href: /in-english.html
