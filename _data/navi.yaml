@@ -25,7 +25,19 @@ items:
   - title: Opiskelu
     href: /opiskelu.html
   - title: Uudet opiskelijat
-    href: /phuksit.html
+    href: /phuksit
+    subnavi:
+      items:
+        - title: VarASlähtö
+          href: varaslahto.html
+        - title: Eka päivä
+          href: ekapaiva.html
+        - title: Hyödyllisiä yhteystietoja / linkkejä
+          href: yhteystietojalinkkeja.html
+        - title: Haalarit
+          href: haalarit.html
+        - title: Teekkarilakki
+          href: teekkarilakki.html
   - title: Tapahtumat
     href: /tapahtumat.html
   - title: Yrityksille
