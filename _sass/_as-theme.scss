@@ -77,6 +77,20 @@ body {
     color: $purple-color;
   }
 }
+.subheader__navigation {
+
+  margin-top: $spacing-unit / 4;
+  overflow: hidden;
+  ul {
+   
+    overflow: hidden;
+
+    margin: 0;
+    padding: $spacing-unit /2 0;
+  }
+
+
+}
 
 .navigation__item.active {
   font-weight: bold;
