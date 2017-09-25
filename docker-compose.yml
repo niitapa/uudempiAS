@@ -1,0 +1,18 @@
+version: "2"
+services:
+    jekyllbuild:
+        build:
+            context: "."
+            dockerfile: "jekyll.docker"
+        volumes_from:
+            - nginx
+
+    nginx:
+        build:
+            context: "."
+            dockerfile: "nginx.docker"
+        ports:
+            - "8080:80"
+        volumes:
+            - /usr/share/nginx/html
+            - ".:/data/site-git"

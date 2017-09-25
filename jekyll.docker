@@ -1,0 +1,10 @@
+FROM alpine
+MAINTAINER Your Name "your@name.com"
+
+RUN apk update
+RUN apk add ruby ruby-dev libffi-dev build-base
+RUN gem install jekyll json --no-doc --no-ri
+
+VOLUME ["/usr/share/nginx/html"]
+
+CMD ["jekyll", "build", "--source=/data/site-git", "--destination=/usr/share/nginx/html"]

@@ -1,0 +1,4 @@
+FROM nginx
+MAINTAINER Your Name "your@name.com"
+
+ADD nginx.conf /etc/nginx/conf.d/default.conf
