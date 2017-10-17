@@ -4,6 +4,8 @@ services:
         build:
             context: "."
             dockerfile: "jekyll.docker"
+            args:
+                - COMMIT_HASH=${COMMIT_HASH}
         volumes_from:
             - nginx
 

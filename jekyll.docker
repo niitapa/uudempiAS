@@ -1,13 +1,14 @@
 FROM alpine
 MAINTAINER Your Name "your@name.com"
 
-RUN apk update
-RUN apk add ruby ruby-dev libffi-dev build-base git
+VOLUME ["/usr/share/nginx/html"]
+
+RUN apk update && apk add ruby ruby-dev libffi-dev build-base git
 RUN gem install jekyll json --no-doc --no-ri
+
+ARG COMMIT_HASH
 
 RUN git clone --single-branch --depth 1 https://github.com/kauha/uudempiAS.git \
     /data/site-git
-
-VOLUME ["/usr/share/nginx/html"]
 
 CMD ["jekyll", "build", "--source=/data/site-git", "--destination=/usr/share/nginx/html"]
