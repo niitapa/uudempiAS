@@ -5,6 +5,10 @@ services:
             context: "."
             dockerfile: "jekyll.docker"
             args:
+                # Set this environment variable to the value of the latest
+                # Git commit hash to rebuild only the relevant parts of the
+                # Jekyll image.
+                # E.g. COMMIT_HASH=hash_here docker-compose up --build
                 - COMMIT_HASH=${COMMIT_HASH}
         volumes_from:
             - nginx

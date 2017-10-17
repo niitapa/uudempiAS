@@ -6,6 +6,8 @@ VOLUME ["/usr/share/nginx/html"]
 RUN apk update && apk add ruby ruby-dev libffi-dev build-base git
 RUN gem install jekyll json --no-doc --no-ri
 
+# If this argument has changed, Docker will only use cached data until this
+# point
 ARG COMMIT_HASH
 
 RUN git clone --single-branch --depth 1 https://github.com/kauha/uudempiAS.git \
