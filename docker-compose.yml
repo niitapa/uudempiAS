@@ -15,4 +15,3 @@ services:
             - "8080:80"
         volumes:
             - /usr/share/nginx/html
-            - ".:/data/site-git"
