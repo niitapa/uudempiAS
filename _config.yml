@@ -10,7 +10,7 @@ title: Automaatio- ja systeemitekniikan kilta
 email: hallitus@as.fi
 description: > # this means to ignore newlines until "baseurl:"
   hilipatipimppa
-url: "http://as.fi" # the base hostname & protocol for your site
+url: "http://beta.as.fi" # the base hostname & protocol for your site
 baseurl: ''
 
 # Build settings
