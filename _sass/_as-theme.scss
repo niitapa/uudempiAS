@@ -78,19 +78,21 @@ body {
   }
 }
 .subheader__navigation {
-
-  margin-top: $spacing-unit / 4;
+   margin-top: 7.5px;
   overflow: hidden;
-  ul {
-   
-    overflow: hidden;
+  text-align: center; 
+    margin-bottom: 0 !important;
+    }
 
-    margin: 0;
-    padding: $spacing-unit /2 0;
-  }
-
-
-}
+  .subheader__navigation .navigation__item {
+    display: inline-block;
+    padding: 0 10px;
+    font-size: 1.0em; }
+  .subheader__navigation a, .header__navigation a:visited, .header__navigation a:hover {
+    text-decoration: none;
+    color: #111; }
+  .subheader__navigation a:hover {
+    color: #620062; }
 
 .navigation__item.active {
   font-weight: bold;
