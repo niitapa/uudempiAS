@@ -7,9 +7,10 @@ layout: page
 
     <div class="contact">
         <div>
-            {% if site.data.hallitus.people[0] %}
+            {% assign people = site.data[page.data].people %}
+            {% if people[0] %}
                 {% assign i = 0 %}
-                {% for person in site.data.hallitus.people %}
+                {% for person in people %}
                     {% assign columnI = i | modulo: 2 %}
                     {% if columnI == 0 %}
                         <div class="section group">
