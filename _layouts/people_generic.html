@@ -25,7 +25,7 @@ layout: page
                                         {% else %}
                                             {% assign picture_path = page.placeholder_img %}
                                         {% endif %}
-                                        <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ site.url | append: site.baseurl }}/{{ picture_path }}" alt="">
+                                        <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ picture_path | absolute_url }}" alt="">
                                         <h4 class="contact__person_name contact__person_name--generic">{{ member.name }}</h4>
                                         {% if member.email %}
                                             <div class="contact__section">

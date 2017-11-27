@@ -2,7 +2,7 @@
 
     <div class="header__title">
       <h1 style="margin-bottom: 0px !important;">
-        <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site_full_url }}/static/aswhite.png"/ height="40px" style="margin:20px "><span class="mobile_hide">{{ site.title }}</span></a>
+        <a class="site-title" href="{{ "/" | absolute_url }}"><img src="{{ "/static/aswhite.png" | absolute_url }}" height="40px" style="margin:20px "><span class="mobile_hide">{{ site.title }}</span></a>
       </h1>
     </div>
     <nav class="navigation header__navigation">
@@ -18,7 +18,7 @@
                 {% assign current_page = false %}
               {% endif %}
             <li class="navigation__item {% if current_page %}active{% endif %}">
-              <a href="{{ site_full_url }}{{ item.href }}">{{ item.title }}</a>
+              <a href="{{ item.href | absolute_url }}">{{ item.title }}</a>
             </li>
             {% if current_page and item.subnavi %}
               {% assign subnavi = item.subnavi %}
@@ -32,7 +32,7 @@
         <ul>
             {% for subitem in subnavi.items %}
               <li class="navigation__item {% if subitem.href == subpage_href %}active{% endif %}">
-                <a href="{{ site_full_url }}{{ main_page_href }}{{ subitem.href }}">{{ subitem.title }}</a>
+                <a href="{{ main_page_href | absolute_url }}{{ subitem.href }}">{{ subitem.title }}</a>
               </li>
             {% endfor %}
         </ul>
