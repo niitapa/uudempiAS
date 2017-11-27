@@ -1,31 +1,287 @@
 committees:
-  - name: Säätöjäbät
-    description: Säätöjäbät säätää.
+  - name: Phuksitoimikunta
+    description:
     positions:
-      - name: Säätöpomo
-        description: Pomottaa säätäjiä.
+      # - name: ISOpomo
+        # description:
+        # members:  -
+      - name: Tosi ISOpomo
+        description:
         members:
-          - name: Penis Pippeli
-            email: penis@pippeli.com
-            picture: static/toimijat/2017/antti_mella.jpg
-      - name: Säätöjäbä
-        description: Tää on yks niistä säätäjistä.
+          - name: Charlotta Alén
+      - name: SuurPhuksikapteeni
+        description:
         members:
-          - name: Benis Bibels
-            picture: static/toimijat/2017/antti_mella.jpg
+          - name: Noora Salminen
+      - name: Senior Master of International Affairs
+        description:
+        members:
+          - name: Ville Kauhanen
+
+  - name: Opintotoimikunta
+    description:
+    positions:
+      - name: Automaatti
+        description:
+        members:  Roope Savolainen
+      # - name: Informaatti
+      #   description:
+      #   members:  -
+
+  - name: Kulttuuri- ja liikuntatoimikunta
+    description:
+    positions:
+      # - name: Sitsiohjelmavastaava
+      - name: Tapahtuma- ja kulttuuriexcuvastaava
+        description:
+        members:
+          - name: Sanna Halmkrona
+      - name: Pelimies
+        description:
+        members:
+          - name: Ville Piesala
+      - name: JuomanlASkija
+        description:
+        members:
+          - name: Mikko Hokkanen
+      - name: Jäykkäranne
+        description:
+        members:
+          - name: Matti Ojala
+      - name: Sarjaliikkuja
+        description:
+        members:
+          - name: Juho-Topias Tuomaala
+          - name: Iivo Yrjölä
+      - name: Satunnaisliikkuja
+        description:
+        members:
+          - name: Juho-Topias Tuomaala
+      - name: Manageri
+        description:
+        members:
+          - name: Antti Mella
+
   - name: Huvitoimikunta
-    description: Huvi huvisee
+    description:
     positions:
-      - name: Smurfi
-        description: Tekee ruokaa.
+      - name: Smurffi
+        description:
         members:
-          - name: Sininen Jäbä
-            picture: static/toimijat/2017/antti_mella.jpg
-          - name: Sininen Jäbä
-            picture: static/toimijat/2017/antti_mella.jpg
-          - name: Sininen Jäbä
-            picture: static/toimijat/2017/antti_mella.jpg
-          - name: Sininen Jäbä
-            picture: static/toimijat/2017/antti_mella.jpg
-          - name: Sininen Jäbä
-            picture: static/toimijat/2017/antti_mella.jpg
+          - name: Alex Korpela
+          - name: Niko Soininen
+          - name: Lotta Lumiaro
+          - name: Robert Liias
+          - name: Vesta Kulomaa
+          - name: Ken Riippa
+
+  - name: Kultainen toimitus
+    description:
+    positions:
+      # - name: Kultainen päätoimittaja
+      #   description:
+      #   members:  -
+      - name: Kultainen toimittaja
+        description:
+        members:
+          - name: Sanna Halmkrona
+          - name: Karolina Itäinen
+          - name: Jan Juvonen
+          - name: Antti Mella
+      - name: Kultainen taittaja
+        description:
+        members:
+          - name: Taavi Oja
+      - name: Kultainen graafikko
+        description:
+        members:
+          - name: Taavi Oja
+
+  - name: Lukkaritoimikunta
+    description:
+    positions:
+    - name: Lukkarimestari
+      description:
+      members:
+        - name: Roope Pääkkönen
+    - name: Lukkari
+      description:
+      members:
+        - name: Mikko Hokkanen
+        - name: Jaakko Majuri
+        - name: Arttu Rintala
+        - name: Ilene Blanco
+        - name: Lauri Vapalahti
+
+  - name: Wanhainkoti
+    description:
+    positions:
+      - name: Seniilisihteeri
+      - description:
+      - members:
+        - name: Aapo Rantala
+      # - name: Alumniyhdyshenkilö
+      # - description:
+      # - members: -
+
+  - name: ATK-toimikunta
+    description:
+    positions:
+      - name: Bittimestari
+        description:
+        members: Mikko Peltonen
+      - name: ATK-henkilö
+        description:
+        members:
+          - name: Jaakko Majuri
+          - name: Petteri Nummela
+          - name: Konsta Hölttä
+          - name: Veikka Kähkönen
+      - name: Serverihenkilö
+        description:
+        members:
+          - name: Mikko Mustonen
+
+  - name: ASkitoimikunta
+    description:
+    positions:
+      - name: ASkimestari
+        description:
+        members:
+          - name: Riikka Nousiainen
+      - name: ASkivahti
+        description:
+        members:
+          - name: Arttu Rintala
+          - name: Sanna Halmkrona
+          - name: Ville Eronen
+          - name: Niina Tapananainen
+          - name: Matti Ojala
+
+  - name: Säätötoimikunta
+    description:
+    positions:
+      # - name: Säätöpomo
+      #   description:
+      - name: Säätökisälli
+        description:
+        members:
+          - name: Juhana Kekoni
+          - name: Antti-Jussi Inkinen
+      # - name: Pajavastaava
+      #   description:
+      #   members:
+      # - name: Pajakisälli
+      #   description:
+      #   members:  -
+
+  - name: Yrityssuhdetoimikunta
+    description:
+    positions:
+      - name: Stimulaatio-toimikunnan yrityssuhdevastaava
+        description:
+        members:
+          - name: Sanna Halmkrona
+      - name: Historiikkitoimikunnan yrityssuhdevastaava
+        description:
+        members:
+          - name: Ken Riippa
+          - name: Leo Matikainen
+      - name: Yrityssuhdeneuvonantaja
+        description:
+        members:
+          - name: Severi Casserly
+      - name: TEKSAS ranger
+        description:
+        members:
+          - name: Riikka Nousiainen
+
+  - name: Mediatoimikunta
+    description:
+    positions:
+      - name: Mediakeisari
+        description:
+        members: Miika Lehtimäki
+      - name: Graafikko
+        description:
+        members:
+          - name: Taavi Oja
+          - name: Juhana Kekoni
+      - name: Dokumentoija
+        description:
+        members:
+          - name: Taru Virtanen
+          - name: Helena Kaisanlahti
+          - name: Ville Harmaala
+      - name: Somevastaava
+        description:
+        members:
+          - name: Niina Tapanainen
+          - name: Emma Riikonen
+
+  - name: Stimulaatio-toimikunta
+    description:
+    positions:
+      - name: Stimulantti
+      - description:
+      - members:
+        - name: Jan Juvonen
+
+  - name: Historiikkitoimikunta
+    description:
+    positions:
+      - name: Historiikinkukko
+        description:
+        members:
+          - name: Henry Sanmark
+          - name: Kaisa Hynynen
+      - name: Toimittaja
+        description:
+        members:
+          - name: Sanna Halmkrona
+          - name: Karolina Itäinen
+          - name: Paul Laihonen
+          - name: Joel Huttunen
+      - name: Web-vastaava
+        description:
+        members:
+          - name: Aku Viitanen
+          - name: Juuso Mikkonen
+      - name: Visualisti
+        description:
+        members:
+          - name: Noora Salminen
+          - name: Kaisa Hynynen
+      - name: Arkistovastaava
+        description:
+        members:
+          - name: Laura Gröhn
+
+  - name: Toimikuntien ulkopuolelta
+    description:
+    positions:
+      - name: Sääntöjäbä
+        description:
+        members:
+          - name: Onni Lampi
+          - name: Eero Santamala
+          - name: Olli-Pekka Osmala
+          - name: Antti-Jussi Inkinen
+          - name: Niilo Metsänen
+          - name: Titta Saari
+          - name: Jan Juvonen
+          - name: Matti Ojala
+      - name: Toiminnantarkastaja
+        description:
+        members:
+          - name: Onni Lampi
+          - name: Titta Saari
+      - name: Varatoiminnantarkastaja
+        description:
+        members:
+          - name: Olli-Pekka Osmala
+          - name: Antti-Jussi Inkinen
+      - name: Oltermanni
+        description:
+        members:
+          - name: Ville Kyrki
