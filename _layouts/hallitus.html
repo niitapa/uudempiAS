@@ -17,7 +17,7 @@ layout: page
                     <div class="contact col span_1_of_2">
                         <div class="contact-inline">
                             <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ site.url | append: site.baseurl }}/{{ person.picture }}" alt="">
-                            <h3 class="contact__position_name contact__position_name--hallitus">{{ person.post_name }}</h3>
+                            <h3 class="contact__position_name contact__position_name--hallitus">{{ person.position_name }}</h3>
                             <h4 class="contact__person_name">{{ person.person_name }}</h4>
                             <div class="contact__section">
                                 {% assign email_tokens = person.email | split: '@' %}

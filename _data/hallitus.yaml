@@ -1,5 +1,5 @@
 people:
-  - post_name: Puheenjohtaja
+  - position_name: Puheenjohtaja
     person_name: Titta Saari
     email: puheenjohtaja@as.fi
     phone: 050 413 9000
@@ -9,7 +9,7 @@ people:
 
 Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ottaa yhteyttä."
 
-  - post_name: Rahastonhoitaja
+  - position_name: Rahastonhoitaja
     person_name: Ilkka Malassu
     email: rahastonhoitaja@as.fi
     phone: 050 495 3863
@@ -19,7 +19,7 @@ Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ott
 
 Ota yhteyttä rahastonhoitajaan raha-asioissa."
 
-  - post_name: Sihteeri
+  - position_name: Sihteeri
     person_name: Veikka Kähkönen
     email: sihteeri@as.fi
     phone: 050 463 0996
@@ -29,7 +29,7 @@ Ota yhteyttä rahastonhoitajaan raha-asioissa."
 
 Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
 
-  - post_name: Viestintämestari
+  - position_name: Viestintämestari
     person_name: Karolina Itäinen
     email: viestintamestari@as.fi
     phone: 050 533 3073
@@ -39,7 +39,7 @@ Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
 
 Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
 
-  - post_name: Phuksikapteeni
+  - position_name: Phuksikapteeni
     person_name: Noora Salminen
     email: phuksikapteeni@as.fi
     phone: 050 468 7157
@@ -49,7 +49,7 @@ Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
 
 Ota yhteyttä phuksikapteeniin, jos olet hämmentynyt phuksi."
 
-  - post_name: Isäntä
+  - position_name: Isäntä
     person_name: Sanna Halmkrona
     email: ie@as.fi
     phone: 040 716 0933
@@ -59,7 +59,7 @@ Ota yhteyttä phuksikapteeniin, jos olet hämmentynyt phuksi."
 
 Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
-  - post_name: Emäntä
+  - position_name: Emäntä
     person_name: Taru Virtanen
     email: ie@as.fi
     phone: 040 768 5985
@@ -69,7 +69,7 @@ Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
 Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
-  - post_name: Opintomestari
+  - position_name: Opintomestari
     person_name: Santeri Salmijärvi
     email: opintomestari@as.fi
     phone: 040 171 4947
@@ -79,7 +79,7 @@ Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
 
 Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
 
-  - post_name: Yrityssuhdemestari
+  - position_name: Yrityssuhdemestari
     person_name: Severi Casserly
     email: yrityssuhdemestari@as.fi
     phone: 040 539 0739
@@ -89,7 +89,7 @@ Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
 
 Ota yhteyttä yrityssuhdemestariin, jos asiasi liittyy yrityssuhteisiin."
 
-  - post_name: Kulttuurimestari
+  - position_name: Kulttuurimestari
     person_name: Antti Mella
     email: kulttuurimestari@as.fi
     phone: 040 834 8694
