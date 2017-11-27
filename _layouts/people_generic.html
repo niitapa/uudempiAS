@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+<section>
+    {{ content }}
+
+            {% assign committees = site.data[page.data].committees %}
+            {% if committees[0] %}
+                {% for committee in committees %}
+                    <h2>{{ committee.name }}</h2>
+                    {% for position in committee.positions%}
+                        <h3 class="contact__position_name">{{ position.name }}</h3>
+                        <p>{{ position.description }}</p>
+                        <div>
+                            {% assign i = 0 %}
+                            {% for member in position.members %}
+                                {% assign columnI = i | modulo: 2 %}
+                                {% if columnI == 0 %}
+                                    <div class="section group">
+                                {% endif %}
+                                    <div class="contact col span_1_of_2">
+                                        <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ site.url | append: site.baseurl }}/{{ member.picture }}" alt="">
+                                        <h4 class="contact__person_name contact__person_name--generic">{{ member.name }}</h4>
+                                        {% if member.email %}
+                                            <div class="contact__section">
+                                                {% assign email_tokens = member.email | split: '@' %}
+                                                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ email_tokens[0] }}REMOVETHIS@{{ email_tokens[1] }}">{{ email_tokens[0] }}</a><br>
+                                            </div>
+                                        {% endif %}
+                                    </div>
+                                {% assign lastElement = position.members | size | minus: 1 %}
+                                {% if columnI == 1 or i == lastElement %}
+                                    </div>
+                                {% endif %}
+                                {% assign i = i | plus: 1 %}
+                            {% endfor %}
+                        </div>
+                    {% endfor %}
+                {% endfor %}
+            {% endif %}
+</section>

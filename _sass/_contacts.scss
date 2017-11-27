@@ -22,6 +22,8 @@ $contact-vspacing: 2em;
     margin-bottom: 0;
 }
 
+.contact__person_name--generic {
+    margin-top: $contact-internal-vgap*2;
 }
 
 .contact__section {
