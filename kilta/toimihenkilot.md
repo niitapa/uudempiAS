@@ -3,6 +3,4 @@ layout: people_generic
 title: Toimihenkilöt
 data: toimarit
 ---
-toimarit toimii.
-
-TODO: täytä tämän vuoden jäsenet ja kuvaukset
+Toimikunnat ja -henkilöt ovat killan työvoima, joka järjestää tapahtumia tai muuten pitää killan koossa.
