@@ -1,0 +1,31 @@
+committees:
+  - name: Säätöjäbät
+    description: Säätöjäbät säätää.
+    positions:
+      - name: Säätöpomo
+        description: Pomottaa säätäjiä.
+        members:
+          - name: Penis Pippeli
+            email: penis@pippeli.com
+            picture: static/toimijat/2017/antti_mella.jpg
+      - name: Säätöjäbä
+        description: Tää on yks niistä säätäjistä.
+        members:
+          - name: Benis Bibels
+            picture: static/toimijat/2017/antti_mella.jpg
+  - name: Huvitoimikunta
+    description: Huvi huvisee
+    positions:
+      - name: Smurfi
+        description: Tekee ruokaa.
+        members:
+          - name: Sininen Jäbä
+            picture: static/toimijat/2017/antti_mella.jpg
+          - name: Sininen Jäbä
+            picture: static/toimijat/2017/antti_mella.jpg
+          - name: Sininen Jäbä
+            picture: static/toimijat/2017/antti_mella.jpg
+          - name: Sininen Jäbä
+            picture: static/toimijat/2017/antti_mella.jpg
+          - name: Sininen Jäbä
+            picture: static/toimijat/2017/antti_mella.jpg
