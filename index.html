@@ -4,22 +4,32 @@ layout: default
 
 <div class="home">
     
-<article class="post" style="text-align: center">
+<article class="post">
 
   <div class="post-content">
+    <div class="section group">
 
-<p>Lorem ipsum ja joku esittelyteksti killasta!</p>
+    <div class="col span_1_of_2 info_section">
+      <h1 class="info_section__title">Ajankohtaista</h1>
+      {%for post in site.posts limit:5 %}
+      <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</a></li>
+      {% endfor %}
+      <li><a href="{{ site.baseurl}}/uutiset">Lisää uutisia uutisarkistossa</a></li>
+    </div>
 
-<p>look around you</p>
+    <div class="col span_1_of_2">
+      <div class="info_section">
+        <h1 class="info_section__title">Tulevat tapahtumat</h1>
+        Tapahtumia.
+      </div>
 
+      <div class="info_section">
+        <h1 class="info_section__title">AS? AIT? WTF?</h1>
+        {% include index_content.md %}
+      </div>
+    </div>
 
-<h1>Uusimpia uutisia:</h1>
-{%for post in site.posts limit:5 %}
-<li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</a></li>
-{% endfor %}
-<li><a href="{{ site.baseurl}}/uutiset">Lisää uutisia uutisarkistossa</a></li>
-
-
+    </div>
   </div>
 
 </article>
