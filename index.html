@@ -11,10 +11,23 @@ layout: default
 
     <div class="col span_1_of_2 info_section">
       <h1 class="info_section__title">Ajankohtaista</h1>
-      {%for post in site.posts limit:5 %}
-      <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</a></li>
-      {% endfor %}
-      <li><a href="{{ site.baseurl}}/uutiset">Lisää uutisia uutisarkistossa</a></li>
+      <ul class="post_list">
+        {% for post in site.posts limit: 5 %}
+          <li class="post_list__element">
+            <a href="{{ post.url | absolute_url }}">
+              <h4 class="post_list__title">{{ post.title }}</h4>
+            </a>
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%d.%m.%Y" }}
+            </time>
+            <p>
+              {{ post.excerpt | strip_html }}
+              <a href="{{ post.url | absolute_url }}">Lisää...</a>
+            </p>
+          </li>
+        {% endfor %}
+      </ul>
+      <a href="{{ site.baseurl}}/uutiset">Vanhemmat uutiset</a>
     </div>
 
     <div class="col span_1_of_2">
