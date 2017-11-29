@@ -1,3 +1,5 @@
+$info_item_separation: 0.9em;
+
 .info_section {
     margin-bottom: 1.5em;
 }
@@ -18,5 +20,30 @@
 }
 
 .post_list__element {
-    margin-bottom: 0.4em;
+    margin-bottom: $info_item_separation;
+}
+
+.post_list__excerpt {
+    margin-bottom: 0;
+}
+
+.event_list {
+    list-style-type: none;
+    margin-left: 0;
+}
+
+.event_list__row {
+    display: block;
+    width: 100%;
+}
+
+.event_list .summary {
+    @extend h4;
+    @extend .event_list__row;
+    margin-bottom: 0;
+}
+
+.event_list .description {
+    @extend .event_list__row;
+    margin-bottom: $info_item_separation;
 }

@@ -20,7 +20,7 @@ layout: default
             <time datetime="{{ post.date | date_to_xmlschema }}">
               {{ post.date | date: "%d.%m.%Y" }}
             </time>
-            <p>
+            <p class="post_list__excerpt">
               {{ post.excerpt | strip_html }}
               <a href="{{ post.url | absolute_url }}">Lisää...</a>
             </p>
@@ -33,7 +33,14 @@ layout: default
     <div class="col span_1_of_2">
       <div class="info_section">
         <h1 class="info_section__title">Tulevat tapahtumat</h1>
-        Tapahtumia.
+        <ul id="event-list" class="event_list">
+        </ul>
+        <ul id="event-list-2" class="event_list">
+        </ul>
+
+        <a href="{{ "/tapahtumat" | absolute_url }}">
+          Kaikki tapahtumat
+        </a>
       </div>
 
       <div class="info_section">
@@ -48,3 +55,26 @@ layout: default
 </article>
 
 </div>
+
+<script src="/static/js/moment.min.js"></script>
+<script src="/static/js/format-google-calendar.js"></script>
+<script type="text/javascript">
+  formatGoogleCalendar.init({
+    calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/as.tiedottaja@gmail.com/events?key=AIzaSyCJrtmGOeEFAq912lwijvCmKR33SAtC_qo',
+    past: false,
+    upcoming: true,
+    sameDayTimes: true,
+    dayNames: true,
+    pastTopN: -1,
+    upcomingTopN: 5,
+    recurringEvents: true,
+    itemsTagName: 'li',
+    upcomingSelector: '#event-list',
+    pastSelector: '#event-list-2',
+    upcomingHeading: '',
+    pastHeading: '',
+    format: ['*summary*', '*date*', '*description*'],
+    timeMin: '2016-06-03T10:00:00-07:00',
+    timeMax: '2020-06-03T10:00:00-07:00'
+  });
+</script>
