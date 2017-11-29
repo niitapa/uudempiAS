@@ -405,47 +405,25 @@
     
         //Check differences between dates and format them
         var getFormattedDate = function getFormattedDate(dateStart, dateEnd, dayNames, moreDaysEvent, isAllDayEvent) {
-            var formattedDate = '';
-    
-            if (dateStart[0] === dateEnd[0]) {
-                if (dateStart[1] === dateEnd[1]) {
-                    if (dateStart[2] === dateEnd[2]) {
-                        //month day, year
-                        formattedDate = formatDateSameDay(dateStart, dateEnd, dayNames, moreDaysEvent, isAllDayEvent);
-                    } else {
-                        //month day, year - month day, year
-                        formattedDate = formatDateDifferentYear(dateStart, dateEnd, dayNames);
-                    }
+            var mStart = moment([dateStart[2], dateStart[1], dateStart[0], dateStart[3], dateStart[4]]);
+            var mEnd = moment([dateEnd[2], dateEnd[1], dateEnd[0], dateEnd[3], dateEnd[4]]);
+
+            if (mStart.clone().startOf('day').isSame(mEnd.clone().startOf('day'))) {
+                // Same day
+                if (mStart.isSame(mEnd)) {
+                    // Whole day
+                    return mStart.format('D.M.YYYY');
                 } else {
-                    if (dateStart[2] === dateEnd[2]) {
-                        //month day - month day, year
-                        formattedDate = formatDateDifferentMonth(dateStart, dateEnd, dayNames);
-                    } else {
-                        //month day, year - month day, year
-                        formattedDate = formatDateDifferentYear(dateStart, dateEnd, dayNames);
-                    }
+                    // Part of day
+                    return mStart.format('D.M.YYYY') + ' klo ' +
+                        mStart.format('HH:mm') + mEnd.format('–HH:mm');
                 }
             } else {
-                if (dateStart[1] === dateEnd[1]) {
-                    if (dateStart[2] === dateEnd[2]) {
-                        //month day-day, year
-                        formattedDate = formatDateDifferentDay(dateStart, dateEnd, dayNames);
-                    } else {
-                        //month day, year - month day, year
-                        formattedDate = formatDateDifferentYear(dateStart, dateEnd, dayNames);
-                    }
-                } else {
-                    if (dateStart[2] === dateEnd[2]) {
-                        //month day - month day, year
-                        formattedDate = formatDateDifferentMonth(dateStart, dateEnd, dayNames);
-                    } else {
-                        //month day, year - month day, year
-                        formattedDate = formatDateDifferentYear(dateStart, dateEnd, dayNames);
-                    }
-                }
+                // Multiple days
+                return mStart.format('D.M.YYYY') + ' klo ' +
+                    mStart.format('HH:mm') + mEnd.format(' – D.M.YYYY') + ' klo ' +
+                    mEnd.format('HH:mm');
             }
-    
-            return formattedDate;
         };
     
         var getFormattedTime = function getFormattedTime(date) {
@@ -506,4 +484,3 @@
     
     /***/ })
     /******/ ]);
-    //# sourceMappingURL=format-google-calendar.js.map
