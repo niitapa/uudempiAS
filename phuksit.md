@@ -12,11 +12,12 @@ Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Phuksikapteeniltasi.
 ## Phuksikapteeni
 Phuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti.
 
-KUVA
-Noora Salminen
-[phuksikapteeni](phuksikapteeni@POISTA.as.fi)
-[050 468 7157](tel://0504687157)
-tg @norsu
+![Phuksikapteeni](/static/toimijat/2017/noora_salminen.jpg "Phuksikapteeni")
+
+Noora Salminen<br>
+[phuksikapteeni](mailto:phuksikapteeni@POISTA.as.fi)<br>
+[050 468 7157](tel://0504687157)<br>
+TG @norsu
 
 Koski asia sitten pientä "nice to know"-juttua tai jotakin isompaa huolta, vastaa Phuksikapteeni parhaansa mukaan vaikka keskellä yötä. (Suositellaan kuitenkin yhteydenottoa päivisin.)
 
