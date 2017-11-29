@@ -12,7 +12,7 @@ Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Phuksikapteeniltasi.
 ## Phuksikapteeni
 Phuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti.
 
-![Phuksikapteeni](/static/toimijat/2017/noora_salminen.jpg "Phuksikapteeni")
+![Phuksikapteeni]({{ "/static/toimijat/2017/noora_salminen.jpg" | absolute_url }} "Phuksikapteeni")
 
 Noora Salminen<br>
 [phuksikapteeni](mailto:phuksikapteeni@POISTA.as.fi)<br>
