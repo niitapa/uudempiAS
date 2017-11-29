@@ -56,8 +56,8 @@ layout: default
 
 </div>
 
-<script src="/static/js/moment.min.js"></script>
-<script src="/static/js/format-google-calendar.js"></script>
+<script src="{{ "/static/js/moment.min.js" | absolute_url }}"></script>
+<script src="{{ "/static/js/format-google-calendar.js" | absolute_url }}"></script>
 <script type="text/javascript">
   formatGoogleCalendar.init({
     calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/as.tiedottaja@gmail.com/events?key=AIzaSyCJrtmGOeEFAq912lwijvCmKR33SAtC_qo',
