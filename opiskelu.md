@@ -14,7 +14,7 @@ Verkkoon kytkettyjen laitteiden määrä kasvaa räjähdysmäisesti ja esineiden
 
 ## Sivuaineet
 
-Sivuaineen voit valita minkä tahansa Aalto-yliopiston alaisen korkeakoulun sivuainetarjonnasta. Suurin osa kandidaattivaiheen kohteista on vapaasti valittavissa, mutta huomaa joissakin tapauksissa vaaditu sivuainehaku, joka järjestetään keväisin ja syksyisin. Tarkempaa tietoa sivuaineista löydät tuoreimmasta [sivuaineoppaasta](http://studyguides.aalto.fi/minors-guide/).
+Sivuaineen voit valita minkä tahansa Aalto-yliopiston alaisen korkeakoulun sivuainetarjonnasta. Suurin osa kandidaattivaiheen kohteista on vapaasti valittavissa, mutta huomaa joissakin tapauksissa vaadittu sivuainehaku, joka järjestetään keväisin ja syksyisin. Tarkempaa tietoa sivuaineista löydät tuoreimmasta [sivuaineoppaasta](http://studyguides.aalto.fi/minors-guide/).
 
 ## Linkkejä
 
