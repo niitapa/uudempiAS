@@ -1,6 +1,18 @@
 items:
   - title: Etusivu
     href: /
+    subnavi:
+      directory: kilta
+      items:
+        - title: Foorumi
+          href: http://as.fi/foorumi/
+          absolute: true
+        - title: Tapahtumailmot
+          href: http://as.fi/ilmo/
+          absolute: true
+        - title: Galleria
+          href: http://as.fi/gallery/
+          absolute: true
   - title: Kilta
     href: /kilta
     subnavi:
