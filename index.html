@@ -9,45 +9,47 @@ layout: default
   <div class="post-content">
     <div class="section group">
 
-    <div class="col span_1_of_2 info_section">
-      <h1 class="info_section__title">Ajankohtaista</h1>
-      <ul class="post_list">
-        {% for post in site.posts limit: 5 %}
-          <li class="post_list__element">
-            <a href="{{ post.url | absolute_url }}">
-              <h4 class="post_list__title">{{ post.title }}</h4>
-            </a>
-            <time datetime="{{ post.date | date_to_xmlschema }}">
-              {{ post.date | date: "%d.%m.%Y" }}
-            </time>
-            <p class="post_list__excerpt">
-              {{ post.excerpt | strip_html }}
-              <a href="{{ post.url | absolute_url }}">Lisää...</a>
-            </p>
-          </li>
-        {% endfor %}
-      </ul>
-      <a href="{{ site.baseurl}}/uutiset">Vanhemmat uutiset</a>
+    <div class="col span_1_of_2">
+      <div class="info_section">
+        <h1 class="info_section__title">Ajankohtaista</h1>
+        <ul class="post_list">
+          {% for post in site.posts limit: 5 %}
+            <li class="post_list__element">
+              <a href="{{ post.url | absolute_url }}">
+                <h4 class="post_list__title">{{ post.title }}</h4>
+              </a>
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%d.%m.%Y" }}
+              </time>
+              <p class="post_list__excerpt">
+                {{ post.excerpt | strip_html }}
+                <a href="{{ post.url | absolute_url }}">Lisää...</a>
+              </p>
+            </li>
+          {% endfor %}
+        </ul>
+        <a href="{{ site.baseurl}}/uutiset">Vanhemmat uutiset</a>
+      </div>
     </div>
 
     <div class="col span_1_of_2">
-      <div class="info_section">
-        <h1 class="info_section__title">Tulevat tapahtumat</h1>
-        <ul id="event-list" class="event_list">
-        </ul>
-        <ul id="event-list-2" class="event_list">
-        </ul>
+        <div class="info_section">
+          <h1 class="info_section__title">Mikä AS?</h1>
+          {% capture index_content %}{% include index_content.md %}{% endcapture %}
+          {{ index_content | markdownify }}
+        </div>
 
-        <a href="{{ "/tapahtumat.html" | absolute_url }}">
-          Kaikki tapahtumat
-        </a>
-      </div>
+        <div class="info_section">
+          <h1 class="info_section__title">Tulevat tapahtumat</h1>
+          <ul id="event-list" class="event_list">
+          </ul>
+          <ul id="event-list-2" class="event_list">
+          </ul>
 
-      <div class="info_section">
-        <h1 class="info_section__title">Mikä AS?</h1>
-        {% capture index_content %}{% include index_content.md %}{% endcapture %}
-        {{ index_content | markdownify }}
-      </div>
+          <a href="{{ "/tapahtumat.html" | absolute_url }}">
+            Kaikki tapahtumat
+          </a>
+        </div>
     </div>
 
     </div>
