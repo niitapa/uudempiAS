@@ -44,8 +44,9 @@ layout: default
       </div>
 
       <div class="info_section">
-        <h1 class="info_section__title">AS? AIT? WTF?</h1>
-        {% include index_content.md %}
+        <h1 class="info_section__title">Mikä AS?</h1>
+        {% capture index_content %}{% include index_content.md %}{% endcapture %}
+        {{ index_content | markdownify }}
       </div>
     </div>
 
