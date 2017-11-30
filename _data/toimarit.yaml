@@ -23,7 +23,8 @@ committees:
     positions:
       - name: Automaatti
         description:
-        members:  Roope Savolainen
+        members:
+          - name: Roope Savolainen
       # - name: Informaatti
       #   description:
       #   members:  -
@@ -201,7 +202,8 @@ committees:
     positions:
       - name: Mediakeisari
         description:
-        members: Miika Lehtimäki
+        members:
+          - name: Miika Lehtimäki
       - name: Graafikko
         description:
         members:
