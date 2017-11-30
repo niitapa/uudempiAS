@@ -9,7 +9,7 @@
 title: Automaatio- ja systeemitekniikan kilta
 email: hallitus@as.fi
 description: Aivan Sama!
-url: "http://beta.as.fi" # the base hostname & protocol for your site
+url: "https://beta.as.fi" # the base hostname & protocol for your site
 baseurl: ''
 permalink: /uutiset/:categories/:year/:month/:day/:title.html # DO NOT CHANGE!
 
