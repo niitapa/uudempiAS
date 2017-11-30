@@ -1,1 +1,1 @@
-Tähän esittelyteksti.
+AS on ainejärjestö Aalto-yliopiston AIT-opiskelijoille ja muille AS-henkisille aaltolaisille. [Lue lisää]({{ "http://localhost:4000/kilta/" | absolute_url }}) tai [liity jäseneksi]({{ "http://localhost:4000/kilta/jasenyys.html" | absolute_url }})!
