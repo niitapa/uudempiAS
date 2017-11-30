@@ -5,11 +5,11 @@ title: ASki kartalla
 
 TUAS-talon sijainti:
 
-![](/static/otaniemi.jpg)
+![Otaniemi]({{ "/static/otaniemi.jpg" | absolute_url }})
 
 Reitti ASkiin:
 
-![](/static/aski.png)
+![ASki]({{ "/static/aski.png" | absolute_url }})
 
 ASkin viereisestä ovesta pääsee sisään vain kirjastosta panttia vasten saatavalla magneettiavaimella. Oven vieressä on ovikello, jolla voi hälyttää jonkun avaamaan oven ASkista.
 
