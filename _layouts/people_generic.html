@@ -28,6 +28,11 @@ layout: page
                                             {% endif %}
                                             <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ picture_path | absolute_url }}" alt="">
                                             <h4 class="contact__person_name contact__person_name--generic">{{ member.name }}</h4>
+                                            {% if member.extra_info %}
+                                                <div class="contact__section">
+                                                    <span>{{ member.extra_info }}</span>
+                                                </div>
+                                            {% endif %}
                                             {% if member.email %}
                                                 <div class="contact__section">
                                                     {% assign email_tokens = member.email | split: '@' %}
