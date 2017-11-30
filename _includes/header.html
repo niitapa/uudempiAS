@@ -17,8 +17,13 @@
               {% else %}
                 {% assign current_page = false %}
               {% endif %}
+              {% if item.absolute %}
+                {% assign absolute_href = item.href %}
+              {% else %}
+                {% assign absolute_href = item.href | absolute_url %}
+              {% endif %}
             <li class="navigation__item {% if current_page %}active{% endif %}">
-              <a href="{{ item.href | absolute_url }}">{{ item.title }}</a>
+              <a href="{{ absolute_href }}">{{ item.title }}</a>
             </li>
             {% if current_page and item.subnavi %}
               {% assign subnavi = item.subnavi %}
@@ -31,8 +36,13 @@
       <nav id="navigation_sub" class="navigation subheader__navigation">
         <ul>
             {% for subitem in subnavi.items %}
+              {% if subitem.absolute %}
+                {% assign absolute_href = subitem.href %}
+              {% else %}
+                {% assign absolute_href = main_page_href | absolute_url | append: subitem.href }} %}
+              {% endif %}
               <li class="navigation__item {% if subitem.href == subpage_href %}active{% endif %}">
-                <a href="{{ main_page_href | absolute_url }}{{ subitem.href }}">{{ subitem.title }}</a>
+                <a href="{{ absolute_href }}">{{ subitem.title }}</a>
               </li>
             {% endfor %}
         </ul>
