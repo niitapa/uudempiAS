@@ -18,7 +18,7 @@ Sivuaineen voit valita minkä tahansa Aalto-yliopiston alaisen korkeakoulun sivu
 
 ## Linkkejä
 
-* [Automaatio- ja systeemitekniikan laitos](http://eea.aalto.fi/fi/)
+* [Sähkötekniikan ja automaation laitos](http://eea.aalto.fi/fi/)
 * [Signaalinkäsittelyn ja akustiikan laitos](http://spa.aalto.fi/fi/)
 * [Tietoliikenne- ja tietoverkkotekniikan laitos](http://comnet.aalto.fi/fi/)
 
