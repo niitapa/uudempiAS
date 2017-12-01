@@ -41,7 +41,8 @@
               {% else %}
                 {% assign absolute_href = main_page_href | absolute_url | append: subitem.href }} %}
               {% endif %}
-              <li class="navigation__item {% if subitem.href == subpage_href %}active{% endif %}">
+              {% assign subitem_href = subitem.href | remove: ".html" %}
+              <li class="navigation__item {% if subitem_href  == subpage_href %}active{% endif %}">
                 <a href="{{ absolute_href }}">{{ subitem.title }}</a>
               </li>
             {% endfor %}
