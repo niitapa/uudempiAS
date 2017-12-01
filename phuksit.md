@@ -33,5 +33,5 @@ Koski asia sitten pientä "nice to know"-juttua tai jotakin isompaa huolta, vast
 
 **Lisäksi muista ilmoittautua [VarASlähtöön](https://www.facebook.com/events/1916468011974375/?fref=ts) (la 2.9.-su 3.9.) täyttämällä [lomakkeen](https://goo.gl/forms/Zi4k0sQw9thbLECz1) tai suoraan Phuksikapteenille.** (Katso yhteydtiedot ylempää.) Kerro ilmoittautumisviestissäsi ainakin nimesi ja allergiasi. Lisäksi mainitse, että saisitko auton käyttöösi kuljetusta varten.
 
-### [Phuksiopas](http://as.fi/files/phuksiopas_2017.pdf)
-[Phuksioppaasta](http://as.fi/files/phuksiopas_2017.pdf) löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista.
+### [Phuksiopas](../static/phuksioppaat/phuksiopas_2017.pdf)
+[Phuksioppaasta](../static/phuksioppaat/phuksiopas_2017.pdf) löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista.
