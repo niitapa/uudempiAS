@@ -5,7 +5,7 @@ title: Uudet opiskelijat
 ---
 Hei uusi phuksi ja tervetuloa Automaatio- ja systeemitekniikan kiltaan! Näille sivuille on pyritty kokoamaan kaikkea materiaalia, josta on apua opintojesi alussa ja ehkäpä jopa koko ensimmäisen vuoden ajan.
 
-Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan **[phuksioppaasta](http://as.fi/files/phuksiopas_2017.pdf)**.
+Hyödyllistä tietoa ja vinkkejä koulun alkuun löytyy killan **[phuksioppaasta](../static/phuksioppaat/phuksiopas_2017.pdf)**.
 
 Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Phuksikapteeniltasi. 
 
