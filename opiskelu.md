@@ -2,7 +2,7 @@
 layout: page
 title: Opiskelu
 ---
-Phuksien kannattaa katsoa myös [Uudet opiskelijat -sivut](/phuksit).
+Phuksien kannattaa katsoa myös [Uudet opiskelijat -sivut](phuksit).
 
 ## Automaatio- ja systeemitekniikka
 
