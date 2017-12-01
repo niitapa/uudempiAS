@@ -157,6 +157,15 @@ body {
   background-color: $white-color;
 }
 
+.post-title__info {
+  color: $grey-color;
+}
+
+.post__spacer {
+  border-top: 3px solid $brand-color;
+  width: 4em;
+}
+
 h2 a,
 h3 a,
 h4 a {
