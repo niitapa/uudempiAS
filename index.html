@@ -22,8 +22,8 @@ layout: default
                 {{ post.date | date: "%d.%m.%Y" }}
               </time>
               <p class="post_list__excerpt">
-                {{ post.excerpt | strip_html }}
-                <a href="{{ post.url | absolute_url }}">Lisää...</a>
+                {{ post.excerpt | strip_html | truncate: 90 }}
+                <a href="{{ post.url | absolute_url }}">Lue lisää</a>
               </p>
             </li>
           {% endfor %}
