@@ -16,7 +16,12 @@ layout: page
                 {% endif %}
                     <div class="contact col span_1_of_2">
                         <div class="contact-inline">
-                            <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ person.picture | absolute_url }}" alt="">
+                            {% if person.picture %}
+                                {% assign picture_path = person.picture %}
+                            {% else %}
+                                {% assign picture_path = page.placeholder_img %}
+                            {% endif %}
+                            <img class="contact__photo" style="max-height:200px; margin: 0 auto;" src="{{ picture_path | absolute_url }}" alt="">
                             <h3 class="contact__position_name contact__position_name--hallitus">{{ person.position_name }}</h3>
                             <h4 class="contact__person_name">{{ person.person_name }}</h4>
                             <div class="contact__section">
