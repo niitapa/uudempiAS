@@ -21,7 +21,7 @@ committees:
         description:
         members:
           - name: Ville Kauhanen
-          picture: static/toimijat/2018/ville_kauhanen.jpg
+            picture: static/toimijat/2018/ville_kauhanen.jpg
 
   - name: Opintotoimikunta
     description:
@@ -30,7 +30,7 @@ committees:
         description:
         members:
           - name: Roope Savolainen
-          picture: static/toimijat/2018/roope_savolainen.jpg
+            picture: static/toimijat/2018/roope_savolainen.jpg
       # - name: Informaatti
       #   description:
       #   members:  -
@@ -42,44 +42,44 @@ committees:
         description:
         members:
           - name: Antti Mella
-          picture: static/toimijat/2018/antti_mella.jpg
+            picture: static/toimijat/2018/antti_mella.jpg
       - name: Tapahtuma- ja kulttuuriexcuvastaava
         description:
         members:
           - name: Sanna Halmkrona
-          picture: static/toimijat/2018/sanna_halmkrona.jpg
+            picture: static/toimijat/2018/sanna_halmkrona.jpg
       - name: Pelimies
         description:
         members:
           - name: Ville Piesala
-          picture: static/toimijat/2018/ville_piesala.jpg
+            picture: static/toimijat/2018/ville_piesala.jpg
       - name: JuomanlASkija
         description:
         members:
           - name: Mikko Hokkanen
-          picture: static/toimijat/2018/mikko_hokkanen.jpg
+            picture: static/toimijat/2018/mikko_hokkanen.jpg
       - name: Jäykkäranne
         description:
         members:
           - name: Matti Ojala
-          picture: static/toimijat/2018/matti_ojala.jpg
+            picture: static/toimijat/2018/matti_ojala.jpg
       - name: Sarjaliikkuja
         description:
         members:
           - name: Juho-Topias Tuomaala
-          picture: static/toimijat/2018/juho-topias_tuomaala.jpg
+            picture: static/toimijat/2018/juho-topias_tuomaala.jpg
           - name: Iivo Yrjölä
-          picture: static/toimijat/2018/iivo_yrjölä.jpg
+            picture: static/toimijat/2018/iivo_yrjölä.jpg
       - name: Satunnaisliikkuja
         description:
         members:
           - name: Juho-Topias Tuomaala
-          picture: static/toimijat/2018/juho-topias_tuomaala.jpg
+            picture: static/toimijat/2018/juho-topias_tuomaala.jpg
       - name: Manageri
         description:
         members:
           - name: Antti Mella
-          picture: static/toimijat/2018/antti_mella.jpg
+            picture: static/toimijat/2018/antti_mella.jpg
 
   - name: Huvitoimikunta
     description:
@@ -88,21 +88,21 @@ committees:
         description:
         members:
           - name: Alex Korpela
-          picture: static/toimijat/2018/alex_korpela.jpg
+            picture: static/toimijat/2018/alex_korpela.jpg
           - name: Niko Soininen
-          picture: static/toimijat/2018/niko_soininen.jpg
+            picture: static/toimijat/2018/niko_soininen.jpg
           - name: Lotta Lumiaro
-          picture: static/toimijat/2018/lotta_lumiaro.jpg
+            picture: static/toimijat/2018/lotta_lumiaro.jpg
           - name: Robert Liias
-          picture: static/toimijat/2018/rober_liias.jpg
+            picture: static/toimijat/2018/rober_liias.jpg
           - name: Vesta Kulomaa
-          picture: static/toimijat/2018/vesta_kulomaa.jpg
+            picture: static/toimijat/2018/vesta_kulomaa.jpg
           - name: Ken Riippa
-          picture: static/toimijat/2018/ken_riippa.jpg
+            picture: static/toimijat/2018/ken_riippa.jpg
           - name: Sampo Saloriutta
-          picture: static/toimijat/2018/sampo_saloriutta.jpg
+            picture: static/toimijat/2018/sampo_saloriutta.jpg
           - name: Jyri Kolu
-          picture: static/toimijat/2018/jyri_kolu.jpg
+            picture: static/toimijat/2018/jyri_kolu.jpg
 
   - name: Kultainen toimitus
     description:
@@ -111,26 +111,26 @@ committees:
         description:
         members:  
           - name: Antti Mella
-          picture: static/toimijat/2018/antti_mella.jpg
+            picture: static/toimijat/2018/antti_mella.jpg
       - name: Kultainen toimittaja
         description:
         members:
           - name: Sanna Halmkrona
-          picture: static/toimijat/2018/sanna_halmkrona.jpg
+            picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Karolina Itäinen
-          picture: static/toimijat/2018/karolina_itäinen.jpg
+            picture: static/toimijat/2018/karolina_itäinen.jpg
           - name: Jan Juvonen
-          picture: static/toimijat/2018/jan_juvonen.jpg
+            picture: static/toimijat/2018/jan_juvonen.jpg
       - name: Kultainen taittaja
         description:
         members:
           - name: Taavi Oja
-          picture: static/toimijat/2018/taavi_oja.jpg
+            picture: static/toimijat/2018/taavi_oja.jpg
       - name: Kultainen graafikko
         description:
         members:
           - name: Taavi Oja
-          picture: static/toimijat/2018/taavi_oja.jpg
+            picture: static/toimijat/2018/taavi_oja.jpg
 
   - name: Lukkaritoimikunta
     description:
@@ -139,20 +139,20 @@ committees:
       description:
       members:
         - name: Roope Pääkkönen
-        picture: static/toimijat/2018/roope_pääkkönen.jpg
+          picture: static/toimijat/2018/roope_pääkkönen.jpg
     - name: Lukkari
       description:
       members:
         - name: Mikko Hokkanen
-        picture: static/toimijat/2018/mikko_hokkanen.jpg
+          picture: static/toimijat/2018/mikko_hokkanen.jpg
         - name: Jaakko Majuri
-        picture: static/toimijat/2018/jaakko_majuri.jpg
+          picture: static/toimijat/2018/jaakko_majuri.jpg
         - name: Arttu Rintala
-        picture: static/toimijat/2018/artti_rintala.jpg
+          picture: static/toimijat/2018/artti_rintala.jpg
         - name: Ilene Blanco
-        picture: static/toimijat/2018/ilene_blanco.jpg
+          picture: static/toimijat/2018/ilene_blanco.jpg
         - name: Lauri Vapalahti
-        picture: static/toimijat/2018/lauri_vapalahti.jpg
+          picture: static/toimijat/2018/lauri_vapalahti.jpg
 
   - name: Wanhainkoti
     description:
@@ -161,7 +161,7 @@ committees:
       - description:
       - members:
         - name: Aapo Rantala
-        picture: static/toimijat/2018/aapo_rantala.jpg
+          picture: static/toimijat/2018/aapo_rantala.jpg
       # - name: Alumniyhdyshenkilö
       # - description:
       # - members: -
@@ -173,23 +173,23 @@ committees:
         description:
         members: 
           - name: Mikko Peltonen
-          picture: static/toimijat/2018/mikko_peltonen.jpg
+            picture: static/toimijat/2018/mikko_peltonen.jpg
       - name: ATK-henkilö
         description:
         members:
           - name: Jaakko Majuri
-          picture: static/toimijat/2018/jaakko_majuri.jpg
+            picture: static/toimijat/2018/jaakko_majuri.jpg
           - name: Petteri Nummela
-          picture: static/toimijat/2018/petteri_nummela.jpg
+            picture: static/toimijat/2018/petteri_nummela.jpg
           - name: Konsta Hölttä
-          picture: static/toimijat/2018/konsta_hölttä.jpg
+            picture: static/toimijat/2018/konsta_hölttä.jpg
           - name: Veikka Kähkönen
-          picture: static/toimijat/2018/veikka_kähkönen.jpg
+            picture: static/toimijat/2018/veikka_kähkönen.jpg
       - name: Serverihenkilö
         description:
         members:
           - name: Mikko Mustonen
-          picture: static/toimijat/2018/mikko_mustonen.jpg
+            picture: static/toimijat/2018/mikko_mustonen.jpg
 
   - name: ASkitoimikunta
     description:
@@ -198,20 +198,20 @@ committees:
         description:
         members:
           - name: Riikka Nousiainen
-          picture: static/toimijat/2018/riikka_nousiainen.jpg
+            picture: static/toimijat/2018/riikka_nousiainen.jpg
       - name: ASkivahti
         description:
         members:
           - name: Arttu Rintala
-          picture: static/toimijat/2018/artti_rintala.jpg
+            picture: static/toimijat/2018/artti_rintala.jpg
           - name: Sanna Halmkrona
-          picture: static/toimijat/2018/sanna_halmkrona.jpg
+            picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Ville Eronen
-          picture: static/toimijat/2018/ville_eronen.jpg
+            picture: static/toimijat/2018/ville_eronen.jpg
           - name: Niina Tapanainen
-          picture: static/toimijat/2018/niina_tapanainen.jpg
+            picture: static/toimijat/2018/niina_tapanainen.jpg
           - name: Matti Ojala
-          picture: static/toimijat/2018/matti_ojala.jpg
+            picture: static/toimijat/2018/matti_ojala.jpg
 
   - name: Säätötoimikunta
     description:
@@ -222,19 +222,19 @@ committees:
         description:
         members:
           - name: Juhana Kekoni
-          picture: static/toimijat/2018/juhana_kekoni.jpg
+            picture: static/toimijat/2018/juhana_kekoni.jpg
           - name: Antti-Jussi Inkinen
-          picture: static/toimijat/2018/antti-jussi_inkinen.jpg
+            picture: static/toimijat/2018/antti-jussi_inkinen.jpg
       - name: ELEPajavastaava
         description:
         members:
           - name: Miika Lehtimäki
-          picture: static/toimijat/2018/miika_lehtimäki.jpg
+            picture: static/toimijat/2018/miika_lehtimäki.jpg
       - name: ELEPajakisälli
         description:
         members:  -
           - name: Joose Lindroos
-          picture: static/toimijat/2018/joose_lindroos.jpg
+            picture: static/toimijat/2018/joose_lindroos.jpg
 
   - name: Yrityssuhdetoimikunta
     description:
@@ -243,24 +243,24 @@ committees:
         description:
         members:
           - name: Sanna Halmkrona
-          picture: static/toimijat/2018/sanna_halmkrona.jpg
+            picture: static/toimijat/2018/sanna_halmkrona.jpg
       - name: Historiikkitoimikunnan yrityssuhdevastaava
         description:
         members:
           - name: Ken Riippa
-          picture: static/toimijat/2018/ken_riippa.jpg
+            picture: static/toimijat/2018/ken_riippa.jpg
           - name: Leo Matikainen
-          picture: static/toimijat/2018/leo_matikainen.jpg
+            picture: static/toimijat/2018/leo_matikainen.jpg
       - name: Yrityssuhdeneuvonantaja
         description:
         members:
           - name: Severi Casserly
-          picture: static/toimijat/2018/severi_casserly.jpg
+            picture: static/toimijat/2018/severi_casserly.jpg
       - name: TEKSAS ranger
         description:
         members:
           - name: Riikka Nousiainen
-          picture: static/toimijat/2018/riikka_nousiainen.jpg
+            picture: static/toimijat/2018/riikka_nousiainen.jpg
 
   - name: Mediatoimikunta
     description:
@@ -269,30 +269,30 @@ committees:
         description:
         members:
           - name: Miika Lehtimäki
-          picture: static/toimijat/2018/miika_lehtimäki.jpg
+            picture: static/toimijat/2018/miika_lehtimäki.jpg
       - name: Graafikko
         description:
         members:
           - name: Taavi Oja
-          picture: static/toimijat/2018/taavi_oja.jpg
+            picture: static/toimijat/2018/taavi_oja.jpg
           - name: Juhana Kekoni
-          picture: static/toimijat/2018/juhana_kekoni.jpg
+            picture: static/toimijat/2018/juhana_kekoni.jpg
       - name: Dokumentoija
         description:
         members:
           - name: Taru Virtanen
-          picture: static/toimijat/2018/taru_virtanen.jpg
+            picture: static/toimijat/2018/taru_virtanen.jpg
           - name: Helena Kaisanlahti
-          picture: static/toimijat/2018/helena_kaisanlahti.jpg
+            picture: static/toimijat/2018/helena_kaisanlahti.jpg
           - name: Ville Harmaala
-          picture: static/toimijat/2018/ville_harmaala.jpg
+            picture: static/toimijat/2018/ville_harmaala.jpg
       - name: Somevastaava
         description:
         members:
           - name: Niina Tapanainen
-          picture: static/toimijat/2018/niina_tapanainen.jpg
+            picture: static/toimijat/2018/niina_tapanainen.jpg
           - name: Emma Riikonen
-          picture: static/toimijat/2018/emma_riikonen.jpg
+            picture: static/toimijat/2018/emma_riikonen.jpg
 
   - name: Stimulaatio-toimikunta
     description:
@@ -301,28 +301,28 @@ committees:
         description:
         members:
             - name: Jan Juvonen
-            picture: static/toimijat/2018/jan_juvonen.jpg
+              picture: static/toimijat/2018/jan_juvonen.jpg
       - name: Depressantti
         description:
         members:
             - name: Eero Santamala
-            picture: static/toimijat/2018/eero_santamala.jpg
+              picture: static/toimijat/2018/eero_santamala.jpg
             - name: Elisa Juvonen
-            picture: static/toimijat/2018/elisa_juvonen.jpg
+              picture: static/toimijat/2018/elisa_juvonen.jpg
             - name: Kaisa Hynynen
-            picture: static/toimijat/2018/kaisa_hynynen.jpg
+              picture: static/toimijat/2018/kaisa_hynynen.jpg
             - name: Miika Lehtimäki
-            picture: static/toimijat/2018/miika_lehtimäki.jpg
+              picture: static/toimijat/2018/miika_lehtimäki.jpg
             - name: Noora Salminen
-            picture: static/toimijat/2018/noora_salminen.jpg
+              picture: static/toimijat/2018/noora_salminen.jpg
             - name: Sanna Halmkrona
-            picture: static/toimijat/2018/samma_halmkrona.jpg
+              picture: static/toimijat/2018/samma_halmkrona.jpg
             - name: Taru Virtanen
-            picture: static/toimijat/2018/taru_virtanen.jpg
+              picture: static/toimijat/2018/taru_virtanen.jpg
             - name: Titta Saari
-            picture: static/toimijat/2018/titta_saari.jpg
+              picture: static/toimijat/2018/titta_saari.jpg
             - name: Viet Tran
-            picture: static/toimijat/2018/viet_tran.jpg
+              picture: static/toimijat/2018/viet_tran.jpg
 
   - name: Historiikkitoimikunta
     description:
@@ -331,39 +331,39 @@ committees:
         description:
         members:
           - name: Henry Sanmark
-          picture: static/toimijat/2018/henry_sanmark.jpg
+            picture: static/toimijat/2018/henry_sanmark.jpg
           - name: Kaisa Hynynen
-          picture: static/toimijat/2018/kaisa_hynynen.jpg
+            picture: static/toimijat/2018/kaisa_hynynen.jpg
       - name: Toimittaja
         description:
         members:
           - name: Sanna Halmkrona
-          picture: static/toimijat/2018/sanna_halmkrona.jpg
+            picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Karolina Itäinen
-          picture: static/toimijat/2018/karolina_itäinen.jpg
+            picture: static/toimijat/2018/karolina_itäinen.jpg
           - name: Paul Laihonen
-          picture: static/toimijat/2018/paul_laihonen.jpg
+            picture: static/toimijat/2018/paul_laihonen.jpg
           - name: Joel Huttunen
-          picture: static/toimijat/2018/joel_huttunen.jpg
+            picture: static/toimijat/2018/joel_huttunen.jpg
       - name: Web-vastaava
         description:
         members:
           - name: Aku Viitanen
-          picture: static/toimijat/2018/aku_viitanen.jpg
+            picture: static/toimijat/2018/aku_viitanen.jpg
           - name: Juuso Mikkonen
-          picture: static/toimijat/2018/juuso_mikkonen.jpg
+            picture: static/toimijat/2018/juuso_mikkonen.jpg
       - name: Visualisti
         description:
         members:
           - name: Noora Salminen
-          picture: static/toimijat/2018/noora_salminen.jpg
+            picture: static/toimijat/2018/noora_salminen.jpg
           - name: Kaisa Hynynen
-          picture: static/toimijat/2018/kaisa_hynynen.jpg
+            picture: static/toimijat/2018/kaisa_hynynen.jpg
       - name: Arkistovastaava
         description:
         members:
           - name: Laura Gröhn
-          picture: static/toimijat/2018/laura_gröhn.jpg
+            picture: static/toimijat/2018/laura_gröhn.jpg
 
   - name: Toimikuntien ulkopuolelta
     description:
@@ -372,35 +372,35 @@ committees:
         description:
         members:
           - name: Onni Lampi
-          picture: static/toimijat/2018/onni_lampi.jpg
+            picture: static/toimijat/2018/onni_lampi.jpg
           - name: Eero Santamala
-          picture: static/toimijat/2018/eero_santamala.jpg
+            picture: static/toimijat/2018/eero_santamala.jpg
           - name: Olli-Pekka Osmala
-          picture: static/toimijat/2018/olli-pekka_osmala.jpg
+            picture: static/toimijat/2018/olli-pekka_osmala.jpg
           - name: Antti-Jussi Inkinen
-          picture: static/toimijat/2018/antti-jussi_inkinen.jpg
+            picture: static/toimijat/2018/antti-jussi_inkinen.jpg
           - name: Niilo Metsänen
-          picture: static/toimijat/2018/niilo_metsänen.jpg
+            picture: static/toimijat/2018/niilo_metsänen.jpg
           - name: Titta Saari
-          picture: static/toimijat/2018/titta_saari.jpg
+            picture: static/toimijat/2018/titta_saari.jpg
           - name: Jan Juvonen
-          picture: static/toimijat/2018/jan_juvonen.jpg
+            picture: static/toimijat/2018/jan_juvonen.jpg
           - name: Matti Ojala
-          picture: static/toimijat/2018/matti_ojala.jpg
+            picture: static/toimijat/2018/matti_ojala.jpg
       - name: Toiminnantarkastaja
         description:
         members:
           - name: Onni Lampi
-          picture: static/toimijat/2018/onni_lampi.jpg
+            picture: static/toimijat/2018/onni_lampi.jpg
           - name: Titta Saari
-          picture: static/toimijat/2018/titta_saari.jpg
+            picture: static/toimijat/2018/titta_saari.jpg
       - name: Varatoiminnantarkastaja
         description:
         members:
           - name: Olli-Pekka Osmala
-          picture: static/toimijat/2018/olli-pekka_osmala.jpg
+            picture: static/toimijat/2018/olli-pekka_osmala.jpg
           - name: Antti-Jussi Inkinen
-          picture: static/toimijat/2018/antti-jussi_inkinen.jpg
+            picture: static/toimijat/2018/antti-jussi_inkinen.jpg
       - name: Oltermanni
         description:
         members:
