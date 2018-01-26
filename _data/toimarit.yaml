@@ -232,7 +232,7 @@ committees:
             picture: static/toimijat/2018/miika_lehtimäki.jpg
       - name: ELEPajakisälli
         description:
-        members:  -
+        members:
           - name: Joose Lindroos
             picture: static/toimijat/2018/joose_lindroos.jpg
 
