@@ -4,7 +4,7 @@ people:
     email: puheenjohtaja@as.fi
     phone: 050 581 2974
     username: Kuukuna
-    # picture: static/toimijat/2017/titta_saari.jpg
+    picture: static/toimijat/2018/aku_viitanen.jpg
 #     description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
 
 # Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ottaa yhteyttä."
@@ -14,7 +14,7 @@ people:
     email: rahastonhoitaja@as.fi
     phone: 050 533 3073
     username: Itainek
-    # picture: static/toimijat/2017/ilkka_malassu.jpg
+    picture: static/toimijat/2018/karolina_itäinen.jpg
 #     description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
 
 # Ota yhteyttä rahastonhoitajaan raha-asioissa."
@@ -24,7 +24,7 @@ people:
     email: sihteeri@as.fi
     phone: 044 384 6528
     username: jmajuri
-    # picture: static/toimijat/2017/veikka_kahkonen.jpg
+    # picture: static/toimijat/2018/jaakko_majuri.jpg
 #     description: "Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista. Sihteerin vastuulla on myös jäsenrekisterin ylläpitäminen sekä kiltaa koskevan materiaalin arkistoinnista huolehtiminen.
 
 # Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
@@ -34,7 +34,7 @@ people:
     email: viestintamestari@as.fi
     phone: 040 746 7402
     username: Mughur
-    # picture: static/toimijat/2017/karolina_itäinen.jpg
+    picture: static/toimijat/2018/taavi_oja.jpg
 #     description: "Vastaa jäsenistön tiedottamisesta lähettämällä tiedotteita ja ylläpitämällä kalenteria. Viestintämestari pitää ajan tasalla myös killan sähköpostilistoja ja nettisivujen sisältöä.
 
 # Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
@@ -44,7 +44,7 @@ people:
     email: phuksikapteeni@as.fi
     phone: 040 097 8840
     username: Kauhan
-    # picture: static/toimijat/2017/noora_salminen.jpg
+    picture: static/toimijat/2018/ville_kauhanen.jpg
     # description: "Vastaa killan phuksikasvatuksesta ja -toiminnasta. Järjestää phuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena phukseille. Työskentelee yhteistyössä ISOpomon kanssa."
 
   - position_name: International Student Captain
@@ -52,7 +52,7 @@ people:
     email: isc@as.fi
     phone: 040 559 0724
     username: iltsubee
-    # picture: static/toimijat/2017/noora_salminen.jpg
+    picture: static/toimijat/2018/ilene_blanco.jpg
 #     description: "Vastaa killan kansainvälisten opiskelijoiden phuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä phuksikapteenin kanssa.
 
 # Ota yhteyttä phuksikapteeniin, jos olet hämmentynyt phuksi."
@@ -62,7 +62,7 @@ people:
     email: ie@as.fi
     phone: 040 760 9974
     username: maripulkkinen
-    # picture: static/toimijat/2017/sanna_halmkrona.jpg
+    picture: static/toimijat/2018/mari_pulkkinen.jpg
 #     description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
 
 # Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
@@ -72,7 +72,7 @@ people:
     email: ie@as.fi
     phone: 040 539 0739
     username: SeveriCasserly
-    # picture: static/toimijat/2017/taru_virtanen.jpg
+    picture: static/toimijat/2018/severi_casserly.jpg
     # description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
 
 # Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
@@ -82,27 +82,27 @@ people:
     email: opintomestari@as.fi
     phone: 050 591 5112
     username: Eronen
-    # picture: static/toimijat/2017/santeri_salmijärvi.jpg
+    picture: static/toimijat/2018/ville_eronen.jpg
 #     description: "Ylläpitää yhteyttä koulun henkilökuntaan, pitää itsensä tietoisena tutkinto-ohjelmassa tapahtuvista muutoksista ja vastaa kiltalaisten edunvalvonnasta. Johtaa killan opintotoimikuntaa.
 
 # Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
 
   - position_name: Public Relations Correspondent
     person_name: Leo Matikainen
-    email: yrityssuhdemestari@as.fi
+    email: leo.matikainen@as.fi
     phone: 050 413 0406
-    username: Matte50
-    # picture: static/toimijat/2017/severi_casserly.jpg
+    #username: Matte50
+    picture: static/toimijat/2018/leo_matikainen.jpg
 #     description: "Vastaa killan suhteista yrityksiin ja excursioiden järjestämisestä. Organisoi killan mainosmyyntiä sekä kehittää killan mainetta ja kunniaa yritysten silmissä. Johtaa killan yrityssuhdetoimikuntaa. 
 
 # Ota yhteyttä yrityssuhdemestariin, jos asiasi liittyy yrityssuhteisiin."
 
-  - position_name: Kulttuurimestari
+  - position_name: Master of Culture
     person_name: Arttu Rintala
     email: kulttuurimestari@as.fi
     phone: 050 555 0870
     username: tuliankka
-    # picture: static/toimijat/2017/antti_mella.jpg
+    picture: static/toimijat/2018/arttu_rintala.jpg
 #     description: "Pitää yllä killan vanhoja ulkosuhteita sekä luo uusia. Johtaa kulttuuri- ja liikuntatoimikuntaa ja järjestää sen jäsenten kanssa killalle esim. kulttuuritapahtumia ja lajikokeiluja. Tykkää pitää yhteyttä moneen eri tahoon ja hengailla myös muun kuin violetin väristen ihmisten kanssa.
 
 # Ota yhteyttä kulttuurimestariin, jos asiasi liittyy kulttuuriasioihin."
