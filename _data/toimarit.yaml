@@ -5,18 +5,18 @@ committees:
       - name: ISOpomo
         description:
         members: 
-          - name: Ella Koivula
-          picture: static/toimijat/2018/ella_koivula.jpg
+         - name: Ella Koivula
+           picture: static/toimijat/2018/ella_koivula.jpg
       - name: Tosi ISOpomo
         description:
         members:
           - name: Charlotta Alén
-          picture: static/toimijat/2018/charlotta_alen.jpg
+            picture: static/toimijat/2018/charlotta_alen.jpg
       - name: SuurPhuksikapteeni
         description:
         members:
           - name: Noora Salminen
-          picture: static/toimijat/2018/noora_salminen.jpg
+            picture: static/toimijat/2018/noora_salminen.jpg
       - name: Senior Master of International Affairs
         description:
         members:
