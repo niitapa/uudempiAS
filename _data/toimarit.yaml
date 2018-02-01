@@ -148,7 +148,7 @@ committees:
         - name: Jaakko Majuri
           picture: static/toimijat/2018/jaakko_majuri.jpg
         - name: Arttu Rintala
-          picture: static/toimijat/2018/artti_rintala.jpg
+          picture: static/toimijat/2018/arttu_rintala.jpg
         - name: Ilene Blanco
           picture: static/toimijat/2018/ilene_blanco.jpg
         - name: Lauri Vapalahti
@@ -203,7 +203,7 @@ committees:
         description:
         members:
           - name: Arttu Rintala
-            picture: static/toimijat/2018/artti_rintala.jpg
+            picture: static/toimijat/2018/arttu_rintala.jpg
           - name: Sanna Halmkrona
             picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Ville Eronen
