@@ -5,13 +5,21 @@ committees:
       - description:
         members:
           - name: Ilene Blanco
+            picture:static/toimijat/2018/ilene_blanco.jpg
           - name: Ville Eronen
+            picture: static/toimijat/2018/ville_eronen.jpg
           - name: Sanna Halmkrona
+            picture: static/toimijat/2018/sanna_halmkrona.jpg
           - name: Karolina Itäinen
+            picture: static/toimijat/2018/karolina_itäinen.jpg
           - name: Ville Kauhanen
+            picture: static/toimijat/2018/ville_kauhanen.jpg
           - name: Ville Piesala
+            picture: static/toimijat/2018/ville_piesala.jpg
           - name: Santeri Salmijärvi
+            picture: static/toimijat/2018/santeri_salmijärvi.jpg
           - name: Aku Viitanen
+            picture: static/toimijat/2018/aku_viitanen.jpg
 
   - name: Hallopedit 2017
     description:
@@ -19,6 +27,10 @@ committees:
       - description:
         members:
           - name: Titta Saari
+            picture: static/toimijat/2018/titta_saari.jpg
           - name: Ilkka Malassu
+            picture: static/toimijat/2018/ilkka_malassu.jpg
           - name: Noora Salminen
+            picture: static/toimijat/2018/noora_salminen.jpg
           - name: Santeri Salmijärvi
+            picture: static/toimijat/2018/santeri_salmijärvi.jpg
