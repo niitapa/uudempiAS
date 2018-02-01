@@ -94,7 +94,7 @@ committees:
           - name: Lotta Lumiaro
             picture: static/toimijat/2018/lotta_lumiaro.jpg
           - name: Robert Liias
-            picture: static/toimijat/2018/rober_liias.jpg
+            picture: static/toimijat/2018/robert_liias.jpg
           - name: Vesta Kulomaa
             picture: static/toimijat/2018/vesta_kulomaa.jpg
           - name: Ken Riippa
@@ -316,7 +316,7 @@ committees:
             - name: Noora Salminen
               picture: static/toimijat/2018/noora_salminen.jpg
             - name: Sanna Halmkrona
-              picture: static/toimijat/2018/samma_halmkrona.jpg
+              picture: static/toimijat/2018/sanna_halmkrona.jpg
             - name: Taru Virtanen
               picture: static/toimijat/2018/taru_virtanen.jpg
             - name: Titta Saari
