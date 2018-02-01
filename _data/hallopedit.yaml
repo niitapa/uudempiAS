@@ -1,4 +1,18 @@
 committees:
+  - name: Hallopedit 2018
+    description:
+    positions:
+      - description:
+        members:
+          - name: Ilene Blanco
+          - name: Ville Eronen
+          - name: Sanna Halmkrona
+          - name: Karolina Itäinen
+          - name: Ville Kauhanen
+          - name: Ville Piesala
+          - name: Santeri Salmijärvi
+          - name: Aku Viitanen
+
   - name: Hallopedit 2017
     description:
     positions:
