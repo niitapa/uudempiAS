@@ -5,7 +5,7 @@ committees:
       - description:
         members:
           - name: Ilene Blanco
-            picture:static/toimijat/2018/ilene_blanco.jpg
+            picture: static/toimijat/2018/ilene_blanco.jpg
           - name: Ville Eronen
             picture: static/toimijat/2018/ville_eronen.jpg
           - name: Sanna Halmkrona
