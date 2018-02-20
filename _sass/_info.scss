@@ -1,3 +1,8 @@
+@mixin bulletless-ul {
+    list-style-type: none;
+    margin-left: 0;
+}
+
 $info_item_separation: 0.9em;
 
 .info_section {
@@ -11,8 +16,7 @@ $info_item_separation: 0.9em;
 }
 
 .post_list {
-    list-style-type: none;
-    margin-left: 0;
+    @include bulletless-ul();
 }
 
 .post_list__title {
@@ -28,8 +32,7 @@ $info_item_separation: 0.9em;
 }
 
 .event_list {
-    list-style-type: none;
-    margin-left: 0;
+    @include bulletless-ul();
 }
 
 .event_list__row {
