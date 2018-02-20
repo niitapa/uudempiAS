@@ -1,27 +1,29 @@
 <ul class="post_list">
   {% for post in include.posts limit: include.limit %}
-    <li class="post_list__element">
-      <a href="{{ post.url | absolute_url }}">
-        <h4 class="post_list__title">{{ post.title }}</h4>
-      </a>
-      <time datetime="{{ post.date | date_to_xmlschema }}">
-        {{ post.date | date: "%d.%m.%Y" }}
-      </time>
-      <p class="post_list__excerpt">
-        {{ post.excerpt | strip_html | truncate: 90 }}
-        <a href="{{ post.url | absolute_url }}">Lue lisää</a>
-      </p>
-      {% if include.category_links %}
-        <ul class="post_list__categories">
-          {% for category in post.categories %}
-            <li class="post_list__category_item">
-              <a href="kategoria/{{ category }}">
-                {{ category }}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </li>
+    {% unless post.categories contains include.exclude_category %}
+      <li class="post_list__element">
+        <a href="{{ post.url | absolute_url }}">
+          <h4 class="post_list__title">{{ post.title }}</h4>
+        </a>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%d.%m.%Y" }}
+        </time>
+        <p class="post_list__excerpt">
+          {{ post.excerpt | strip_html | truncate: 90 }}
+          <a href="{{ post.url | absolute_url }}">Lue lisää</a>
+        </p>
+        {% if include.category_links %}
+          <ul class="post_list__categories">
+            {% for category in post.categories %}
+              <li class="post_list__category_item">
+                <a href="{{ '/uutiset/kategoria/' | append: category | absolute_url }}">
+                  {{ category }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>
