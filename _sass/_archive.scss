@@ -1,0 +1,22 @@
+.archive_navi {
+  margin-bottom: $spacing-unit;
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+  }
+
+  &__labels {
+    margin-right: 0.6rem;
+  }
+
+  &__list {
+    @include bulletless-ul();
+
+    margin: 0;
+  }
+
+  &__item {
+    display: inline;
+  }
+}

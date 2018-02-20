@@ -3,18 +3,25 @@ layout: page
 title: Uutiset
 permalink: /uutiset/
 ---
-{% for post in site.posts %}
-  {% unless post.next %}
-  <h1>{{ post.date | date: '%Y' }}</h1>
-  <ul>
-  {% else %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-  {% if year != nyear %}
-  </ul>
-  <h1>{{ post.date | date: '%Y' }}</h1>
-  <ul>
-  {% endif %}
-  {% endunless %}
-  <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</a></li>
-{% endfor %}
+
+<div class="section group">
+  <div class="col span_1_of_2">
+      <h2>Pääuutiset</h2>
+      {% assign main_category_posts = site.categories[site.main_category] %}
+      {%
+        include functions/post-list.html
+        posts=main_category_posts
+        category_links=true
+      %}
+  </div>
+
+  <div class="col span_1_of_2">
+      <h2>Muut uutiset</h2>
+      {%
+        include functions/post-list.html
+        posts=site.posts
+        category_links=true
+        exclude_category=site.main_category
+      %}
+  </div>
+</div>
