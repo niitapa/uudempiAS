@@ -139,6 +139,11 @@ $font-serif: 'Sintony', sans-serif;
     }
 }
 
+@mixin bulletless-ul {
+    list-style-type: none;
+    margin-left: 0;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",

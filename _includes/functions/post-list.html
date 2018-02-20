@@ -11,7 +11,7 @@
         {{ post.excerpt | strip_html | truncate: 90 }}
         <a href="{{ post.url | absolute_url }}">Lue lisää</a>
       </p>
-      {% if include.categories %}
+      {% if include.category_links %}
         <ul class="post_list__categories">
           {% for category in post.categories %}
             <li class="post_list__category_item">
