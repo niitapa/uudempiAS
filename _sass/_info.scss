@@ -31,6 +31,16 @@ $info_item_separation: 0.9em;
     margin-bottom: 0;
 }
 
+.post_list__categories {
+    @include bulletless-ul();
+
+    display: inline;
+}
+
+.post_list__category_item {
+    display: inline;
+}
+
 .event_list {
     @include bulletless-ul();
 }
