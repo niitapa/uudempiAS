@@ -25,7 +25,7 @@ plugins:
   - jekyll-archives
 
 jekyll-archives:
-  enabled: ['year', 'month', 'day', 'category']
+  enabled: ['year', 'month', 'day', 'categories']
   layouts:
     year: archive-year
     month: archive-month
