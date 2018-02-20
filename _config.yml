@@ -12,6 +12,7 @@ description: Aivan Sama!
 url: "https://as.fi" # the base hostname & protocol for your site
 baseurl: ''
 permalink: /uutiset/:year/:month/:day/:title.html # DO NOT CHANGE!
+main_category: 'pääuutiset'
 
 # Build settings
 markdown: kramdown
