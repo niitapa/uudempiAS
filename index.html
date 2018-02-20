@@ -12,22 +12,11 @@ layout: default
     <div class="col span_1_of_2">
       <div class="info_section">
         <h1 class="info_section__title">Ajankohtaista</h1>
-        <ul class="post_list">
-          {% for post in site.posts limit: 5 %}
-            <li class="post_list__element">
-              <a href="{{ post.url | absolute_url }}">
-                <h4 class="post_list__title">{{ post.title }}</h4>
-              </a>
-              <time datetime="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date: "%d.%m.%Y" }}
-              </time>
-              <p class="post_list__excerpt">
-                {{ post.excerpt | strip_html | truncate: 90 }}
-                <a href="{{ post.url | absolute_url }}">Lue lisää</a>
-              </p>
-            </li>
-          {% endfor %}
-        </ul>
+        {%
+          include functions/post-list.html
+          posts=site.posts
+          limit=5
+        %}
         <a href="uutiset">Vanhemmat uutiset</a>
       </div>
     </div>

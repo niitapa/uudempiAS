@@ -1,0 +1,16 @@
+<ul class="post_list">
+  {% for post in include.posts limit: include.limit %}
+    <li class="post_list__element">
+      <a href="{{ post.url | absolute_url }}">
+        <h4 class="post_list__title">{{ post.title }}</h4>
+      </a>
+      <time datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%d.%m.%Y" }}
+      </time>
+      <p class="post_list__excerpt">
+        {{ post.excerpt | strip_html | truncate: 90 }}
+        <a href="{{ post.url | absolute_url }}">Lue lisää</a>
+      </p>
+    </li>
+  {% endfor %}
+</ul>
