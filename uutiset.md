@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Uutiset
+subtitle: Uusimmat
 permalink: /uutiset/
 ---
+
+{% include functions/archive-navi.html %}
 
 <div class="section group">
   <div class="col span_1_of_2">
