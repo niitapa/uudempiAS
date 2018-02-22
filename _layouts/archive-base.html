@@ -2,12 +2,13 @@
 layout: default
 title: Uutiset
 ---
-
 <article class="post">
+
   <header class="post-header">
       <h1 class="post-title">Uutiset</h1>
       {{ content }}
   </header>
+
   <div class="post-content">
     {% include functions/archive-navi.html show_main_news_link=true %}
 
@@ -17,4 +18,5 @@ title: Uutiset
       category_links=true
     %}
   </div>
+
 </article>
