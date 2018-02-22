@@ -9,7 +9,7 @@
         {% for category in site.categories %}
           {% assign category_name = category | first %}
           <li class="archive_navi__item">
-            <a href="/uutiset/kategoria/{{ category_name }}">
+            <a href="{{ '/uutiset/kategoria/' | append: category_name | absolute_url }}">
               {{ category_name }}
             </a>
           </li>
@@ -21,7 +21,7 @@
           {% assign current_year = post_date | date: "%Y" %}
           {% if current_year != previous_year %}
             <li class="archive_navi__item">
-              <a href="/uutiset/{{ current_year }}">
+              <a href="{{ '/uutiset/' | append: current_year | absolute_url }}">
                 {{ current_year }}
               </a>
             </li>
@@ -32,6 +32,6 @@
     </div>
   </div>
   {% if include.show_main_news_link %}
-    <a href="/uutiset">Uusimmat uutiset</a>
+    <a href="{{ '/uutiset/' | absolute_url }}">Uusimmat uutiset</a>
   {% endif %}
 </div>
