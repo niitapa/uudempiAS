@@ -12,9 +12,10 @@ layout: default
     <div class="col span_1_of_2">
       <div class="info_section">
         <h1 class="info_section__title">Ajankohtaista</h1>
+        {% assign main_category_posts = site.categories[site.main_category] %}
         {%
           include functions/post-list.html
-          posts=site.posts
+          posts=main_category_posts
           limit=5
         %}
         <a href="uutiset">Kaikki uutiset</a>
