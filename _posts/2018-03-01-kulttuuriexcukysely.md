@@ -6,4 +6,4 @@ language: fin
 author: Kulttuurimestari
 categories: pääuutiset AS kulttuuri
 ---
-https://docs.google.com/forms/d/e/1FAIpQLSf7P7RuUyPK5dkGMYtWGNfwSjsvBpedozOxL7tQ2AHGSwJ-0Q/viewform?usp=sf_link
+[kyselyn linkki](https://docs.google.com/forms/d/e/1FAIpQLSf7P7RuUyPK5dkGMYtWGNfwSjsvBpedozOxL7tQ2AHGSwJ-0Q/viewform?usp=sf_link)
