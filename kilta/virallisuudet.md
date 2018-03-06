@@ -18,7 +18,6 @@ title: Virallisuudet
 * [Laskupohja (DOC)](http://old.as.fi/files/laskupohja_2016.doc)
  
 * [Esimerkkilasku](http://old.as.fi/files/esimerkkilasku.pdf)
-* [Kiltojen kriisiohjesääntö](http://old.as.fi/files/kriisiohje.pdf)
  
 * Killan Logo:
     - [CDR-muodossa](http://old.as.fi/files/logot/as_plain_BW.cdr)
