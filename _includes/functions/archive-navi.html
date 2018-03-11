@@ -8,7 +8,7 @@
         {% for category in site.categories %}
           {% assign category_name = category | first %}
           <li class="archive_navi__item">
-            <a href="{{ '/uutiset/kategoria/' | append: category_name | absolute_url }}">
+            <a href="{{ '/uutiset/kategoria/' | append: category_name | downcase | absolute_url }}">
               {{ category_name }}
             </a>
           </li>
