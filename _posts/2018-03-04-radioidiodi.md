@@ -10,9 +10,9 @@ Kevät lähestyy, päivät pitenevät ja Radiodiodin 2018 ohjelmantekijäilmoitt
 
 Lisätietoja saat osoitteesta radiodiodi.fi ja sähköpostitse osoitteesta toimitus@radiodiodi.fi.
 
-MIKÄ: Pääkaupunkiseudun pöhisevimmän wappumedian* ohjelmantekijäilmoittautuminen
-MISSÄ: Internetin valtaväylillä, osoitteessa radiodiodi.fi/ilmo
-MILLOIN: n-y-t NYT
+MIKÄ: Pääkaupunkiseudun pöhisevimmän wappumedian* ohjelmantekijäilmoittautuminen<br>
+MISSÄ: Internetin valtaväylillä, osoitteessa radiodiodi.fi/ilmo<br>
+MILLOIN: n-y-t NYT<br>
 MIKSI: Wappu ei ole Wappu ilman omaa radio-ohjelmaa!
 
 *) Radiodiodi on Otaniemestä ponnistava wappuradio. Tänä Wappuna radio kuuluu 16.4. alkaen aina wappuaattoon asti. Lähetyksemme tuotetaan Espoon Otaniemessä, Alvarin aukiolla sijaitsevasta konttistudiosta yhdessä ohjelmantekijöidemme kanssa.

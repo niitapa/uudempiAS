@@ -36,7 +36,7 @@ Aallon yhteiset sivuaineet: Aaltonaut (kanditaso), CS Creative Sustainability (m
 
  
 
-Insiden tapahtumakalenteri: https://inside.aalto.fi/display/tapahtumat/Tervetuloa+Aallon+yhteisille+sivuainemessuille+torstaina+8.3.2018+klo+12+-+14.30 
+Insiden tapahtumakalenteri: https://inside.aalto.fi/display/tapahtumat/Tervetuloa+Aallon+yhteisille+sivuainemessuille+torstaina+8.3.2018+klo+12+-+14.30 <br>
 Into: https://into.aalto.fi/display/fiaalto/Tervetuloa+Aallon+yhteisille+sivuainemessuille+torstaina+8.3.2018+klo+12+-+14.30
 
  
@@ -71,5 +71,5 @@ Aalto’s cross-disciplinary minors: Aaltonaut (bachelor level), CS Creative Sus
 
  
 
-Insiden tapahtumakalenteri: https://inside.aalto.fi/display/tapahtumat/Welcome+to+Aalto+minors+fair+on+Thursday+8+March+2018%2C+at+12%3A00-14%3A30 
+Insiden tapahtumakalenteri: https://inside.aalto.fi/display/tapahtumat/Welcome+to+Aalto+minors+fair+on+Thursday+8+March+2018%2C+at+12%3A00-14%3A30 <br>
 Into: https://into.aalto.fi/display/enaalto/Welcome+to+Aalto+minors+fair+on+Thursday+8+March+2018%2C+at+12%3A00-14%3A30
