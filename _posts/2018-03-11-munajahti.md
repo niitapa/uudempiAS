@@ -11,8 +11,8 @@ categories: aalto workshopit
 Perinteinen kappelin #munajahti2018 tulee taas! Munajahdissa joukkueilla on 3min aikaa etsiä, hamuta, hamstrata ja jahdata kappeliin piilotetut munat. Kahdeksan nopeinta kiltajoukkuetta on mukana, toimi siis heti! Keksikää kiltajoukkueellenne nimi ja varatkaa oma munajahtiaika doodlesta: <http://bit.ly/2FfLiCv>. Jahdin jälkeen luvassa kahvia ja hamstratun saaliin nauttimista. Jahdin järjestävät Aalto-papit ja Tapiolan seurakunta. Älä jää jahdista!
  
 
-Marjut Mulari
-Aalto-pappi / Aalto University Chaplain
-marjut.mulari@evl.fi
-+358 (0)50 365 2256
+Marjut Mulari<br>
+Aalto-pappi / Aalto University Chaplain<br>
+marjut.mulari@evl.fi<br>
++358 (0)50 365 2256<br>
 Otakaari 1, huone M136

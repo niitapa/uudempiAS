@@ -15,13 +15,13 @@ Tapahtuman ajankohta on maaliskuun kolmas viikonloppu 23.-24.3.2018 ja kauempaa 
 Koko tapahtuman hinta on vain 35€ sisältäen koko viikonlopun ohjelman, sekä ruokailun!
 Ilmoittautuminen aukeaa klo 12 maanantaina 19.2. ja päättyy sunnuntaina 11.3. Linkki ilmoittautumiseen julkaistaan tapahtuman fb-sivulla ja naisteekkaripäivien nettisivuilla ilmoittautumisen auetessa.
  
-Linkki fb -tapahtumaan:
-<https://www.facebook.com/events/1592167540860723/>
-Naisteekkaripäivien kotisivut:
+Linkki fb -tapahtumaan:<br>
+<https://www.facebook.com/events/1592167540860723/><br>
+Naisteekkaripäivien kotisivut:<br>
 <https://naisteekkaripaivat.net/>
  
 Nyt on jälleen mahdollisuus osallistua ultimaattiseen teekkarinaisten viikonloppuun!
 Nähdään Naisteekkaripäivillä!
 
-Terveisin Naisteekkaripäivien järjestäjä,
+Terveisin Naisteekkaripäivien järjestäjä,<br>
 Naisteekkarikerho PILE

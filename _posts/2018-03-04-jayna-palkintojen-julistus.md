@@ -16,10 +16,10 @@ Mukana myös Academic Work!
 
 Muista: Kisa on käynnissä.
 
-MITÄ: Jäynäkilpailun palkintojen julkistus ja työnhaun UKK
-MISSÄ: Kandidaattikeskuksen aula, Otakaari 1
-MILLOIN: 14.3.2018 klo 10-14
-MIKSI: Koska tänä keväänä voit pokata itsellesi työpaikan lisäksi myös paikan Jäynäfinaalissa!
+MITÄ: Jäynäkilpailun palkintojen julkistus ja työnhaun UKK<br>
+MISSÄ: Kandidaattikeskuksen aula, Otakaari 1<br>
+MILLOIN: 14.3.2018 klo 10-14<br>
+MIKSI: Koska tänä keväänä voit pokata itsellesi työpaikan lisäksi myös paikan Jäynäfinaalissa!<br>
 KUKA: SINÄ!
 
 Lisätietoja [FB:ssä](https://www.facebook.com/events/1939784859426330/?active_tab=about) tai sähköpostitse ylituomari@jayna.fi.

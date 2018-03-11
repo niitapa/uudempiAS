@@ -14,10 +14,10 @@ Ilmoittaudu mukaan kansainvälisistä opiskelu- ja harjoittelumahdollisuuksista 
 
 Tilaisuus on torstaina 8.3. Klo 16:00-18:00 Harald Herlin Oppimiskeskuksella (Otaniementie 9, Espoo). Tilaisuus on avoin kaikille Aallon opiskelijoille!
 
-Lisätietoa:
+Lisätietoa:<br>
 <https://www.facebook.com/events/882769861883677>
 
-Ilmoittautuminen:
+Ilmoittautuminen:<br>
 <https://goo.gl/forms/981mk3zjhKFzOOhG3>
 
 
@@ -30,7 +30,8 @@ Register yourself to an info event about studying abroad organized together by B
 
 The event is held 8th of March 16.00-18.00 at the Harald Herlin Learning Center (Otaniementie 9, Espoo) The event is open to all Aalto students!
 
-More information:
+More information:<br>
 <https://www.facebook.com/events/882769861883677>
-Registration:
+
+Registration:<br>
 <https://goo.gl/forms/981mk3zjhKFzOOhG3>
