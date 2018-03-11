@@ -12,7 +12,7 @@ It matters not only that you DO study abroad, however – it also matters where.
 
 In this 1 hour free webinar you will learn why for over 10 years we have firmly believed Asia to be an ideal destination for students wanting to get the most out of their study abroad experience. For countless students, studying abroad in Asia has been a life-changing experience, positively impacting their personal and professional lives for years to come.
 
-In this webinar you'll learn about:
+In this webinar (March 14th) you'll learn about:
 
 * the global megatrends that make Asia a top study abroad destination
 * how studying abroad in Asia can be a viable option even for a smaller budget
