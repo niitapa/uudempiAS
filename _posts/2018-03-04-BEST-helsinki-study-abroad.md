@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: BEST Helsinki: Study Abroad 8.3.
 date: 2018-03-04 19:11:00 +0200
