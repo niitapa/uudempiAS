@@ -1,10 +1,9 @@
 <div class="archive_navi">
   <div class="archive_navi__container">
-    <div class="archive_navi__labels">
-      <div>Kategoriat:</div>
-      <div>Vuodet:</div>
-    </div>
-    <div>
+    <div class="archive_navi__subcontainer archive_navi__subcontainer--gap-after">
+      <div>
+        <span>Kategoriat:</span>
+      </div>
       <ul class="archive_navi__list">
         {% for category in site.categories %}
           {% assign category_name = category | first %}
@@ -15,6 +14,11 @@
           </li>
         {% endfor %}
       </ul>
+    </div>
+    <div class="archive_navi__subcontainer">
+      <div>
+        <span>Vuodet:</span>
+      </div>
       <ul class="archive_navi__list">
         {% assign dates = site.posts | map: 'date' %}
         {% for post_date in dates %}
@@ -32,6 +36,8 @@
     </div>
   </div>
   {% if include.show_main_news_link %}
-    <a href="{{ '/uutiset/' | absolute_url }}">Uusimmat uutiset</a>
+    <a href="{{ '/uutiset/' | absolute_url }}" class="archive_navi__main_page_link">
+      Uusimmat uutiset
+    </a>
   {% endif %}
 </div>

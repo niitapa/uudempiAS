@@ -1,12 +1,23 @@
 .archive_navi {
+  $spacer: 1em;
+
   margin-bottom: $spacing-unit;
 
   &__container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
 
-  &__labels {
+  &__subcontainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__subcontainer--gap-after {
+    margin-bottom: $spacer;
+  }
+
+  &__label {
     margin-right: 0.6rem;
   }
 
@@ -18,5 +29,11 @@
 
   &__item {
     display: inline;
+    margin-right: 0.7em;
+  }
+
+  &__main_page_link {
+    display: block;
+    margin-top: $spacer;
   }
 }
