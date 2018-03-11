@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AVP: What Venture Capitalists look for?
+title: "AVP: What Venture Capitalists look for?"
 date: 2018-03-11 12:06:00 +0200
 language: fin
 author: Viestintämestari
