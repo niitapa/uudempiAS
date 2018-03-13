@@ -4,7 +4,7 @@ title: Naisteekkaripäivät 23.-24.3.
 date: 2018-03-01 13:05:00 +0200
 language: fin
 author: Viestintämestari
-categories: muut
+categories: muut tapahtumat
 ---
 Hei!
  

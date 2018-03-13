@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: 31. Jäynäkilpailun palkintojen julistus
+title: 31. Jäynäkilpailun palkintojen julistus 14.3.
 date: 2018-03-04 19:17:00 +0200
 language: fin
 author: Viestintämestari
-categories: muut 
+categories: muut tapahtumat
 ---
 **31. Jäynäkilpailun palkintojen julistus**
 

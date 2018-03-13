@@ -4,7 +4,7 @@ title: "AVP: What Venture Capitalists look for?"
 date: 2018-03-11 12:06:00 +0200
 language: fin
 author: Viestintämestari
-categories: avp workshopit
+categories: opinnot muut
 ---
 # What is a Venture Capitalist looking for in an Enterprise?
  

@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: Vuoden vauhdikkain MUNAJAHTI
+title: Vuoden vauhdikkain MUNAJAHTI 26.3.
 date: 2018-03-11 12:10:00 +0200
 language: fin
 author: Viestintämestari
-categories: aalto workshopit
+categories: muut tapahtumat
 ---
 **Vuoden vauhdikkain MUNAJAHTI Otaniemen kappelilla ma 26.3.2018 klo 14-16!**
 

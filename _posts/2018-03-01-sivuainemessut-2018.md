@@ -4,7 +4,7 @@ title: Sivuainemessut 8.3.
 date: 2018-03-01 13:30:00 +0200
 language: fin
 author: Viestintämestari
-categories: muut aalto opinnot
+categories: aalto opinnot
 ---
 Tervetuloa Aallon yhteisille sivuainemessuille torstaina 8.3.2018 klo 12 - 14.30
 

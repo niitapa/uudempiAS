@@ -4,7 +4,7 @@ title: Fulbright Forum -seminaari 16.3.
 date: 2018-03-04 19:05:00 +0200
 language: eng
 author: Viestintämestari
-categories: seminaarit
+categories: opinnot muut
 ---
 *March 16, Aalto University, Dipoli, Auditorium Lumituuli*
 

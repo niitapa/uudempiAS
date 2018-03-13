@@ -4,7 +4,7 @@ title: Oletko kohdannut häirintää Aallossa? Ota yhteyttä AYY:n häirintäyhd
 date: 2018-03-01 13:32:00 +0200
 language: fin
 author: Viestintämestari
-categories: muut aalto tiedotteet
+categories: aalto
 ---
 Oletko kohdannut häirintää tai epäasiallista kohtelua Aallossa? Ota yhteyttä AYY:n häirintäyhdyshenkilöihin!
 

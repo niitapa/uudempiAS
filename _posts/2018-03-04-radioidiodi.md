@@ -4,14 +4,14 @@ title: Radiodidin ohjelmantekijäilmoittautuminen
 date: 2018-03-04 19:19:00 +0200
 language: eng
 author: Viestintämestari
-categories: muut wappu
+categories: muut
 ---
-Kevät lähestyy, päivät pitenevät ja Radiodiodin 2018 ohjelmantekijäilmoittautuminen on nyt auki. Kerää kaverisi ja varaa paikkasi (mahdollisen) Wapun aitiopaikalle osoitteessa radiodiodi.fi/ilmo !
+Kevät lähestyy, päivät pitenevät ja Radiodiodin 2018 ohjelmantekijäilmoittautuminen on nyt auki. Kerää kaverisi ja varaa paikkasi (mahdollisen) Wapun aitiopaikalle osoitteessa <radiodiodi.fi/ilmo> !
 
 Lisätietoja saat osoitteesta radiodiodi.fi ja sähköpostitse osoitteesta toimitus@radiodiodi.fi.
 
 MIKÄ: Pääkaupunkiseudun pöhisevimmän wappumedian* ohjelmantekijäilmoittautuminen<br>
-MISSÄ: Internetin valtaväylillä, osoitteessa radiodiodi.fi/ilmo<br>
+MISSÄ: Internetin valtaväylillä, osoitteessa <radiodiodi.fi/ilmo><br>
 MILLOIN: n-y-t NYT<br>
 MIKSI: Wappu ei ole Wappu ilman omaa radio-ohjelmaa!
 

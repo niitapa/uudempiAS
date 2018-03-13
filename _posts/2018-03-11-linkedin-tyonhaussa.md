@@ -4,7 +4,7 @@ title: LinkedIn työnhaussa –työpaja
 date: 2018-03-11 12:08:00 +0200
 language: fin
 author: Viestintämestari
-categories: aalto workshopit
+categories: aalto muut
 ---
 ## LinkedIn työnhaussa –työpaja
 Ti 13.3.2018 klo 16.15-17.00, Otakaari 1, U256

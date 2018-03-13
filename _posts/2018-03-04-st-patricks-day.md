@@ -4,7 +4,7 @@ title: Come and celebrate St Patricks day! 16.3.
 date: 2018-03-04 19:13:00 +0200
 language: eng
 author: Viestintämestari
-categories: muut
+categories: muut tapahtumat
 ---
 Tule juhlimaan St Patricksin päivää!
 AYYn kansainvälisyysjaosto Mosaic lähettää sinulle onnea nelinapilanmuodossa.

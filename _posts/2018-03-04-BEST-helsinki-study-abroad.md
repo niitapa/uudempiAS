@@ -4,7 +4,7 @@ title: "BEST Helsinki: Study Abroad 8.3."
 date: 2018-03-04 19:11:00 +0200
 language: eng
 author: Viestintämestari
-categories: BEST opinnot
+categories: opinnot
 ---
 Opiskele ulkomailla! - mukana InnoEnergy
 
