@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: Eeppinen kulttuuriexcukysely
+title: "Eeppinen kulttuuriexcukysely"
 date: 2018-03-01 12:57:00 +0200
 language: fin
 author: Kulttuurimestari

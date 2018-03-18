@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
-title: Oletko kohdannut häirintää Aallossa? Ota yhteyttä AYY:n häirintäyhdyshenkilöihin!
+title: "Oletko kohdannut häirintää Aallossa? Ota yhteyttä AYY:n häirintäyhdyshenkilöihin!"
 date: 2018-03-01 13:32:00 +0200
 language: fin
 author: Viestintämestari
-categories: aalto
+categories: muut aalto tiedotteet
 ---
 Oletko kohdannut häirintää tai epäasiallista kohtelua Aallossa? Ota yhteyttä AYY:n häirintäyhdyshenkilöihin!
 

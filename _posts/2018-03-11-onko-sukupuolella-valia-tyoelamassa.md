@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
-title: Onko sukupuolella väliä työelämässä?
+title: "Onko sukupuolella väliä työelämässä?"
 date: 2018-03-11 12:12:00 +0200
 language: fin
 author: Viestintämestari
-categories: muut 
+categories: TEK 
 ---
 Onko sukupuolella väliä työelämässä?
 

@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: Women of Aalto & Teekkaritytöt Kick Off 8.3.
+title: "Women of Aalto & Teekkaritytöt Kick Off 8.3."
 date: 2018-03-01 13:05:00 +0200
 language: eng
 author: Viestintämestari
@@ -18,10 +18,10 @@ On top of all to make the event even more enjoyable, we are happy to offer you d
 
 The event is for all Aalto students and it will be held in English.
 
-WHAT: Women of Aalto Kick Off & AGM<br>
-WHEN: Thursday 8.3.2018 at 18:00<br>
-WHERE: Atlantinkatu 7A, Rooftop Sauna Lounge<br>
-SIGN UP: <https://goo.gl/forms/G9tmGYKhIMgTNUmC2><br>
-HOW MUCH: Free of charge (no-show fee 5€)<br>
+WHAT: Women of Aalto Kick Off & AGM
+WHEN: Thursday 8.3.2018 at 18:00
+WHERE: Atlantinkatu 7A, Rooftop Sauna Lounge
+SIGN UP: <https://goo.gl/forms/G9tmGYKhIMgTNUmC2>
+HOW MUCH: Free of charge (no-show fee 5€)
 
 In case of cancellation, please contact us by March 4th 2018 at the latest so that we can give your spot to someone else.

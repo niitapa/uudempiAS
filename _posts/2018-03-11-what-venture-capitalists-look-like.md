@@ -4,7 +4,7 @@ title: "AVP: What Venture Capitalists look for?"
 date: 2018-03-11 12:06:00 +0200
 language: fin
 author: Viestintämestari
-categories: opinnot muut
+categories: avp workshopit
 ---
 # What is a Venture Capitalist looking for in an Enterprise?
  
@@ -19,9 +19,9 @@ Join us to the Masterclass by Andreas Stenius to learn about the valuation of an
 For more information, check out the [Facebook event](https://www.facebook.com/events/374966702980901/)
 If you are joining us, click **attending**: [HERE](https://www.facebook.com/events/374966702980901/)
  
-**WHAT**: AVP Wednesday Workshop - What Venture Capitalists look for?<br>
-**WHEN**: 14.3, 1pm - 3pm<br>
-**WHERE**: AVP Space; Maarintie 8, Otaniemi (2nd floor)<br>
+**WHAT**: AVP Wednesday Workshop - What Venture Capitalists look for?
+**WHEN**: 14.3, 1pm - 3pm
+**WHERE**: AVP Space; Maarintie 8, Otaniemi (2nd floor)
 **PRICE**: FREE
 
 

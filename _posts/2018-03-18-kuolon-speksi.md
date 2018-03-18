@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KuoLOn Speksi 25.3.
+title: "KuoLOn Speksi 25.3."
 date: 2018-03-18 19:20:00 +0200
 language: fin
 author: Viestintämestari

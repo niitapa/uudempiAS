@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Tule mukaan Planin maahanmuuttajatyöhön
+title: "Tule mukaan Planin maahanmuuttajatyöhön"
 date: 2018-03-11 12:14:00 +0200
 language: fin
 author: Viestintämestari

@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Studying Abroad Where It Counts – Why & How To Study in Asia
+title: "Studying Abroad Where It Counts – Why & How To Study in Asia"
 date: 2018-03-11 12:01:00 +0200
 language: eng
 author: Viestintämestari

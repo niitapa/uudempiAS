@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
-title: Hae AYY:n Ulkopelitoimikuntaan!
+title: "Hae AYY:n Ulkopelitoimikuntaan!"
 date: 2018-03-11 12:01:00 +0200
 language: fin
 author: Viestintämestari
-categories: AYY
+categories: AYY tiedotteet
 ---
 Hae AYY:n Ulkopelitoimikuntaan!
 
