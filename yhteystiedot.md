@@ -17,7 +17,7 @@ PL 15500<br>
 
 ## Hallitus
 
-* [Hallituksen jäsenten yhteystiedot]({{ "/kilta/hallitus/" | absolute_url }})
+* [Hallituksen jäsenten yhteystiedot]({{ "/kilta/hallitus.html" | absolute_url }})
 * E-mail: hallitus ät as.fi
 
 ## Tilitiedot
