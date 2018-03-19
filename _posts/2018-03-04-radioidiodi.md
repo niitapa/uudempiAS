@@ -4,7 +4,7 @@ title: "Radiodidin ohjelmantekijäilmoittautuminen"
 date: 2018-03-04 19:19:00 +0200
 language: eng
 author: Viestintämestari
-categories: muut wappu
+categories: muut
 ---
 Kevät lähestyy, päivät pitenevät ja Radiodiodin 2018 ohjelmantekijäilmoittautuminen on nyt auki. Kerää kaverisi ja varaa paikkasi (mahdollisen) Wapun aitiopaikalle osoitteessa radiodiodi.fi/ilmo !
 

@@ -4,7 +4,7 @@ title: "Learn How To Make Own Crypto"
 date: 2018-03-04 19:09:00 +0200
 language: eng
 author: Viestintämestari
-categories: avp workshopit
+categories: AVP
 ---
 # Learn How To Make Own Crypto
  

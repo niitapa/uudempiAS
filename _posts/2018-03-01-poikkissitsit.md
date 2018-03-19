@@ -4,7 +4,7 @@ title: "Poikkissitsit 17.3."
 date: 2018-03-01 12:58:00 +0200
 language: fin
 author: IE
-categories: AS sitsit
+categories: AS tapahtumat
 ---
 Tervetuloa Poikkissitseille!
 

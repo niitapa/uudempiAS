@@ -8,13 +8,13 @@ categories: AVP opinnot
 ---
 ## Registration is open for Entrepreneurial Marketing!
  
-The Entrepreneurial Marketing -course covers the core areas of entrepreneurial marketing such as *identifying market opportunities, analyzing market environment, assessing promotional possibilities*, and *building partnerships* and *networks*. These issues are discussed especially from the perspective of technology-based and growth-oriented firms.
+The Entrepreneurial Marketing -course covers the core areas of entrepreneurial marketing such as **identifying market opportunities, analyzing market environment, assessing promotional possibilities**, and **building partnerships** and **networks**. These issues are discussed especially from the perspective of technology-based and growth-oriented firms.
 
 After the course, you will understand the distinctive elements and conceptual frameworks/tools of entrepreneurial marketing and can apply their own business initiatives.
 
 ##### Register through Oodi: [HERE!](https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1121615018)
  
-*Course details*
+**Course details**
 
 - Name: Entrepreneurial Marketing
 - Period: 5
@@ -22,8 +22,8 @@ After the course, you will understand the distinctive elements and conceptual fr
 - Credits: 5 
 - Course code: TU-E4070
 
-*More information about the course: [HERE!](http://avp.aalto.fi/blog/entrepreneurial-marketing-register-now/)* <br>
-*Register Now: [HERE!](https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1121615018)*
+**More information about the course: [HERE!](http://avp.aalto.fi/blog/entrepreneurial-marketing-register-now/)** <br>
+**Register Now: [HERE!](https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1121615018)**
  
 See you at the course!
 
