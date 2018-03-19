@@ -30,12 +30,12 @@ You also have the possibility to participate in various excursions in Taipei and
 
 The price of one semester at Shih Chien University is 1690 EUR. The application fee is 75 EUR. You can also apply for [two semesters](https://www.asiaexchange.org/studying-in-asia/two-semesters-abroad/?utm_source=sendy&utm_medium=email&utm_campaign=call_Taiwan2018), in which case you will receive a 100 EUR discount on the fees of the second semester.
 
-*Semester dates and application deadlines:*
+**Semester dates and application deadlines:**
 
 Autumn 2018:    September 17th, 2018 – January 18th, 2019 (dates still tentative)<br>
 Spring 2019:       February 25th, 2019 – June 14th, 2019 (dates still tentative)
 
-The application period for the upcoming semesters is currently open. The application deadline for the next autumn semester is *May 31st, 2018*.
+The application period for the upcoming semesters is currently open. The application deadline for the next autumn semester is **May 31st, 2018**.
 
 Students applying to Shih Chien University are required to be currently enrolled in an institution of higher education. Detailed application instructions and requirements are found on [our website](https://www.asiaexchange.org/study-destinations/taipei-taiwan/shih-chien-university/#apply?utm_source=sendy&utm_medium=email&utm_campaign=call_Taiwan2018). All you need to do, is to submit us your application online with a few required attachments, and your study abroad placement at Shih Chien University is guaranteed. 
 
@@ -45,7 +45,7 @@ For more information on studying in Taipei and on Shih Chien University, please 
 
 ## Study in East Asia webinar 
 
-You are also welcome to join us for a free webinar on studying in East Asia (Taiwan, China and Korea) on *Wednesday, March 21st, 10 am (CET)*. The webinar lasts for 1 hour, during which you will find out more about how to study also in Taipei easily and affordably. During the webinar, you will also have a chance to ask us any questions you have regarding studies in East Asia. [You can register for the webinar and read more about it here.](https://zoom.us/webinar/register/8915193090334/WN_wqS14NqGQoeyYCYD9hEITg?utm_source=sendy&utm_medium=email&utm_campaign=call_Taiwan2018) 
+You are also welcome to join us for a free webinar on studying in East Asia (Taiwan, China and Korea) on **Wednesday, March 21st, 10 am (CET)**. The webinar lasts for 1 hour, during which you will find out more about how to study also in Taipei easily and affordably. During the webinar, you will also have a chance to ask us any questions you have regarding studies in East Asia. [You can register for the webinar and read more about it here.](https://zoom.us/webinar/register/8915193090334/WN_wqS14NqGQoeyYCYD9hEITg?utm_source=sendy&utm_medium=email&utm_campaign=call_Taiwan2018) 
 
 We are looking forward to welcoming you to study in Taiwan with us!
 

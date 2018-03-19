@@ -4,7 +4,7 @@ title: "Fintech Seminar Spring 2018"
 date: 2018-03-04 19:07:00 +0200
 language: eng
 author: Viestintämestari
-categories: avp seminaarit
+categories: AVP
 ---
 # Fintech Seminar Spring 2018
 
