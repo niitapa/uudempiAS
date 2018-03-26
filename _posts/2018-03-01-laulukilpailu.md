@@ -17,3 +17,17 @@ Kappaleet voi julkaista joko ASn Foorumilla tai lähettää osoitteeseen arttu.r
 Kaikkien sarjojen voittajille on luvassa hienoja palkintoja. Voittajista päättää Arwowaltainen Raati.
 
 Arwowaltainen Raati
+
+---
+
+The annual song competition of AS guild is here again!
+
+The traditional song competition has started again. The competition ends at April 1st. All of the entered songs will be sung at AS’s Wappusitsit.
+
+The competition has, much like last year, three series: AS, Aalto and General. The songs must be themed according to the series. We hope you’ll use some sense on how you word your songs.
+
+The songs can be published either at AS’s Forum or send to arttu.rintala@as.fi. All lyrics have to have the name of the song, melody and a name(s) of the lyricist(s).
+
+There will be cool prizes for the winners of each series. The winners will be decided by a Prestigious Panel.
+
+Prestigious Panel

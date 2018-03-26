@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASkin munajahti 25.-28.3. - ASki's egghunt Mar. 25-28th"
+title: "ASkin munajahti 26.-29.3. - ASki's egghunt Mar. 26-29th"
 date: 2018-03-24 11:50:00 +0200
 language: fin
 author: ASkitmk
@@ -17,7 +17,7 @@ ASkitoimikunta
 
 ASki's egg hunt
 
-Examination week is coming, but so is easter! And what's easter without eastereggs? Nothing! From Monday till Thursday you'll get to hunt eggs at ASki. The eggs will be hidden around AS-guild room (ASki) daily, though not to the kitchen, toilets or otherwise completely unseen places. There will be limited amount of eggs so don't be greedy!
+Examination week is coming, but so is easter! And what's easter without eastereggs? Nothing! From Monday till Thursday you'll get to hunt eggs at ASki during lunchtime. The eggs will be hidden around AS-guild room (ASki) daily, though not to the kitchen, toilets or otherwise completely unseen places. There will be limited amount of eggs so don't be greedy!
 
 Best regards,<br>
 Committee of ASki

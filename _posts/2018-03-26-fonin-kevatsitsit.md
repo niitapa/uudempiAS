@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fonin kevätsitsit 12.4."
-date: 2018-03-24 11:50:00 +0200
+date: 2018-03-26 7:30:00 +0200
 language: fin
 author: ASkitmk
 categories: muut tapahtumat
