@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ASki munajahti 25.-28.3. - ASki egghunt Mar. 25-28th"
+title: "ASkin munajahti 25.-28.3. - ASki's egghunt Mar. 25-28th"
 date: 2018-03-24 11:50:00 +0200
 language: fin
 author: ASkitmk
