@@ -4,7 +4,7 @@ title: "Fonin kevätsitsit 12.4."
 date: 2018-03-24 11:50:00 +0200
 language: fin
 author: ASkitmk
-categories: AS
+categories: muut tapahtumat
 ---
 Arvoisat teekkarit,
 
