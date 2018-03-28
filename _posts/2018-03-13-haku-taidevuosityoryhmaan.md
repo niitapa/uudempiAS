@@ -4,7 +4,7 @@ title: "Haku AYY:n Taidevuosityöryhmään on auki"
 date: 2018-03-13 15:58:00 +0200
 language: fin
 author: Viestintämestari
-categories: ayy
+categories: AYY
 ---
 ## Haku AYY:n Taidevuosityöryhmään on auki
 
