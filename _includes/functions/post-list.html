@@ -16,7 +16,7 @@
           <ul class="post_list__categories">
             {% for category in post.categories %}
               <li class="post_list__category_item">
-                <a href="{{ '/uutiset/kategoria/' | append: category | absolute_url }}">
+                <a href="{{ '/uutiset/kategoria/' | append: category | downcase | absolute_url }}">
                   {{ category }}
                 </a>
               </li>
