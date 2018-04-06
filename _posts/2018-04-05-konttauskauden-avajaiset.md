@@ -12,7 +12,7 @@ Ensimmäinen peli käynnistyy klo 14:00, pelejä pelataan mahdollisuuksien mukaa
 
 Valmistaudu siis kevään kenties naksauttavimpaan kokemukseen, nappaa omat pelijuomasi mukaan ja haasta joukkueesi kanssa muut kevään isoimmalla Kimble-areenalla! Jatkopelit pelataan OK20 pienellä puolella Alvarin aukion hiljettyä. Sauna lämpenee illalla, mutta tarkka jatkoillesiirtyminen riippuu viimeisten pelien aikataulusta.
 
-Konttauksen tarjoaa TTER! Naksuttelussa mukana myös Tactic ja Nokian Panimo!
+Konttauksen tarjoaa TTER! Naksuttelussa mukana myös Tactic, Nokian Panimo ja Olvi!
 
 Mitä: Konttauskauden avajaiset feat. ihmiskimble!<br>
 Missä: Alvarin aukiolla<br>
