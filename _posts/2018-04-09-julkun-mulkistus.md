@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kylän talkoot 5.5. - Village cleanup Apr. 5th"
+title: "Julkun Juhlallinen Julkaisu 20.4."
 date: 2018-04-09 23:20:00 +0200
 language: fin
 author: Viestintämestari
