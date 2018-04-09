@@ -4,7 +4,7 @@ title: "Konttauskauden avajaiset 13.4."
 date: 2018-04-05 20:25:00 +0200
 language: fin
 author: Jäykkäranne
-categories: muut tapahtumat
+categories: AS tapahtumat
 ---
 Konttauskauden avajaiset lähestyvät tuhannen wapun woimalla! Ja Automaatio- ja systeemitekniikan killan 20. juhlavuoden kunniaksi tuo killan kenties pitkäikäisin tapahtuma järjestetään 13.4. perjantaina suurempana kuin koskaan! Alvarin aukio saa hulppeat koristeet valtavan kimblelaudan peittäessä keväistä nurmea. Perinteisen Ihmiskimblen pelaamisen lisäksi luvassa on musiikkia, ruokaa, oheistoimintaa, kontteja sekä eeppistä wappufiilistä! Tätä et todellakaan halua missata!
 
