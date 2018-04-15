@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: tapahtumat
 ---
-###Kylän talkoot###
+**Kylän talkoot**<br>
 Tuliko Wappuna roskattua? Tervetuloa Kylän talkoisiin, jotka järjestetään la 5.5.2018 klo 14 alkaen! Talkoot keskittyvät Otaniemen ympäristön kunnostamiseen ja siistimiseen Wapun jäljiltä. Roskia kerätään kampuksella ja pihaympäristöissä ja siten panostetaan alueen viihtyisyyteen yhteisvoimin. Apuvälineitä, kuten hanskoja, jätesäkkejä ja roskapihtejä, jaetaan kahdessa pisteessä, joista toinen sijaitsee Smökin edustalla ja toinen Servinkujan ja Servin Maijan tien läheisyydessä. 
 
 Ahkeran talkoopäivän päätteeksi Rantasauna lämpenee talkoolaisille klo 18 alkaen. Jälkilöylyjen ohella tarjolla on myös syötävää ja virvokkeita.
@@ -22,7 +22,7 @@ FACEBOOK? <https://www.facebook.com/events/163293011045218/>
 
 ---
 
-Village cleanup
+**Village cleanup**
 
 Did you end up littering during Wappu? Join us in the Otaniemi village cleanup, organized on the 5th of May 2018, starting at 14:00! The cleanup will focus on tidying the Otaniemi environs after the effects of Wappu. Trash is being collected in teams from campus and the yards of tenements, thus committing to beautifying the village. Equipment such as gloves, trash bags and trash grabbers are handed out in two locations; Servin Mökki and in a spot near the intersection of Servinkuja and Servin Maijan tie.
 
