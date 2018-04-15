@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: muut aalto
 ---
-###Palvelurobotit teemana After Work –tilaisuudessa ti 10.4 klo 17.00 alkaen, Maarintie 8 (TUAS-talo), Otaniemi, seminaarihuone 1171-72###
+**Palvelurobotit teemana After Work –tilaisuudessa ti 10.4 klo 17.00 alkaen, Maarintie 8 (TUAS-talo), Otaniemi, seminaarihuone 1171-72**
 
 Tervetuloa ensimmäiseen After Work –tilaisuuteen, joka on kaksiosainen. Tilaisuuden aluksi klo 17 – 17.45 Sähkötekniikan korkeakoulun professori Ville Kyrki kertoo palveluroboteista kaiken sen, mikä sinun tulee aiheesta tietää. Tilaisuuden voi kanssasi osallistua perheenjäseniäsi.
 
