@@ -4,7 +4,7 @@ title: "Career Café 8.5."
 date: 2018-04-22 19:00:00 +0200
 language: fin
 author: Viestintämestari
-categories: muut tapahtumat
+categories: tapahtumat
 ---
 **Career Café 8.5.2018 klo 16-18**<br>
 Tiedätkö jo mitä sinusta tulee isona? Kaipaisitko inspiraatiota urasuunnitelmiisi?
