@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: AVP
 ---
-###Student Societies & Activism
+### Student Societies & Activism
 
 AVP Workshop<br>
 Wednesday, 25th of April<br>

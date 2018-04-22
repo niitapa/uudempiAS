@@ -12,7 +12,7 @@ Automaatio- ja systeemitekniikan killan puolivuotissillis Eskalaatio puhkeaa kuk
 
 Hipat starttaavat kello 12.00 lauantaina 19.5.2018 Teekkarikylän Rantasaunalla (Vastaranta 1, Espoo). Tapahtuman pääsymaksu on etukäteen ilmoittautuneille 20€.
 
-Ilmoittautuminen aukeaa 27.4. klo 12:00 ja sulkeutuu 11.5. klo 23:59 osoitteessa <as.ayy.fi/ilmo/eskalaatio2018>
+Ilmoittautuminen aukeaa 27.4. klo 12:00 ja sulkeutuu 11.5. klo 23:59 osoitteessa <https://as.ayy.fi/ilmo/eskalaatio2018>
 
 MMMMMMM:<br>
 Mitä: Eskalaatio, toukokuun paras sillis<br>
