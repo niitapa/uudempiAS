@@ -11,6 +11,3 @@ Wappuaattona 30.4. koko wappuhulina huipentuu vuoden isoimpiin bileisiin Dipolis
 Ennen keskiyötä juhlakansaa viihdyttävät päälavalla Astral Bazaar, Sima ja Töölön Ketterä, samalla kun DJ-duo Oto X Monsu kiihdyttää menon valonnopeuteen Rave-Caven puolella. Keskiyöllä sulosoinnut tarjoilee tietenkin aito ja oikea Retuperän WBK! Dipolin vilskeessä mukana myös Aalto Beer Pong, Otaniemen Karaokelaulajat ja legendaarinen Dipolin liukumäki.
 
 <https://www.facebook.com/events/1543981349033605/>
-
-Ps. Jos Wappukori, VIP-lippu ja muut työntekijäedut kiinnostavat, voit vielä ilmoittautua vapaaehtoiseksi oheisesta linkistä ;) <br>
----> <https://lomake.ayy.fi/j…/tyontekijaksi-dipolin-wappuun-2018/>
