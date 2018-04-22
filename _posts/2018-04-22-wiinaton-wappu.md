@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wiinaton Wappu 30.4."
-date: 2018-04-15 19:05:00 +0200
+date: 2018-04-22 19:05:00 +0200
 language: fin
 author: Viestintämestari
 categories: tapahtumat
