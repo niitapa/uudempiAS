@@ -6,6 +6,8 @@ language: fin
 author: Viestintämestari
 categories: AYY tapahtumat
 ---
+### LOPPUUNMYYTY
+
 Wappuaattona 30.4. koko wappuhulina huipentuu vuoden isoimpiin bileisiin Dipolissa. Paikalle saapuu 2000 aaltolaista ja meno on sen mukainen! Tänä Wappuna taikasana on #ämpäriwappu. Nouda oma wappuämpärisi lipunmyynneistä Wapun ajan tapahtumista ja nauti lempidrinkkisi bileissä ämpärikoossa!
 
 Ennen keskiyötä juhlakansaa viihdyttävät päälavalla Astral Bazaar, Sima ja Töölön Ketterä, samalla kun DJ-duo Oto X Monsu kiihdyttää menon valonnopeuteen Rave-Caven puolella. Keskiyöllä sulosoinnut tarjoilee tietenkin aito ja oikea Retuperän WBK! Dipolin vilskeessä mukana myös Aalto Beer Pong, Otaniemen Karaokelaulajat ja legendaarinen Dipolin liukumäki.
@@ -13,6 +15,7 @@ Ennen keskiyötä juhlakansaa viihdyttävät päälavalla Astral Bazaar, Sima ja
 <https://www.facebook.com/events/1543981349033605/>
 
 ---
+### SOLD OUT
 
 The Wappu hullabaloo culminates at the biggest party of the year, held at Dipoli on Wappu Eve, the 30th of April. There will be 2000 members of the Aalto community present, and the party will surely look and feel like it!
 

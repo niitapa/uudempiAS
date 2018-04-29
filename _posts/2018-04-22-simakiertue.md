@@ -14,4 +14,4 @@ Vappu lähestyy! Tule tapaamaan Aallon ura- ja rekrytointipalveluiden väkeä TU
 **Enjoy a Cup of Sima & a Donut with Career Services and learn about Aalto Mentoring Programme**<br>
 Tue 24.4.2018 at 11.30-13.30, TUAS Building Lobby (Maarintie 8)
 
-Take a head start for the traditional Finnish Vappu Celebrations with Career Services! Meet us at the TUAS Building Lobby for a cup of refreshing Finnish vappu beverage sima and a delicious donut! Learn about Career Services at ELEC and how to apply for Aalto Mentoring Programme http://alumni.aalto.fi/mentoring. See you at TUAS!
+Take a head start for the traditional Finnish Vappu Celebrations with Career Services! Meet us at the TUAS Building Lobby for a cup of refreshing Finnish vappu beverage sima and a delicious donut! Learn about Career Services at ELEC and how to apply for Aalto Mentoring Programme <http://alumni.aalto.fi/mentoring>. See you at TUAS!
