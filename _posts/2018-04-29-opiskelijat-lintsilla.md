@@ -19,7 +19,7 @@ Liput myynnissä [bailataan.fi](https://bailataan.fi/events/b71e9e0b-84d1-45a0-9
 Mitä: Lintsi vain opiskelijoille!<br>
 Missä: Linnanmäellä<br>
 Milloin: 5.10.2018 klo 16-20<br>
-Mistä tietoa: <as20.fi/linnanmaki>
+Mistä tietoa: <https://as20.fi/linnanmaki>
 
 Liput vaihdetaan rannekkeisiin syksyllä ennen tapahtumaa ja lippua vaihdettaessa tulee esittää opiskelijakortti. Vain lipun ostaneilla on pääsy Linnanmäen alueelle tapahtuman aikana. Linnanmäki on anniskelualuetta, joten omien juomien tuominen alueelle on kiellettyä.
 

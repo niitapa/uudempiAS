@@ -6,8 +6,7 @@ language: fin
 author: Viestintämestari
 categories: tiedotteet
 ---
-Maailma kylässä -festivaali etsii vapaaehtoisia tekemään upeasta, iloisesta ja värikkäästä festivaalista totta jälleen toukokuun viimeisenä viikonloppuna! Vapaaehtoiset ovat se joukko, joka tekee Maailma kylässä –festivaalista yhden kesän upeimmista elämyksistä eikä tapahtuma toteutuisi ilman satoja vapaaehtoisia. Siksi lähestymme nyt juuri teidän organisaatiotanne ja toivomme, että pystyisitte jakamaan tiedon käynnissä olevasta vapaaehtoishausta eteenpäin.
-
+Maailma kylässä -festivaali etsii vapaaehtoisia tekemään upeasta, iloisesta ja värikkäästä festivaalista totta jälleen toukokuun viimeisenä viikonloppuna! Vapaaehtoiset ovat se joukko, joka tekee Maailma kylässä –festivaalista yhden kesän upeimmista elämyksistä eikä tapahtuma toteutuisi ilman satoja vapaaehtoisia.
 
 Vapaaehtoisilta vaaditaan ainoastaan täysi-ikäisyyttä ja iloista asennetta työntekoon. Vapaaehtoistyöskentelystä ei tarvitse olla aikaisempaa kokemusta, sillä opastamme jokaiseen työtehtävään. Työpäivän pituus on noin 8-10 tuntia.  Kiitokseksi arvokkaasta työstä festivaali tarjoaa ruoan, t-paidan, työtodistuksen, kutsun kesäkuun alussa järjestettävään loppukaronkkaan sekä mahtavan festaritunnelman!
 
@@ -23,7 +22,7 @@ Vapaaehtoisen työtehtäviä ovat mm.:
 - Somistus
 - Catering
 
-Ilmoittautuminen on auki ja päättyy 6.5.2018. Ilmoittaudu mukaan osoitteessa <www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>
+Ilmoittautuminen on auki ja päättyy 6.5.2018. Ilmoittaudu mukaan osoitteessa <https://www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>
 
 
 Ystävällisin terveisin,
@@ -35,7 +34,7 @@ E-mail. vapaaehtoiset (at) maailmakylassa.fi
 
 ---
 
-World Village Festival is looking for volunteers to help make this beautiful, joyous and colourful event a reality on the last weekend of May! Volunteers are key in turning World Village Festival into one of the summer’s greatest experiences, and the festival wouldn’t be there without hundreds of volunteers. That is why we are approaching your organization.
+World Village Festival is looking for volunteers to help make this beautiful, joyous and colourful event a reality on the last weekend of May! Volunteers are key in turning World Village Festival into one of the summer’s greatest experiences, and the festival wouldn’t be there without hundreds of volunteers.
 
 The only qualifications we ask for from our volunteers are legal age and a positive attitude for work. Volunteers need no prior experience, as we will train everyone for their duties. The length of a working day is roughly 8–10 hours. As thanks for their hard work, volunteers are provided meals, a t-shirt, an employment certificate, an invitation to our wrap-up party in the beginning of June and an amazing festival atmosphere!
 
@@ -51,7 +50,7 @@ Volunteer duties include:
 - Decorations
 - Catering
 
-Volunteer registration is underway, ending 6 May 2018. Sign up at <www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>
+Volunteer registration is underway, ending 6 May 2018. Sign up at <https://www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>
 
 
 Best regards
