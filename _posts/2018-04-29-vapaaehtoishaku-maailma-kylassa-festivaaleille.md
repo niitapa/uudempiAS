@@ -15,15 +15,15 @@ Maailma kylässä -festivaali järjestetään Kaisaniemen puistossa ja Rautatien
 
 Vapaaehtoisen työtehtäviä ovat mm.:
 
--Festarilehden ja esitteiden jakelu
--Auton kuljettaminen
--Infopiste ja muu opastustoiminta
--Kierrätysneuvonta
--Alueen puhtaanapito
--Somistus
--Catering
+- Festarilehden ja esitteiden jakelu
+- Auton kuljettaminen
+- Infopiste ja muu opastustoiminta
+- Kierrätysneuvonta
+- Alueen puhtaanapito
+- Somistus
+- Catering
 
-Ilmoittautuminen on auki ja päättyy 6.5.2018. Ilmoittaudu mukaan osoitteessa <www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>.
+Ilmoittautuminen on auki ja päättyy 6.5.2018. Ilmoittaudu mukaan osoitteessa <www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>
 
 
 Ystävällisin terveisin,
@@ -43,15 +43,15 @@ World Village Festival is held in Kaisaniemi Park and Railway Square in Helsinki
 
 Volunteer duties include:
 
--Distribution of the festival magazine
--Driving a car
--Working the info desk and other guidance
--Recycling assistance
--Festival area cleaning
--Decorations
--Catering
+- Distribution of the festival magazine
+- Driving a car
+- Working the info desk and other guidance
+- Recycling assistance
+- Festival area cleaning
+- Decorations
+- Catering
 
-Volunteer registration is underway, ending 6 May 2018. Sign up at <www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>.
+Volunteer registration is underway, ending 6 May 2018. Sign up at <www.maailmakylassa.fi/ilmoittautuminen-vapaaehtoiseksi>
 
 
 Best regards

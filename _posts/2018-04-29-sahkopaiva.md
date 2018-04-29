@@ -6,4 +6,4 @@ language: fin
 author: Viestintämestari
 categories: tapahtumat
 ---
-[Linkki mainokseen](https://drive.google.com/open?id=0B3Ye_Z7UqfuRMXdhZlFGeWxBU1AyMU1EQVAwWDFtQ0tPSE1N)
+[Linkki mainokseen](https://drive.google.com/open?id=0B3Ye_Z7UqfuRMXdhZlFGeWxBU1AyMU1EQVAwWDFtQ0tPSE1N) 

@@ -12,4 +12,4 @@ Come and meet new people, get inspired and enjoy delicious food at the Internati
 
 TEK member, sign up here: <https://www.lyyti.fi/reg/International_Spring_Event_1908>
 
-More information: <https://www.tek.fi/en/membership/international-spring-event>
+More information: <https://www.tek.fi/en/membership/international-spring-event> 

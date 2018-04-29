@@ -23,4 +23,4 @@ Mistä tietoa: <as20.fi/linnanmaki>
 
 Liput vaihdetaan rannekkeisiin syksyllä ennen tapahtumaa ja lippua vaihdettaessa tulee esittää opiskelijakortti. Vain lipun ostaneilla on pääsy Linnanmäen alueelle tapahtuman aikana. Linnanmäki on anniskelualuetta, joten omien juomien tuominen alueelle on kiellettyä.
 
-Järjestäjä pidättää oikeuden muutoksiin.
+Järjestäjä pidättää oikeuden muutoksiin. 
