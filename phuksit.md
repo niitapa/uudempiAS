@@ -12,7 +12,7 @@ Jos tietoa ei löydy täältä, kysy tarkempaa tietoa Phuksikapteeniltasi.
 ## Phuksikapteeni
 Phuksikapteeni on se tyyppi johon otat yhteyttä kun ihan mikä tahansa on huonosti tai muuten vaan :)
 
-![Phuksikapteeni]({{ "/static/toimijat/2018/ville_kauhanen.jpg" | absolute_url }} "Phuksikapteeni"){:height="200px" width="200px" border-radius="50%"}
+![Phuksikapteeni]({{ "/static/toimijat/2018/ville_kauhanen.jpg" | absolute_url }} "Phuksikapteeni"){:height="200px" width="200px" style="border-radius:50%;"}
 
 Ville Kauhanen<br>
 [phuksikapteeni](mailto:phuksikapteeni@POISTAas.fi)<br>
