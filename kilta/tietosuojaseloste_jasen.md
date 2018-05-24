@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Tietosuojaseloste
+title: "Tietosuojaseloste: Jäsenrekisteri"
 ---
 Tämä  on  EU:n  yleisen  tietosuoja-asetuksen  (GDPR)  mukainen  rekisteri-  ja  tietosuojaseloste. Laatimispäivämäärä  24.5.2018
 
 #### 1. Rekisterin pitäjä
 
-Automaatio- ja systeemitekniikan kilta ry myöhemmin “Kilta”
+Automaatio- ja systeemitekniikan kilta ry (myöhemmin “Kilta”)
 
 PL 15500<br>
 00076 Aalto
