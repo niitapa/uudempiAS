@@ -41,7 +41,7 @@ Tietolähteenä on Aalto-yliopiston Ylioppilaskunnan toimittamat tiedot yhdistyk
 #### 7. Tietojen luovutus
 
 Tietoja voidaan käyttää killan toiminnassa Killan hallituksen määräämällä tavalla. <br>
-Yhdistyslain 11 § 2 mom:n mukaisesti kaikilla Killan jäsenillä on oikeus tutustua tietoihin kaikkien jäsenten nimestä, kotipaikasta ja jäsenyystyypistä. 
+Yhdistyslain 11 § 2 mom:n mukaisesti kaikilla Killan jäsenillä on oikeus tutustua tietoihin kaikkien jäsenten nimestä, kotipaikasta ja jäsenyystyypistä. <br>
 Tietoja ei luovuteta Killan ulkopuolelle.
 
 #### 8. Rekisterin suojauksen periaatteet
