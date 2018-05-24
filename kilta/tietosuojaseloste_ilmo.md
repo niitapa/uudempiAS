@@ -6,10 +6,10 @@ Tämä  on  EU:n  yleisen  tietosuojaasetuksen  (GDPR)  mukainen  rekisteri-  ja
 
 #### 1. Rekisterin pitäjä
 
-Automaatio- ja systeemitekniikan kilta ry (myöhemmin "Kilta")
+Automaatio- ja systeemitekniikan kilta ry (myöhemmin “Kilta“)
 
 PL 15500<br>
-0076 Aalto
+00076 Aalto
 
 #### 2. Rekisteriasioita hoitava henkilö
 
@@ -43,7 +43,7 @@ Tietoja käytetään kunkin ilmoittautumisen tarpeiden mukaisesti. Tietoja käsi
 
 #### 8. Rekisterin suojauksen periaatteet
 
-Tietoja säilytetään Killan palvelimella, johon on fyysinen pääsy Killan hallituksella ja ASkitoimikunnalla. Tietoihin on pääsyä on rajattu palvelimen käyttäjäoikeuksilla.
+Tietoja säilytetään Killan palvelimella, johon on fyysinen pääsy Killan hallituksella ja ASkitoimikunnalla. Tietoihin pääsyä on rajattu palvelimen käyttäjäoikeuksilla.
 
 #### 9. Tietojen tarkastusoikeus ja oikeus vaatia tiedon korjaamista
 
