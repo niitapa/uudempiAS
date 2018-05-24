@@ -4,6 +4,7 @@ title: Virallisuudet
 ---
 * [Säännöt](http://old.as.fi/kilta/virallisuudet/saannot/)
 * [Rekisteriseloste](http://old.as.fi/kilta/virallisuudet/rekisteriseloste/)
+* [Tietosuojaseloste](https://as.fi/kilta/tietosuojaseloste.html)
 * [Excursio-ohjesääntö](http://old.as.fi/kilta/virallisuudet/excuohje/)
 * [Haalariohjesääntö](http://old.as.fi/kilta/virallisuudet/haalariohjesaanto/)
 * [Merkkiohjesääntö](http://old.as.fi/kilta/virallisuudet/merkkiohje/)
@@ -27,8 +28,6 @@ title: Virallisuudet
     - [PNG-muodossa](http://old.as.fi/files/logot/as_plain_bw.png)
 * [Killan lippu](http://old.as.fi/files/lippu2.jpg)
 * [Killan ansiomerkit](http://old.as.fi/files/pranikat3.jpg)
-* [Hallitusten ja killan kokousten pöytäkirjat](http://old.as.fi/files/pyokit/)
-* [Pöytäkirjat 2014](http://as.ayy.fi/ASkiWiki/Hallitus/)
 * [Kimblen säännöt](http://old.as.fi/files/kimblesaannot.pdf)
 * [Kimblen pelilistasäännöt](http://old.as.fi/files/kimblelista.pdf)
 * [3D-kimblen säännöt](http://old.as.fi/files/3dkimblesaannot.pdf)
