@@ -7,12 +7,13 @@ Tämä  on  EU:n  yleisen  tietosuojaasetuksen  (GDPR)  mukainen  rekisteri-  ja
 #### 1. Rekisterin pitäjä
 
 Automaatio- ja systeemitekniikan kilta ry (myöhemmin "Kilta")
-PL 15500
+
+PL 15500<br>
 0076 Aalto
 
 #### 2. Rekisteriasioita hoitava henkilö
 
-Hallituksen sihteeri
+Hallituksen sihteeri<br>
 sihteeri@as.fi
 
 #### 3. Rekisterin nimi
