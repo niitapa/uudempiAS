@@ -35,7 +35,8 @@ Varaslähdöstä tulee lisätietoa myöhemmin, mutta se sijoittuu elokuun viimei
 
 ### [Phuksiopas](../static/phuksioppaat/phuksiopas_2018.pdf)
 
-<div data-configid="33680237/62153820" style="width:100%; height:284px;" class="issuuembed"></div>
+<div data-configid="33680237/62153820" style="width:100%; height:500px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
-Tässä uusin phuksiopas, löydät siitä monta monituista vastausta kysymyksiin :) <br>
-[Phuksioppaasta](../static/phuksioppaat/phuksiopas_2018.pdf) löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista.
+<br>
+Phuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) <br>
+[Lataa pdf](../static/phuksioppaat/phuksiopas_2018.pdf)
