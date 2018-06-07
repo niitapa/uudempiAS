@@ -34,9 +34,10 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikaptee
 Varaslähdöstä tulee lisätietoa myöhemmin, mutta se sijoittuu elokuun viimeisille viikonlopuille.
 
 ### [Phuksiopas](../static/phuksioppaat/phuksiopas_2018.pdf)
-
+<br>
+Phuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) 
+<br>
 <div data-configid="33680237/62153820" style="width:100%; height:500px;" class="issuuembed"></div>
 <script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 <br>
-Phuksioppaasta löytyy hyödyllistä tietoa killasta ja ensimmäisen vuoden opinnoista :) <br>
 [Lataa pdf](../static/phuksioppaat/phuksiopas_2018.pdf)
