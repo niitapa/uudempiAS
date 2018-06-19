@@ -13,7 +13,7 @@ Uudet phuksit saavat AS:n kauniin violetit haalarit Haalarigaalassa, joka järje
 
 ## Tilaaminen
 
-Vuosimallin 2017 haalareita voi tilata Ekana päivänä (ma 4.9.). Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! 
+Vuosimallin 2018 haalareita voi tilata Ekana päivänä (ma 3.9.). Lisätilaukset tulevat kalliiksi, joten jos aiot tilata, se kannattaa tehdä heti! 
 
 Tilaus on sitova. 
 
