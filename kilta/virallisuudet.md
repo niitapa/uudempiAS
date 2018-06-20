@@ -6,7 +6,7 @@ title: Virallisuudet
 * [Rekisteriseloste](http://old.as.fi/kilta/virallisuudet/rekisteriseloste/)
 * [Tietosuojaseloste: Jäsenrekisteri](https://as.fi/kilta/tietosuojaseloste_jasen.html)
 * [Tietosuojaseloste: Ilmomasiina](https://as.fi/kilta/tietosuojaseloste_ilmo.html)
-* [Excursio-ohjesääntö](https://as.fi/kilta(excuohje.html)
+* [Excursio-ohjesääntö](https://as.fi/kilta/excuohje.html)
 * [Haalariohjesääntö](https://as.fi/kilta/haalariohjesaanto.html)
 * [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
 * [Lippuohjesääntö](https://as.fi/kilta/lippuohje.html)
