@@ -148,7 +148,7 @@ Kokous voi perustellusta syystä vapauttaa luottamus- tai toimihenkilön tehtäv
 
 Killan asioita hoitaa kalenterivuodeksi kerrallaan valittu hallitus. Hallitukseen kuuluu puheenjohtaja sekä neljästä kymmeneen (4-10) muuta jäsentä, joihin lukeutuu taloudesta vastaava henkilö ja sihteerin tehtävistä vastaava henkilö. Vain killan varsinaiset jäsenet ovat vaalikelpoisia killan hallituksen puheenjohtajaksi.
 
-** 21 § Hallituksen tehtävät**
+**21 § Hallituksen tehtävät**
 
 Hallituksen tehtäviin kuuluu:
 

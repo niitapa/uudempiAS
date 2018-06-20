@@ -13,7 +13,6 @@ PL 15500<br>
 ## Kiltahuone
 
 * Käyntiosoite: Maarintie 8 (ent. Otaniementie 17), Espoo ([kartta]({{ "/kilta/askikartta/" | absolute_url }}))
-* Kiltahuoneen puhelin: 050 432 9223
 
 ## Hallitus
 

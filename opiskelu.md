@@ -24,9 +24,9 @@ Sivuaineen voit valita minkä tahansa Aalto-yliopiston alaisen korkeakoulun sivu
 
 * [Opinto-oppaat](http://studyguides.aalto.fi/elec/)
 * [Sivuaineoppaat](http://studyguides.aalto.fi/minors-guide/)
-* [Korkeakoulun yhteystiedot](https://into.aalto.fi/display/fimasterelec/Yhteystiedot)
-* [Opintopsykologi ja opiskelutaidot](https://into.aalto.fi/display/fiopintopsykologi/Etusivu)
-* [Tutkintosääntö](https://into.aalto.fi/pages/viewpage.action?pageId=3785291)
+* [Korkeakoulun yhteystiedot](https://into.aalto.fi/display/fikandelec/Yhteystiedot)
+* [Opintopsykologi ja opiskelutaidot](https://into.aalto.fi/display/fiopisk/Opinto-+ja+uraohjauspsykologit)
+* [Tutkintosääntö](https://into.aalto.fi/pages/viewpage.action?pageId=1183863)
 
 * [Tenttiarkisto](http://www.tenttiarkisto.fi)
 * [Nyyti ry](https://www.nyyti.fi/)

@@ -4,7 +4,7 @@ title: "Tapahtuma-workshop 6.6. - Event-workshop June 6th"
 date: 2018-05-15 16:40:00 +0200
 language: fin
 author: IE
-categories: pääuutiset tapahtumat as 
+categories: pääuutiset tapahtumat AS 
 ---
 Tapahtuma-workshop
 

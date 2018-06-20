@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: opinnot tiedotteet
 ---
-##SUMMER SCHOOL PROGRAMS IN ASIA - STUDY & TRAVEL IN SUMMER 2018
+## SUMMER SCHOOL PROGRAMS IN ASIA - STUDY & TRAVEL IN SUMMER 2018
 
 **Studying abroad is once-in-a-lifetime experience, and it's something that can positively impact both your personal and professional future.** Many students who have studied abroad report afterwards that it was one of the best experiences in their whole life.
 
