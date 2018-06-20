@@ -17,7 +17,7 @@ committees:
           - name: Ville Piesala
             picture: static/toimijat/2018/ville_piesala.jpg
           - name: Santeri Salmijärvi
-            picture: static/toimijat/2018/santeri_salmijärvi.jpg
+            picture: static/toimijat/2017/santeri_salmijärvi.jpg
           - name: Aku Viitanen
             picture: static/toimijat/2018/aku_viitanen.jpg
 
@@ -29,8 +29,8 @@ committees:
           - name: Titta Saari
             picture: static/toimijat/2018/titta_saari.jpg
           - name: Ilkka Malassu
-            picture: static/toimijat/2018/ilkka_malassu.jpg
+            picture: static/toimijat/2017/ilkka_malassu.jpg
           - name: Noora Salminen
             picture: static/toimijat/2018/noora_salminen.jpg
           - name: Santeri Salmijärvi
-            picture: static/toimijat/2018/santeri_salmijärvi.jpg
+            picture: static/toimijat/2017/santeri_salmijärvi.jpg
