@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uusi opiskelija, lue tämä!"
-date: 2018-06-26 10:00:00 +0200
+date: 2018-06-26 10:00:00 +0300
 language: fin
 author: Phuksikapteeni
 categories: pääuutiset 
