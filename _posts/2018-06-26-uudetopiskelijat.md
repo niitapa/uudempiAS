@@ -4,7 +4,7 @@ title: "Uusi opiskelija, lue tämä!"
 date: 2018-06-26 10:00:00 +0200
 language: fin
 author: Phuksikapteeni
-categories: pääuutiset as 
+categories: pääuutiset 
 ---
 Hei uusi phuksi!
 
