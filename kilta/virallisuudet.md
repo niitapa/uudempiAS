@@ -19,7 +19,6 @@ title: Virallisuudet
 * [Esimerkkilasku](https://as.fi/static/virallisuudet/esimerkkilasku.pdf)
  
 * [Toimintasuunnitelma 2018](https://as.fi/static/virallisuudet/Toimintasuunnitelma_2018.pdf)
-* [Talousarvio 2018 (.ods)](https://as.fi/static/virallisuudet/Talousarvio_2018.ods)
 
 * Killan Logo:
     - [CDR-muodossa](https://as.fi/static/virallisuudet/as_plain_BW.cdr)
