@@ -12,7 +12,7 @@ PL 15500<br>
 
 ## Kiltahuone
 
-* Käyntiosoite: Maarintie 8 (ent. Otaniementie 17), Espoo ([kartta]({{ "/kilta/askikartta/" | absolute_url }}))
+* Käyntiosoite: Maarintie 8 (ent. Otaniementie 17), Espoo ([kartta]({{ "/kilta/askikartta.html" | absolute_url }}))
 
 ## Hallitus
 
