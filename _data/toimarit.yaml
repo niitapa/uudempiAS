@@ -362,7 +362,7 @@ committees:
       - name: Arkistovastaava
         description:
         members:
-          - name: Laura Gröhn
+          - name: Laura Romppainen
             picture: static/toimijat/2018/laura_gröhn.jpg
 
   - name: Toimikuntien ulkopuolelta
