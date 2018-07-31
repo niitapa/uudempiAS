@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linkwall
+title: Link wall
 ---
 
 [AS - Telegram](https://telegram.me/joinchat/ApdG7j_110MvqmlTIwdlWw)<br>
@@ -41,6 +41,9 @@ Chat For those who are interested in sports
 
 [ELEpaja - Telegram](https://telegram.me/joinchat/Ap55Ez9nPRQzBOzj76nzUw)<br>
 Chat for stuff about electronics and building things
+
+[AS - Facebook](https://www.facebook.com/askilta/)<br>
+AS Facebook
 
 [askilta - Instagram](http://www.instagram.com/askilta)<br>
 AS instagram

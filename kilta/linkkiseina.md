@@ -42,5 +42,8 @@ Killisteille, jotka ovat kiinnostuneita urheilusta
 [ELEpaja - Telegram](https://telegram.me/joinchat/Ap55Ez9nPRQzBOzj76nzUw)<br>
 Elektroniikasta ja sen rakentelusta kiinnostuneille
 
+[AS - Facebook](https://www.facebook.com/askilta/)<br>
+AS:n Facebook
+
 [askilta - Instagram](http://www.instagram.com/askilta)<br>
 AS:n Instagram
