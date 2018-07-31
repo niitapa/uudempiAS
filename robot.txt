@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow /kilta/linkkiseina.html
+Disallow /kilta/link_wall.html
