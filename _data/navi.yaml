@@ -62,3 +62,20 @@ items:
     href: /yhteystiedot.html
   - title: In English
     href: /in-english.html
+    subnavi:
+      items:
+        - title: News
+        href: /news.html
+        - title: The Guild
+        href: /guild.html
+        - title: Committees
+        href: /committees.html
+        - title: Studies
+        href: /studies.html
+        - title: Events
+        href: /events.html
+        - title: Contact information
+        href: /contact.html
+        - title: Official stuff
+        href: /official.html
+      

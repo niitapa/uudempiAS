@@ -4,28 +4,57 @@ title: In English
 data: hallitus_en
 placeholder_img: static/toimijat/aebaej_placeholder.png
 ---
-## Guild
-The Guild of Automation and Systems Technology is the guild for students majoring in Automation and Control Engineering or Information Technology at Aalto University. It arranges different kinds of events for its members and develops individuals to have a strong skillset as professionals and identity as students of technology. AS also aims to represent its members in the university’s administration and encourages them to follow their professional and social interests.
-		
-## Contact information
-### Postal address
-Aalto-yliopisto<br>
-Automaatio- ja systeemitekniikan kilta<br>
-PL 15500<br>
-FI00076 Aalto<br>
+<div class="home">
+    
+<article class="post">
 
-### Street address
-Maarintie 8 (previously Otaniementie 17)<br>
-02150 Espoo
+  <div class="post-content">
+    <div class="section group">
 
-### E-mail
-hallitus at as.fi (the Board of the Guild)
+    <div class="col span_1_of_2">
+      <div class="info_section">
+        <h1 class="info_section__title">Important news</h1>
+        {% assign main_category_posts = site.categories[site.main_category] %}
+        {%
+          include functions/post-list_en.html
+          posts=main_category_posts
+          limit=5
+        %}
+        <a href="News">All news</a>
+      </div>
+    </div>
 
-## Payment information
-**Recipient**: Automaatio- ja systeemitekniikan kilta<br>
-**IBAN**: FI84 3131 3001 8081 61<br>
-**BIC**: HANDFIHH<br>
-**Business ID**: 1790153-4<br>
-**Registration number**: 185372
+    <div class="col span_1_of_2">
+        <div class="info_section">
+          <h1 class="info_section__title">What is AS?</h1>
+          {% capture index_content %}{% include index_content_en.md %}{% endcapture %}
+          {{ index_content | markdownify }}
+        </div>
 
-## The Board
+        <div class="info_section">
+          <h1 class="info_section__title">Incoming events</h1>
+          <ul id="event-list" class="event_list">
+          </ul>
+          <ul id="event-list-2" class="event_list">
+          </ul>
+
+          <a href="{{ "/events.html" | absolute_url }}">
+            All events
+          </a>
+        </div>
+    </div>
+
+    </div>
+  </div>
+
+  <div class="section group">
+    <div class="col span_2_of_2">
+      <!-- SnapWidget -->
+      <script src="https://snapwidget.com/js/snapwidget.js"></script>
+      <iframe src="https://snapwidget.com/embed/477716" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+    </div>
+  </div>
+
+</article>
+
+</div>
