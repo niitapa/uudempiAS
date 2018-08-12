@@ -61,7 +61,7 @@ items:
   - title: Yhteystiedot
     href: /yhteystiedot.html
   - title: In English
-    href: /in-english.html
+    href: /english.html
     subnavi:
       items:
         - title: News
