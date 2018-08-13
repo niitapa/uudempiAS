@@ -1,8 +1,9 @@
 ---
 layout: page
 title: News
-subtitle: Newest
 ---
+
+Please do note that even if the title or the description of the post is only in Finnish, most of them do also have the English text in them.
 
 {% include functions/archive-navi_en.html %}
 
