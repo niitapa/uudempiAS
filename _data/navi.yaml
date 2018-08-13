@@ -61,21 +61,24 @@ items:
   - title: Yhteystiedot
     href: /yhteystiedot.html
   - title: In English
-    href: /english.html
+    href: /english
     subnavi:
+      directory: english
       items:
         - title: News
-        href: /news.html
+          href: /news.html
         - title: The Guild
-        href: /guild.html
+          href: /guild.html
         - title: Committees
-        href: /committees.html
+          href: /committees.html
         - title: Studies
-        href: /studies.html
+          href: /studies.html
         - title: Events
-        href: /events.html
+          href: /events.html
+        - title: Membership
+          href: /membership.html
         - title: Contact information
-        href: /contact.html
+          href: /contact.html
         - title: Official stuff
-        href: /official.html
+          href: /official.html
       

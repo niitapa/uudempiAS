@@ -2,10 +2,9 @@
 layout: page
 title: News
 subtitle: Newest
-permalink: /news/
 ---
 
-{% include functions/archive-navi.html %}
+{% include functions/archive-navi_en.html %}
 
 <div class="section group">
   <div class="col span_1_of_2">

@@ -1,9 +1,8 @@
-## Contact information
-### Postal address
 ---
 layout: page
 title: Contact information
 ---
+## Postal address
 Aalto-yliopisto<br>
 Automaatio- ja systeemitekniikan kilta<br>
 PL 15500<br>

@@ -3,7 +3,7 @@ layout: page
 title: Official things
 ---
 
-Some files are being translated or otherwise worked on and will not be currently available.
+Some files are being translated or otherwise worked on and will not be available.
 
 * [Rules](https://as.fi/kilta/rules.html)
 * [Privacy policy](http://old.as.fi/kilta/virallisuudet/rekisteriseloste/)

@@ -5,9 +5,8 @@ people:
     phone: 050 581 2974
     username: Kuukuna
     picture: static/toimijat/2018/aku_viitanen.jpg
-#     description: "Johtaa hallitusta ja sitä kautta koko killan toimintaa.
-
-# Ota yhteyttä puheenjohtajaan, jos asiasi koskee kiltaa tai et tiedä keneen ottaa yhteyttä."
+    description: "The chairman leads the guild’s board and represents the guild; they are ultimately responsible for keeping the guild’s activities on track. 
+    Contact the Chairman if your matter concerns the guild or if you don’t know whom to contact."
 
   - position_name: Treasurer
     person_name: Karolina Itäinen
@@ -15,9 +14,8 @@ people:
     phone: 050 533 3073
     username: Itainek
     picture: static/toimijat/2018/karolina_itäinen.jpg
-#     description: "Huolehtii killan raha-asioista, kuten laskujen maksamisesta ja kirjanpidosta.
-
-# Ota yhteyttä rahastonhoitajaan raha-asioissa."
+    description: "The treasure is responsible for taking care of the guild’s finances, for instance, paying bills and bookkeeping.
+    Contact the treasure in the financial matters."
 
   - position_name: Secretary
     person_name: Jaakko Majuri
@@ -25,9 +23,8 @@ people:
     phone: 044 384 6528
     username: jmajuri
     picture: static/toimijat/2018/jaakko_majuri.jpg
-#     description: "Vastaa pöytäkirjojen tekemisestä hallituksen ja killan kokouksista. Sihteerin vastuulla on myös jäsenrekisterin ylläpitäminen sekä kiltaa koskevan materiaalin arkistoinnista huolehtiminen.
-
-# Ota yhteyttä sihteeriin jäsenmaksuihin liittyvissä asioissa."
+    description: "The secretary is responsible for writing the minutes of the board meetings and guild meetings. In addition, they manage the guild’s membership register and look after the archive.
+    Contact the Secretary in the matters of the guild’s membership fee."
 
   - position_name: Master of Communications
     person_name: Taavi Oja
@@ -35,17 +32,16 @@ people:
     phone: 040 746 7402
     username: Mughur
     picture: static/toimijat/2018/taavi_oja.jpg
-#     description: "Vastaa jäsenistön tiedottamisesta lähettämällä tiedotteita ja ylläpitämällä kalenteria. Viestintämestari pitää ajan tasalla myös killan sähköpostilistoja ja nettisivujen sisältöä.
-
-# Ota yhteyttä viestintämestariin halutessasi tiedottaa killisteille jotakin."
+    description: "The Master of Communication keeps guild members informed about various events and other interesting and important matters. They take care of the guild’s channels of communication, email lists, calendar and website, in addition to which they also send a weekly bulletin that explain what is happening and where.
+    Contact the Master of Communication when you want to share information to the guild members."
 
   - position_name: Freshman Captain
     person_name: Ville Kauhanen
     email: phuksikapteeni@as.fi
     phone: 040 097 8840
-    username: Kauhan
+    username: Phuksikapteeni
     picture: static/toimijat/2018/ville_kauhanen.jpg
-    # description: "Vastaa killan phuksikasvatuksesta ja -toiminnasta. Järjestää phuksitapahtumia killan, korkeakoulun sekä yliopiston muiden fuksikapteenien kanssa. Toimii esimerkkinä ja tukena phukseille. Työskentelee yhteistyössä ISOpomon kanssa."
+    description: "The Freshman Captain is responsible for all freshman wellbeing and freshman events. They organize events for freshmen with other guild members, the University and other Freshman Captains. Collaborates closely with the Tutor Coordinator."
 
   - position_name: International Student Captain
     person_name: Ilene Blanco
@@ -53,9 +49,8 @@ people:
     phone: 040 559 0724
     username: iltsubee
     picture: static/toimijat/2018/ilene_blanco.jpg
-#     description: "Vastaa killan kansainvälisten opiskelijoiden phuksikasvatuksesta ja -toiminnasta. Työskentelee yhteistyössä phuksikapteenin kanssa.
-
-# Ota yhteyttä phuksikapteeniin, jos olet hämmentynyt phuksi."
+    description: "The International Student Captain is responsible of the international students and the international matters of the guild. They collaborate closely with Freshman Captain. 
+    Contact the International Student Captain if you are confused international student or if your matter concerns international affairs. "
 
   - position_name: Host
     person_name: Mari Pulkkinen
@@ -63,9 +58,8 @@ people:
     phone: 040 760 9974
     username: maripulkkinen
     picture: static/toimijat/2018/mari_pulkkinen.jpg
-#     description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
-
-# Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
+    description: "The Host arranges various events together with the hostess for the guild members. Together with Hostess they lead the Entertainment Committee and work towards even better events.
+    Contact the Host or the Hostess if your matter concerns a guild event."
 
   - position_name: Hostess
     person_name: Severi Casserly
@@ -73,9 +67,8 @@ people:
     phone: 040 539 0739
     username: SeveriCasserly
     picture: static/toimijat/2018/severi_casserly.jpg
-    # description: "Järjestää yhdessä Emännän kanssa kiltalaisille mitä moninaisimpia tapahtumia ja huolehtii elintarvikkeiden välittämisestä killistien vatsalaukkuihin. Organisoi huvitoimikunnan toimintaa ja kehittää killan tapahtumakulttuuria.
-
-# Ota yhteyttä IE:hen, jos asiasi koskee killan tapahtumia."
+    description: "The Hostess arranges various events together with the hostess for the guild members. Together with Host they lead the Entertainment Committee and work towards even better events. 
+    Contact the Hostess or the Host if your matter concerns a guild event."
 
   - position_name: Master of Studies
     person_name: Ville Eronen
@@ -83,19 +76,17 @@ people:
     phone: 050 591 5112
     username: Eronen
     picture: static/toimijat/2018/ville_eronen.jpg
-#     description: "Ylläpitää yhteyttä koulun henkilökuntaan, pitää itsensä tietoisena tutkinto-ohjelmassa tapahtuvista muutoksista ja vastaa kiltalaisten edunvalvonnasta. Johtaa killan opintotoimikuntaa.
+    description: "The Master of Studies maintains communications between the guild and the university. They also work as the contact person for the guild’s trustees and represent students in the meetings of the university’s governing body.
+    Contact the Master of Studies if your matter has to do with your studies or school in general."
 
-# Opintomestariin voi ottaa yhteyttä opintoihin liittyvissä asioissa."
-
-  - position_name: Public Relations Correspondent
+  - position_name: Head of Corporate Relations
     person_name: Leo Matikainen
     email: leo.matikainen@as.fi
     phone: 050 413 0406
-    #username: Matte50
+    username: Matte50
     picture: static/toimijat/2018/leo_matikainen.jpg
-#     description: "Vastaa killan suhteista yrityksiin ja excursioiden järjestämisestä. Organisoi killan mainosmyyntiä sekä kehittää killan mainetta ja kunniaa yritysten silmissä. Johtaa killan yrityssuhdetoimikuntaa. 
-
-# Ota yhteyttä yrityssuhdemestariin, jos asiasi liittyy yrityssuhteisiin."
+    description: "The head of Corporate Relations leads the corporate relations committee. They advance the reputation and credit of the guild among the corporations by collaborating with them. They also organize excursions, events and sponsorships. 
+    Contact the Head of Corporate Relations if your matter concerns corporate relations."
 
   - position_name: Master of Culture
     person_name: Arttu Rintala
@@ -103,6 +94,5 @@ people:
     phone: 050 555 0870
     username: tuliankka
     picture: static/toimijat/2018/arttu_rintala.jpg
-#     description: "Pitää yllä killan vanhoja ulkosuhteita sekä luo uusia. Johtaa kulttuuri- ja liikuntatoimikuntaa ja järjestää sen jäsenten kanssa killalle esim. kulttuuritapahtumia ja lajikokeiluja. Tykkää pitää yhteyttä moneen eri tahoon ja hengailla myös muun kuin violetin väristen ihmisten kanssa.
-
-# Ota yhteyttä kulttuurimestariin, jos asiasi liittyy kulttuuriasioihin."
+    description: "The Master of Culture maintains the external relations with student organisations across Finland and builds new ones. They lead the Culture and Sports Committee, organise various happenings, cultural excursions and events to test different sports.
+    Contact the Master of Culture if your matter concerns culture in any way."
