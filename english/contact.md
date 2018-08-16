@@ -13,7 +13,7 @@ Maarintie 8 (previously Otaniementie 17)<br>
 02150 Espoo
 
 ## Board of the guild
-* [Board members contant information](as.fi/english/guild.html)
+* [Board members contant information]({{ "english/guild.html" | absolute_url }})
 * E-mail: hallitus [at] as.fi
 
 ## Payment information

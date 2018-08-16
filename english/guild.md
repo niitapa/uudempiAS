@@ -14,6 +14,6 @@ ASki is the livingroom of the guild members, where one can spend time between le
 
 The committee of ASki, Guardians of ASki lead by the Master of ASki, is in charge of usage, filling of the cabinets and overall order of ASki. If you have any development ideas or problems involving ASki, the committee is the right place to contact. Contact informations can be find under [Committees page]({{ "english/committees.html" | absolute_url }})
 
-ASki also contains the guilds storageroom, from which the board and the members of the Committee of ASki can sell guild's overall badges, songbook and other items.
+ASki also contains the guilds storage room, from which the board and the members of the Committee of ASki can sell guild's overall badges, songbook and other items.
 
 ## The Board
