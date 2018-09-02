@@ -13,7 +13,7 @@ Mukaan mahtuu 16 nopeinta joukkuetta.Tapahtumaan on helppo osallistua ilman aiem
 
 Tule siis kokemaan (lähes) taianomaista urheilutunnelmaa!
 
-Lisätiedot, ilmoittautuminen ja Ne Säännöt osoitteessa <huispaus.fi>
+Lisätiedot, ilmoittautuminen ja Ne Säännöt osoitteessa <www.huispaus.fi>
 
 ***
 
@@ -23,4 +23,4 @@ World Cup of Academic Quidditch is here again! Aava organises the quidditch tour
 
 Come and witness the (almost) magical sport atmosphere ever!
 
-Info, registration and The Rules: <huispaus.fi>
+Info, registration and The Rules: <www.huispaus.fi>
