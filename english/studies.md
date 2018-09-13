@@ -3,16 +3,13 @@ layout: page
 title: Studies
 ---
 
-To be translated
 
-## Linkkejä
+## Useful links
 
 * [Department of Electrical Engineering and Automation](http://eea.aalto.fi/en/)
 * [Department of Signal Processing and Acoustics](http://spa.aalto.fi/en/)
 * [Department of Communications and Networking](http://comnet.aalto.fi/en/)
 
-* [Studyguides](http://studyguides.aalto.fi/elec/)
-* [Minors-studyguides](http://studyguides.aalto.fi/minors-guide/)
 * [Korkeakoulun yhteystiedot](https://into.aalto.fi/display/fikandelec/Yhteystiedot)
 * [Study- and career planning psychologists](https://into.aalto.fi/display/enopisk/Study-+and+career+planning+psychologists)
 * [Degree Regulations](https://into.aalto.fi/display/ensaannot/Degree+Regulations+of+the+Aalto+University+School+of+Electrical+Engineering)
