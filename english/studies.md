@@ -10,7 +10,6 @@ title: Studies
 * [Department of Signal Processing and Acoustics](http://spa.aalto.fi/en/)
 * [Department of Communications and Networking](http://comnet.aalto.fi/en/)
 
-* [Korkeakoulun yhteystiedot](https://into.aalto.fi/display/fikandelec/Yhteystiedot)
 * [Study- and career planning psychologists](https://into.aalto.fi/display/enopisk/Study-+and+career+planning+psychologists)
 * [Degree Regulations](https://into.aalto.fi/display/ensaannot/Degree+Regulations+of+the+Aalto+University+School+of+Electrical+Engineering)
 
