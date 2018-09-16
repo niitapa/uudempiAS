@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ilmastonmuutos ja minä – Ahdistaako?"
-date: 2018-09-16 20:45:00 +0300
+date: 2018-09-16 20:50:00 +0300
 language: fin
 author: Viestintämestari
 categories: muut

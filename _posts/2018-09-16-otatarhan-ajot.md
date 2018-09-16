@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "World Dinner"
+title: "Otatarhan ajot - Otatarha race"
 date: 2018-09-16 20:45:00 +0300
 language: fin
 author: Viestintämestari
