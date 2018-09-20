@@ -108,7 +108,7 @@ Ei jaettu
 **2018**<br>
 [Ehdota hopeisin pränikän saajaa](https://docs.google.com/forms/d/e/1FAIpQLSd79-iAzSUGXHeB_UDTPe3DX6yTL7ZqSiXdi-oacTREoVK7tQ/viewform)
 
-##Perustelut
+## Perustelut
 ### 2002
 Ensimmäisten präniköiden tärkein myöntämisperuste oli ns. AS- henki, johon kuuluu auttamishalu ja omistautuminen niille asioille, jotka tehdään (ratkaisevaa ei ole meriittien ja virkojen määrä, pränikkää ei saada ranskalaisilla viivoilla). Näiden viiden henkilön AS-henkisyyttä tuskin kukaan heidät tunteva epäilee.
 
@@ -227,11 +227,11 @@ Vaikka hän ehti vaihtaa osastoa ja jo valmistuakin, riittää hänen loppumaton
 Tätä teekkarihenkeä täynnä olevaa diplomi-insinööriä ei ole vaikea saada naksuttamaan yhtä nopeaa ja vähäsyöntistä, suunnittelemaan hämmentävää teletappispektaakkelia tai perustamaan Suomeen Naapurikyttääjien yhdistystä tai Accenturelle kimblekerhoa. Konsulttina hänen ajatuksensa saattavat tosin ajoittain johtaa keskeltä ei- mihinkään. Toivottavasti saamme kuulla hänen hihitystään killan tapahtumissa vielä jatkossakin. Loppuun lainaus hänen omasta kirjoituksestaan GT:n puhispalstalta: "Minulle suurin palkinto kiltatoiminnassa tulee siitä, että saa olla osa yhteisöä, jossa niin moni on valmis tekemään pyyteettömästi töitä yhteisen hyvän puolesta. Se on kaunista." Mielestämme Meeri Nieminen on toteuttanut sanojaan Kultaisen Pränikän arvoisesti.
 
 ### 2008
-####Taru Laamanen
-####Lauri Kovanen
-####Juha Koppinen
+#### Taru Laamanen
+#### Lauri Kovanen
+#### Juha Koppinen
 
-###2009
+### 2009
 Killan hallitus päätti kokouksessaan 30/2009 myöntää kaksi Kultaista Pränikkää. Pränikän myöntämisperusteista arvokkaimmaksi katsottiin tänä vuonna pitkäkestoinen ja tinkimätön työ killan eteen ja erityisesti vahva osallistuminen killan toimintaan myös sen jälkeen kun hallitusvuodet jäivät taakse. Oheiset tekstit ovat vapaasti mukailtuja otteita puheenjohtajan puheesta vuodelta 2009.
 
 #### Emmi Turanlahti
@@ -360,7 +360,7 @@ Illan toisen kultaisen pränikän saa henkilö joka ei esittelyjä kaipaa. Täm�
 Vuolaan kulttuurillisen työn lisäksi tämä henkilö otti jo phuksina haasteen vastaan lähtemällä killan emännäksi. Hallitushommat jatkuivat kaksi vuotta myöhemmin ensin kulttuurimestarin ja seuraavana vuonna puheenjohtajan viroilla. Hänet tunnetaan rehtinä ja sanavalmiina edustushahmona joka työllään toi killan ulkosuhteet täysin uudelle tasolle. Tarinoihin tästä Otaniemen legendasta törmää yhä niin Itäisessä satamakaupungissa kuin Tampereellakin ja häneen myös monissa killan lauluissa viitataan.
 
 ### Kunniajäsenistä
-Aarne Halme
+#### Aarne Halme
 Aarne Halme on toiminut killan oltermannina jo useita vuosia. Hän on koko killan olemassaolon ajan ansiokkaasti tukenut kiltaa ja sen toimintaa. Viimeisin näkyvä ja killan kannalta erittäin merkittävä projekti (vuonna 2002-2003), jossa hän on ollut mukana, on killan excursio Japaniin, joka toteutunee vuoden päästä syksyllä. Niinpä Aarne Halme on valittu vuoden 2002 alussa kiltakokouksessa killan kunniajäseneksi ja on siis siten oikeutettu käyttämään Automaatio- ja systeemitekniikan killan Kultaista Pränikkää.
 
 #### Annika Salama
