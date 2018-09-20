@@ -2,7 +2,7 @@
 layout: page
 title: Kunnianosoitukset
 ---
-Tällä sivulla olevat kunnianosoitukset ja perustelut ovat niiden alkuperäisessä muodossa.
+Tällä sivulla olevat kunnianosoitusten perustelut ovat niiden alkuperäisessä muodossa.
 
 #### Kunniajäsenet
 - [Aarne Halme](#aarne-halme)
@@ -75,7 +75,7 @@ Kultaisia Präniköitä myönnetään vuosittain korkeintaan kaksi kappaletta, e
 - [Juho Sundin](#juho-sundin)
 
 **2016**
-- [Laura Romppainen](#laura-romppainen)
+- [Laura Romppainen](#laura-gröhn)
 - [Ville Tissari](#ville-tissari)
 
 **2017**<br>
@@ -108,9 +108,20 @@ Ei jaettu
 - [Eero Santamala](#eero-santamala)
 
 **2018**<br>
-[Ehdota hopeisin pränikän saajaa](https://docs.google.com/forms/d/e/1FAIpQLSd79-iAzSUGXHeB_UDTPe3DX6yTL7ZqSiXdi-oacTREoVK7tQ/viewform)
+[Ehdota hopeisen pränikän saajaa](https://docs.google.com/forms/d/e/1FAIpQLSd79-iAzSUGXHeB_UDTPe3DX6yTL7ZqSiXdi-oacTREoVK7tQ/viewform)
 
 ## Perustelut
+
+### Kunniajäsenistä
+#### Aarne Halme
+Aarne Halme on toiminut killan oltermannina jo useita vuosia. Hän on koko killan olemassaolon ajan ansiokkaasti tukenut kiltaa ja sen toimintaa. Viimeisin näkyvä ja killan kannalta erittäin merkittävä projekti (vuonna 2002-2003), jossa hän on ollut mukana, on killan excursio Japaniin, joka toteutunee vuoden päästä syksyllä. Niinpä Aarne Halme on valittu vuoden 2002 alussa kiltakokouksessa killan kunniajäseneksi ja on siis siten oikeutettu käyttämään Automaatio- ja systeemitekniikan killan Kultaista Pränikkää.
+
+#### Annika Salama
+Tämä varsinkin usealle hieman vanhemmalle opiskelijalle tuttu nainen on muodostunut monelle killistille ehkä hieman jonkinlaiseksi äitihahmoksi, joka varjelee viatonta opiskelijaa ison instituution byrokratialta, ja löytää helposti ratkaisun ongelmaan kuin ongelmaan silloin kun hätä on suurin. Tälle leppoisalle ja maanläheiselle henkilölle meidän opiskelijoiden asiat ovat ihan oikeasti tärkeitä - voisi jopa leikkimielisesti sanoa, että moni tässäkin killassa on valmistumisensa tälle henkilölle velkaa.
+
+Hän käyttää sujuvasti ASkicamia sekä kiltahuoneen puhelinta, ja poikkeaa välillä jopa kahville. Hän on auttanut aASeja eteenpäin opinnoissaan jo vuodesta 2009 alkaen. Vaikka hän majaileekin nykyään Otakaari 5:n tiloissa, on hän silti ja totisesti ansainnut paikkansa meidän violetissa killassamme, ja joka ikisen vanhaa tutkinto-ohjelmaa käyvän aASin sydämessä.
+
+### Kultaiset pränikät
 ### 2002
 Ensimmäisten präniköiden tärkein myöntämisperuste oli ns. AS- henki, johon kuuluu auttamishalu ja omistautuminen niille asioille, jotka tehdään (ratkaisevaa ei ole meriittien ja virkojen määrä, pränikkää ei saada ranskalaisilla viivoilla). Näiden viiden henkilön AS-henkisyyttä tuskin kukaan heidät tunteva epäilee.
 
@@ -360,12 +371,3 @@ Mutta edes puheenjohtajuuden taakka ei lannistanut tätä killan äitihahmoa. Vi
 Illan toisen kultaisen pränikän saa henkilö joka ei esittelyjä kaipaa. Tämä -10 phuksi on ollut järjestämässä niin Stimulaatiota, tekemässä kiltalehteä kuin tarkastellut killan toimintaakin. Hänen kädenjälkeään on esimerkiksi killan puolivuotisjuhlan Eskalaation luominen, joka järjestettiin tänä vuonna toista kertaa. Kilta muistaa tämän henkilön myös sitsien kestosuosikkiohjelmanumerosta ja periksiantamattomasta “can do” asenteesta.
 
 Vuolaan kulttuurillisen työn lisäksi tämä henkilö otti jo phuksina haasteen vastaan lähtemällä killan emännäksi. Hallitushommat jatkuivat kaksi vuotta myöhemmin ensin kulttuurimestarin ja seuraavana vuonna puheenjohtajan viroilla. Hänet tunnetaan rehtinä ja sanavalmiina edustushahmona joka työllään toi killan ulkosuhteet täysin uudelle tasolle. Tarinoihin tästä Otaniemen legendasta törmää yhä niin Itäisessä satamakaupungissa kuin Tampereellakin ja häneen myös monissa killan lauluissa viitataan.
-
-### Kunniajäsenistä
-#### Aarne Halme
-Aarne Halme on toiminut killan oltermannina jo useita vuosia. Hän on koko killan olemassaolon ajan ansiokkaasti tukenut kiltaa ja sen toimintaa. Viimeisin näkyvä ja killan kannalta erittäin merkittävä projekti (vuonna 2002-2003), jossa hän on ollut mukana, on killan excursio Japaniin, joka toteutunee vuoden päästä syksyllä. Niinpä Aarne Halme on valittu vuoden 2002 alussa kiltakokouksessa killan kunniajäseneksi ja on siis siten oikeutettu käyttämään Automaatio- ja systeemitekniikan killan Kultaista Pränikkää.
-
-#### Annika Salama
-Tämä varsinkin usealle hieman vanhemmalle opiskelijalle tuttu nainen on muodostunut monelle killistille ehkä hieman jonkinlaiseksi äitihahmoksi, joka varjelee viatonta opiskelijaa ison instituution byrokratialta, ja löytää helposti ratkaisun ongelmaan kuin ongelmaan silloin kun hätä on suurin. Tälle leppoisalle ja maanläheiselle henkilölle meidän opiskelijoiden asiat ovat ihan oikeasti tärkeitä - voisi jopa leikkimielisesti sanoa, että moni tässäkin killassa on valmistumisensa tälle henkilölle velkaa.
-
-Hän käyttää sujuvasti ASkicamia sekä kiltahuoneen puhelinta, ja poikkeaa välillä jopa kahville. Hän on auttanut aASeja eteenpäin opinnoissaan jo vuodesta 2009 alkaen. Vaikka hän majaileekin nykyään Otakaari 5:n tiloissa, on hän silti ja totisesti ansainnut paikkansa meidän violetissa killassamme, ja joka ikisen vanhaa tutkinto-ohjelmaa käyvän aASin sydämessä.

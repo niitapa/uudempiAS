@@ -10,7 +10,7 @@ title: Virallisuudet
 * [Haalariohjesääntö](https://as.fi/kilta/haalariohjesaanto.html)
 * [Merkkiohjesääntö](https://as.fi/kilta/merkkiohjesaanto.html)
 * [Lippuohjesääntö](https://as.fi/kilta/lippuohjesaanto.html)
-* [Kunnianosoitukset](http://old.as.fi/kilta/virallisuudet/kunnia/)
+* [Kunnianosoitukset](http://as.fi/kilta/kunnianosoitukset.html)
 * [Toimintamalli tapahtumiin](http://old.as.fi/kilta/virallisuudet/toimintamalli/)
 * [Kiltojen kriisiohjesääntö](https://as.fi/static/virallisuudet/kriisiohje.pdf)
 
