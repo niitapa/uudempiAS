@@ -2,6 +2,12 @@
 layout: page
 title: Kunnianosoitukset
 ---
+Tällä sivulla olevat kunnianosoitukset ja perustelut ovat niiden alkuperäisessä muodossa.
+
+#### Kunniajäsenet
+- [Aarne Halme](#aarne-halme)
+- [Annika Salama](#annika-salama)
+
 #### Kultaisen Pränikän saajat
 Kultainen Pränikkä on korkein mahdollinen suosionosoitus, jonka Automaatio- ja systeemitekniikan killan hallitus voi myöntää. Se voidaan myöntää Automaatio- ja systeemitekniikan killan nykyiselle tai entiselle varsinaiselle, soo ulko- tai kannatusjäsenelle erityisen ansiokkaasta toiminnasta Automaatio- ja systeemitekniikan killan tarkoitusperien hyväksi.
 
@@ -77,10 +83,6 @@ Ei jaettu
 
 **2018**<br>
 [Ehdota kultaisen pränikän saajaa](https://docs.google.com/forms/d/e/1FAIpQLSd79-iAzSUGXHeB_UDTPe3DX6yTL7ZqSiXdi-oacTREoVK7tQ/viewform)
-
-#### Kunniajäsenet
-- [Aarne Halme](#aarne-halme)
-- [Annika Salama](#annika-salama)
 
 #### Hopeisen pränikän saajat
 **2016**
