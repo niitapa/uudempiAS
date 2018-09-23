@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lakinlaskijaiset 2018"
-date: 2018-09-16 10:20:00 +0300
+date: 2018-09-23 10:20:00 +0300
 language: fin
 author: Viestintämestari
 categories: tapahtumat

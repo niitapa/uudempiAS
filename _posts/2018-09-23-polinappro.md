@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polin Appro 2018"
-date: 2018-09-16 10:40:00 +0300
+date: 2018-09-23 10:40:00 +0300
 language: fin
 author: Viestintämestari
 categories: tapahtumat
