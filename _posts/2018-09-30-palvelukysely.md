@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AYY:n palvelukysely 2018 - AYY service questionnaire 2018"
-date: 2018-09-23 10:30:00 +0300
+date: 2018-09-30 19:20:00 +0300
 language: fin
 author: Viestintämestari
 categories: AYY
