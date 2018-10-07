@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Killan liikuntatapahtumat alkavat - Guild’s sports events are beginning"
-date: 2018-10-09 17:40:00 +0300
+date: 2018-10-07 17:40:00 +0300
 language: fin
 author: Viestintämestari
 categories: pääuutiset AS
 ---
 ### Killan liikuntatapahtumat alkavat!
 
-Kiinnostaako kokeilla kiipeilyä tai boulderointia killan piikkiin? Nyt on oiva tilaisuus siihen, kun me killan urheiluvastaavat järjestämme syksyn ensimmäisen lajikokeilun Salmisaaren Kiipeilykseskuksessa Helsingissä 29.10. klo. 15:15 alkaen (sisäliikuntavarusteet vaihdettuna). Ilmoittautuminen aukeaa keskiviikkona 10.10. klo. 12 <http://as.ayy.fi/ilmo/> ja mukaan mahtuu 30 nopeinta.
+Kiinnostaako kokeilla kiipeilyä tai boulderointia killan piikkiin? Nyt on oiva tilaisuus siihen, kun me killan urheiluvastaavat järjestämme syksyn ensimmäisen lajikokeilun Salmisaaren Kiipeilykseskuksessa Helsingissä 29.10. klo. 15:15 alkaen (sisäliikuntavarusteet vaihdettuna). Ilmoittautuminen aukeaa keskiviikkona 10.10. klo. 12 <http://as.ayy.fi/ilmo/liikuntaa> ja mukaan mahtuu 30 nopeinta.
 Lajikokeilu sisältää varustevuokrat, alkuopastuksen sekä sen jälkeen vapaata kiipeilyä tai boulderointia ja tapahtuman kesto on 75min. Kiipeilystä jäykistyneitä lihaksia voi tulla rentouttamaan tapahtuman jälkeen killan järjestämään Relaussaunaan. 
 
 MITÄ: Kiipeilyä ja boulderointia<br>
@@ -27,7 +27,7 @@ J-T (tg: @juomaala) ja Iivo (tg: ipzi123)
 
 ### Guild’s sports events are beginning!
 
-Are you interested in trying indoor climbing or bouldering and the guild will pay? Now you have a chance when we, the Guild’s Sports Correspondents, are organizing the first Try the Sport event of the autumn in Salmisaaren Kiipeilyareena (= Salmisaari Glimbing Centre), Helsinki on 29.10. 15:15 o’clock (clothes changed by that). Sign-up will be opened on 10.10 12 o’clock in <http://as.ayy.fi/ilmo/> and the event will have capacity of 30 quickest sheet submitters.
+Are you interested in trying indoor climbing or bouldering and the guild will pay? Now you have a chance when we, the Guild’s Sports Correspondents, are organizing the first Try the Sport event of the autumn in Salmisaaren Kiipeilyareena (= Salmisaari Glimbing Centre), Helsinki on 29.10. 15:15 o’clock (clothes changed by that). Sign-up will be opened on 10.10 12 o’clock in <http://as.ayy.fi/ilmo/liikuntaa> and the event will have capacity of 30 quickest sheet submitters.
 The event includes rent of equipment, short tutorial and free climbing or bouldering after that. The event last 75mins. Stressed muscles can be relaxed after the event on Guild’s Relaussauna (= Relaxing Sauna) in the evening.
 
 WHAT: Indoor climbing and bouldering<br>
