@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aalto Amazing Race 2018"
+title: "TU-EV - Applications of Emerging Technologies"
 date: 2018-10-07 15:00:00 +0300
 language: fin
 author: Viestintämestari
