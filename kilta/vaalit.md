@@ -2,6 +2,8 @@
 layout: page
 title: Vaalit 2018
 ---
+Päivitetty: 17.10. 18:10
+
 ### Hallitus:
 
 Puheenjohtaja: <br>

@@ -2,6 +2,8 @@
 layout: page
 title: Elections 2018
 ---
+Updated: 17.10. 18:10
+
 ### The board:
 
 Chairperson: <br>
