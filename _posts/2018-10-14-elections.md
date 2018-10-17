@@ -27,7 +27,7 @@ You can apply for the positions by posting in guilds forum. The application shou
 
 You can get your forum credentials from <https://as.ayy.fi/auth/register>
 
-For an official position, apart from board, committee leadership positions and freshmen committee, you can apply at http://bit.ly/toimari-ilmo.
+For an official position, apart from board, committee leadership positions and freshmen committee, you can apply at <http://bit.ly/toimari-ilmo>.
 
 Note for English speaking guild members:<br>
 The association law puts some restrictions on the language that needs to be used in board activities. Thus it is strongly recommended that the board members be fluent in written Finnish language.
