@@ -11,7 +11,7 @@ Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <
 Treasurer: <br>
 Master of Culture: [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=406) <br>
 Master of Studies: <br>
-Head of Corporate Relations: <br>
+Head of Corporate Relations: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Host: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Hostess: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Master of Communications: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=409), [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
@@ -74,11 +74,11 @@ Electro Workshop Manager (1 pc):
 
 Bit Master (1 pc): <br>
 Server Person (1 pc): <br>
-IT Person (4 pc):
+IT Person (4 pc): Jyri Kolu
 
 ### Public Relations Committee (led by Head of Corporate Relations):
 
-Public Relations Journeyman (n pc): <br>
+Public Relations Journeyman (n pc): Jyri Kolu <br>
 Public Relations Consultant (1 pc): Leo Matikainen <br>
 TEKSAS Ranger (1 pc):
 

@@ -2,7 +2,7 @@
 layout: page
 title: Vaalit 2018
 ---
-Päivitetty: 17.10. 18:10
+Päivitetty: 18.10. 14:00
 
 ### Hallitus:
 
@@ -11,7 +11,7 @@ Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <b
 Rahastonhoitaja: <br>
 Kulttuurimestari: [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=406) <br>
 Opintomestari: <br>
-Yrityssuhdemestari: <br>
+Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Viestintämestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=409), [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
@@ -74,11 +74,11 @@ Elepajavastaava (1 kpl)
 
 Bittimestari (1 kpl): <br>
 Serverihenkilö (1 kpl): <br>
-ATK-henkilö (4 kpl):
+ATK-henkilö (4 kpl): Jyri Kolu
 
 ### Yrityssuhdetoimikunta (johdossa Yrityssuhdemestari):
 
-Yrityssuhdekisälli (n kpl): <br>
+Yrityssuhdekisälli (n kpl): Jyri Kolu <br>
 Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
 TEKSAS Ranger (1 kpl):
 
