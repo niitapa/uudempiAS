@@ -2,7 +2,7 @@
 layout: page
 title: Elections 2018
 ---
-Updated: 17.10. 18:10
+Updated: 20.10. 17:45
 
 ### The board:
 
@@ -57,7 +57,7 @@ Golden Graphic Artist (1 pc):
 ### Sexton Committee (led by Sexton Master, under Master of Culture)
 
 Sexton Master (1 pc): <br>
-Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen
+Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 
 ### Committee of ASki (led by Master of Aski):
 
@@ -103,3 +103,10 @@ Vice-Inspector (2 pc):
 ### Suggested roles:
 
 [rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
+
+### Suggested Committees:
+
+#### [Committee of Foreign Excursions (led by Master of Foreign Excursions)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
+
+Master of Foreign Excursions (1 kpl) <br>
+Foreign excursion person (3 kpl)

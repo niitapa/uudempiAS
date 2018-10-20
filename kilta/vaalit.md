@@ -2,7 +2,7 @@
 layout: page
 title: Vaalit 2018
 ---
-Päivitetty: 18.10. 14:00
+Päivitetty: 20.10. 17:45
 
 ### Hallitus:
 
@@ -57,7 +57,7 @@ Kultainen graafikko (1 kpl):
 ### Lukkaritoimikunta (johdossa Lukkarimestari, Kulttuurimestarin alaisuudessa)
 
 Lukkarimestari (1 kpl): <br>
-Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen
+Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
@@ -88,7 +88,7 @@ Graafikko (2 kpl): Taavi Oja <br>
 Dokumentoija (4 kpl): Helena Kaisanlahti, Lukas Wachter <br>
 Somevastaava (1 kpl):
 
-### Stimulaatio toimikunta (johtaa Stimulantti):
+### Stimulaatio toimikunta (johdossa Stimulantti):
 
 Stimulantti (1 kpl): <br>
 Depressantti (n kpl): Helena Kaisanlahti <br>
@@ -103,3 +103,10 @@ Varatoiminnantarkastaja (2 kpl):
 ### Ehdotetut virat:
 
 [rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
+
+### Ehdotetut toimikunnat:
+
+#### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
+
+Ulkoexcumestari (1 kpl) <br>
+Ulkoexcuhenkilö (3 kpl)
