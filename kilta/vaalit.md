@@ -2,7 +2,7 @@
 layout: page
 title: Vaalit 2018
 ---
-Päivitetty: 20.10. 17:45
+Päivitetty: 21.10. 18:00
 
 ### Hallitus:
 
@@ -20,7 +20,7 @@ International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.p
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
 
-ISOpomo (1 kpl): <br>
+ISOpomo (1 kpl): Lassi Ihalainen <br>
 SuurPhuksikapteeni (1 kpl): Ville Kauhanen <br>
 Tosi ISOpomo (1 kpl): Ella Koivula <br>
 Senior International Student Captain (1 kpl): Ilene Blanco <br>

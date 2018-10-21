@@ -2,7 +2,7 @@
 layout: page
 title: Elections 2018
 ---
-Updated: 20.10. 17:45
+Updated: 21.10. 18:00
 
 ### The board:
 
@@ -20,7 +20,7 @@ International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.p
 
 ### Freshman Committee (led by Freshman Captain and International Student Captain):
 
-Tutor Boss (1 pc): <br>
+Tutor Boss (1 pc): Lassi Ihalainen <br>
 Great Freshman Captain (1 pc): Ville Kauhanen <br>
 Uncle Tutor Boss (1 pc): Ella Koivula <br>
 Senior International Student Captain (1 pc): Ilene Blanco <br>
