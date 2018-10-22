@@ -29,7 +29,6 @@ Koski asia sitten pientä juttua tai jotakin isompaa huolta, vastaa Phuksikaptee
 * Hae asuntoa [AYY:ltä](https://domo.ayy.fi) tai [HOASilta](http://www.hoas.fi)
 * Hae [opintotukea](http://www.kela.fi/opintotuki)
 * Hanki [matkakortti](https://www.hsl.fi/liput-ja-hinnat/matkakortti)
-* Liity Facebookissa ryhmään [AS-phuksit '18](https://www.facebook.com/groups/asphuksit18/) ja Telegrammissa [ASphuksit'18](https://t.me/joinchat/BzywAEMcPHSQZiUICtfrUg). Telegram (samankaltainen kuin Whatsapp) on suositeltavaa ladata, jos sitä ei jo omista, koska se on Otaniemessä de facto viestintävälinen.
 <br><br>
 
 ## VarASlähtö

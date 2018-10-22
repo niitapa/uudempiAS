@@ -12,8 +12,6 @@ Tervetuloa opiskelemaan Automaatio- ja informaatioteknologiaa tai Digital System
 
 Loistavaa, että olet löytänyt killan nettisivuille jo! Näiltä sivuilta löydät paljon luettavaa ennen opintojen aloitusta! Valitsemalla ylävalikosta [Uudet opiskelijat](https://as.fi/phuksit) löydät phuksioppaan ja muuta oleellista informaatiota koskien erityisesti uusia phukseja.
 
-Odotellessasi voit liittyä [AS-phuksit 18 Facebook-ryhmään](https://www.facebook.com/groups/asphuksit18/) ja [AS-phuksit 18 Telegram-ryhmään](https://t.me/joinchat/BzywAEMcPHSQZiUICtfrUg).
-
 Erityisesti opintoja koskevissa kysymyksissä kannattaa suunnata Aalto-yliopiston [Into - Uudet opiskelijat](https://into.aalto.fi/display/fiuudet) sivulle. Killan sivuilta löydät todennäköisemmin vastauksen muihin oleellisiin kysymyksiin :)
 
 Phuksikapteeninne<br>

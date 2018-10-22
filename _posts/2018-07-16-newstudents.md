@@ -12,8 +12,6 @@ Welcome to study Digital Systems and Design or Automation and Information Techno
 
 Unfortunately the guild's website is still mostly in Finnish but here you find the most relevant information needed.
 
-You may join the Facebook group for all the new AS freshmen [AS-phuksit 18 Facebook group](https://www.facebook.com/groups/asphuksit18/) and [AS Freshmen 18 Telegram group](https://t.me/joinchat/DwG6iklUMGA7iMSAYR44Qw).
-
 In questions considering the studies itself, it's recommended to head to [Into - New Students](https://into.aalto.fi/display/enuudet) page. 
 
 Most importantly: Here is the online version of the Freshman Guide which has the answer to most questions! 

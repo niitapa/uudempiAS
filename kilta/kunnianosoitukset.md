@@ -75,7 +75,7 @@ Kultaisia Präniköitä myönnetään vuosittain korkeintaan kaksi kappaletta, e
 - [Juho Sundin](#juho-sundin)
 
 **2016**
-- [Laura Romppainen](#laura-gröhn)
+- [Laura Romppainen (os. Gröhn)](#laura-gröhn)
 - [Ville Tissari](#ville-tissari)
 
 **2017**<br>
