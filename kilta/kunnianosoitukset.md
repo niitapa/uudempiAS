@@ -82,7 +82,7 @@ Kultaisia Präniköitä myönnetään vuosittain korkeintaan kaksi kappaletta, e
 Ei jaettu
 
 **2018**<br>
-[Ehdota kultaisen pränikän saajaa](https://docs.google.com/forms/d/e/1FAIpQLSd79-iAzSUGXHeB_UDTPe3DX6yTL7ZqSiXdi-oacTREoVK7tQ/viewform)
+Ehdotuksia kultaisen pränikän saajiksi ei oteta enää vastaan, Stimulaatiossa selviää ehdotuksien tulokset.
 
 #### Hopeisen pränikän saajat
 **2016**
@@ -95,7 +95,7 @@ Ei jaettu
 - [Bjarne Boström](#bjarne-boström)
 - [Noora Vänttinen](#noora-vänttinen)
 - [Ville Harmaala](#ville-harmaala)
-- [Sami-Petteri Pukkila](#sami-Petteri-pukkila)
+- [Sami-Petteri Pukkila](#Sami-Petteri-Pukkila)
 - [Onni Lampi](#onni-Lampi)
 
 **2017**
@@ -108,7 +108,7 @@ Ei jaettu
 - [Eero Santamala](#eero-santamala)
 
 **2018**<br>
-[Ehdota hopeisen pränikän saajaa](https://docs.google.com/forms/d/e/1FAIpQLSd79-iAzSUGXHeB_UDTPe3DX6yTL7ZqSiXdi-oacTREoVK7tQ/viewform)
+Ehdotuksia kultaisen pränikän saajiksi ei oteta enää vastaan, Stimulaatiossa selviää ehdotuksien tulokset.
 
 ## Perustelut
 
@@ -371,3 +371,38 @@ Mutta edes puheenjohtajuuden taakka ei lannistanut tätä killan äitihahmoa. Vi
 Illan toisen kultaisen pränikän saa henkilö joka ei esittelyjä kaipaa. Tämä -10 phuksi on ollut järjestämässä niin Stimulaatiota, tekemässä kiltalehteä kuin tarkastellut killan toimintaakin. Hänen kädenjälkeään on esimerkiksi killan puolivuotisjuhlan Eskalaation luominen, joka järjestettiin tänä vuonna toista kertaa. Kilta muistaa tämän henkilön myös sitsien kestosuosikkiohjelmanumerosta ja periksiantamattomasta “can do” asenteesta.
 
 Vuolaan kulttuurillisen työn lisäksi tämä henkilö otti jo phuksina haasteen vastaan lähtemällä killan emännäksi. Hallitushommat jatkuivat kaksi vuotta myöhemmin ensin kulttuurimestarin ja seuraavana vuonna puheenjohtajan viroilla. Hänet tunnetaan rehtinä ja sanavalmiina edustushahmona joka työllään toi killan ulkosuhteet täysin uudelle tasolle. Tarinoihin tästä Otaniemen legendasta törmää yhä niin Itäisessä satamakaupungissa kuin Tampereellakin ja häneen myös monissa killan lauluissa viitataan.
+
+### Hopeiset pränikät
+### 2016
+#### Aapo Oksman
+Tämä ensimmäisen hopeisen pränikän saaja on tullut killassa tutuksi erityisesti säätökulttuurin kehittämisestä ja ylläpitämisestä. Tämän 2013 phuksin ansiosta meillä esimerkiksi oli käytössä nyt jo pois luovutettu Säätöneuvola. Suurimpana yksittäisenä projektina muistetaan wappuna 2015 Ulliksella nähty skumppaa kaatava robottikäsi, josta hän otti vetovastuun. Hän on ​Aapo “Eipou” Oksman​​! 
+
+#### Aapo Rantala
+Tämä 2011 phuksi on toiminut monenlaisissa viroissa killassa ja tuo tapahtumaan kuin tapahtumaan mukavaa ja lämmintä henkeä nallekarhumaisella olemuksellaan. Hän on ollut myös jo pitkään lähtemätön osa killan laulukulttuuria ja toiminut tänä vuonna killan lukkarimestarina. Hän on ​Aapo “aikadilaatio” Rantala​​! 
+
+#### Juhana Kekoni
+Tämä 2013 phuksi ehdotti vuosi sitten uutta toimikuntaa, jonka johtoon hän myös itse lähti. Toimikunta on osoittanut olevansa toimintakykyinen, eikä vähiten puheenjohtajansa takia. Hän on myös tallentanut liikkuvaa kuvaa killan toiminnasta ja hänen ansiostaan meillä onkin näyttää tuleville sukupolville niin dokumentti robokädestä kuin uusi phuksivideokin. Hän on Juhana “Keksi” Kekoni​​!
+
+#### Matti Ojala
+Tämä 2011 phuksi on ollut isossa osassa killan kulttuurin ja ulkosuhteiden kehittämisessä laajalla rintamalla. Yhtenä yksittäisenä asiana esiin nousee hänen toimintansa killan laulukulttuurin parissa. Tämä monivuotinen lukkaritoimikunnan jäsen on sanoittanut lukemattomia kappaleita, kehittänyt laulutapahtumia ja tietysti lukkaroinut sitseillä vuosia. Hän on ​Matti “Matson” Ojala​​!
+
+#### Niilo Metsänen
+Tämä 2012 phuksi on ollut tekemässä jo monia uudistuksia kiltauransa aikana. Hän on ollut isossa roolissa niin 2015 tehdyssä haalariohjesäännössä kuin syksyllä uudistetussa merkkiohjesäännössäkin. Lisäksi hän uudisti rohkeasti viimeisenä SuurPhuksina monia phuksitapahtumia. Hän on ​Niilo “Niba” Metsänen​​! 
+
+#### Petri Niemelä
+Tämä 2011 phuksi on kiltaurallaan ehtinyt moneen. Hän on ollut todella aktiivisesti mukana kaikenlaisissa säätöön liittyvissä projekteissa. Säätötoiminnan lisäksi hän on monivuotinen ASkitoimikunnan jäsen ja kehittänyt kiltahuoneestamme ASkista parempaa paikkaa sekä korjannut milloin rikkinäisiä sohvia, milloin rikkinäistä tekniikkaa. Hän on ​Petri Niemelä​​! 
+
+#### Bjarne Boström
+Tämä 2007 phuksi on ollut mukana ​killan toiminnassa koko sydämestään useita vuosia. Hänen antaumuksellisuutensa on näkynyt etenkin säätökulttuurissa, ASkissa ja killan lautapelikulttuurissa. Tämä hyväsydäminen henkilö suhtautuu ihmisiin ennakkoluulottomalla asenteella. Hän on ​Bjarne “Bjakke” Boström​​!
+
+#### Noora Vänttinen
+Tämä 2011 phuksi tunnetaan edelleen omien phuksiensa keskuudessa äitihahmona, joka onnistui kasvattamaan edeltäneestä lähes tuplasti isomman phuksijoukon kunniallisiksi teekkareiksi. Hän tekee täysillä kaiken mihin ryhtyy ja siitä hyvä esimerkki on myös hänen päätoimittajavuotensa, jolloin GT:stä ilmestyi ennätysmäärä numeroita. Hän on ​Noora “Norri” Vänttinen​​!
+
+#### Ville Harmaala
+Tämä 2013 phuksi hoitaa hommansa aina tunnollisesti. Tämä on nähty monia kertoja, mutta erityisesti opintomestarivuonnaan hän edusti kiltaa useissa komiteoissa ja vastaavissa, ja tekikin enemmän kuin tarpeeksi koulutuspolitiikan eteen. Näkyvämpi rooli killassa hänellä on nykyisessä mediatoimikunnassa dokumentoijana, jonka kuvia on galleria täynnä. Hän on tietenkin ​Ville “Harppi” Harmaala​​! 
+
+#### Sami-Petteri Pukkila
+Tämä 2013 phuksi on koko kiltauransa ollut mukana lähes kaikessa. Hänen apuunsa voi aina luottaa, oli kyse sitten asioiden kantamisesta paikasta toiseen, bileiden siivoamisesta tai hajonneen serverin korjaamisesta. Hän on tehnyt aktiivisesti töitä myös ATK-toimikunnassa ja tänä vuonna bittimestarina toimiessaan lähtenyt mukaan killan palvelinuudistusprojektiin. Tämä karvoistaankin tunnettu aasi on tietenkin ​MYLVARI​​!
+
+#### Onni Lampi
+Tällä 2013 phuksilla oli vankka kokemus yhdistystoiminnasta jo ennen kiltaan tuloa. Se on näkynyt huomattavana aktiivisuutena koskien erityisesti killan virallisia asioita ja toiminnan kehittämistä. Hän ei tyydy nykytilaan vaan haluaa asioiden olevan aina vähän paremmin. Hänen johdossaan killan ISOtoiminta ottikin ison harppauksen eteenpäin. Hän on ​Onni “Omnez” Lampi​​! 
