@@ -2,7 +2,7 @@
 layout: page
 title: Vaalit 2018
 ---
-Päivitetty: 17.10. 18:10
+Päivitetty: 21.10. 18:00
 
 ### Hallitus:
 
@@ -11,7 +11,7 @@ Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <b
 Rahastonhoitaja: <br>
 Kulttuurimestari: [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=406) <br>
 Opintomestari: <br>
-Yrityssuhdemestari: <br>
+Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Viestintämestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=409), [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
@@ -20,7 +20,7 @@ International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.p
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
 
-ISOpomo (1 kpl): <br>
+ISOpomo (1 kpl): Lassi Ihalainen <br>
 SuurPhuksikapteeni (1 kpl): Ville Kauhanen <br>
 Tosi ISOpomo (1 kpl): Ella Koivula <br>
 Senior International Student Captain (1 kpl): Ilene Blanco <br>
@@ -57,7 +57,7 @@ Kultainen graafikko (1 kpl):
 ### Lukkaritoimikunta (johdossa Lukkarimestari, Kulttuurimestarin alaisuudessa)
 
 Lukkarimestari (1 kpl): <br>
-Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen
+Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
@@ -74,11 +74,11 @@ Elepajavastaava (1 kpl)
 
 Bittimestari (1 kpl): <br>
 Serverihenkilö (1 kpl): <br>
-ATK-henkilö (4 kpl):
+ATK-henkilö (4 kpl): Jyri Kolu
 
 ### Yrityssuhdetoimikunta (johdossa Yrityssuhdemestari):
 
-Yrityssuhdekisälli (n kpl): <br>
+Yrityssuhdekisälli (n kpl): Jyri Kolu <br>
 Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
 TEKSAS Ranger (1 kpl):
 
@@ -88,7 +88,7 @@ Graafikko (2 kpl): Taavi Oja <br>
 Dokumentoija (4 kpl): Helena Kaisanlahti, Lukas Wachter <br>
 Somevastaava (1 kpl):
 
-### Stimulaatio toimikunta (johtaa Stimulantti):
+### Stimulaatio toimikunta (johdossa Stimulantti):
 
 Stimulantti (1 kpl): <br>
 Depressantti (n kpl): Helena Kaisanlahti <br>
@@ -103,3 +103,10 @@ Varatoiminnantarkastaja (2 kpl):
 ### Ehdotetut virat:
 
 [rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
+
+### Ehdotetut toimikunnat:
+
+#### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
+
+Ulkoexcumestari (1 kpl) <br>
+Ulkoexcuhenkilö (3 kpl)

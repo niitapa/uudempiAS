@@ -14,7 +14,9 @@ Ilmoittautuminen aukeaa tiistaina 16.10. klo 12.00 ja sulkeutuu perjantaina 26.1
 Liikunta on myös loistava rentoutumiskeino, joten kannattaa osallistua myös samana päivänä järjestettävään kiipeilykokeiluun (<http://as.ayy.fi/ilmo/liikuntaa>), josta on hyvä jatkaa saunan lämpöihin.
 
 Ilmoittautuminen: <https://as.ayy.fi/ilmo/relaussauna>
+
 ---
+
 Relaxation sauna
 
 The exam week is drawing near and deadlines are closing in. The stress and exhaustion can be overwhelming. Fortunately on monday 29.10. right after the exam week there is a chance to come and have a relaxing sauna and salad buffet evening in Ossi’s sauna beginning at 18.00. The entrance fee is 5€. Please leave your wishes for the evenings activities in the sign up form.

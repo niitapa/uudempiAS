@@ -2,7 +2,7 @@
 layout: page
 title: Elections 2018
 ---
-Updated: 17.10. 18:10
+Updated: 21.10. 18:00
 
 ### The board:
 
@@ -11,7 +11,7 @@ Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <
 Treasurer: <br>
 Master of Culture: [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=406) <br>
 Master of Studies: <br>
-Head of Corporate Relations: <br>
+Head of Corporate Relations: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Host: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Hostess: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Master of Communications: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=409), [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
@@ -20,7 +20,7 @@ International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.p
 
 ### Freshman Committee (led by Freshman Captain and International Student Captain):
 
-Tutor Boss (1 pc): <br>
+Tutor Boss (1 pc): Lassi Ihalainen <br>
 Great Freshman Captain (1 pc): Ville Kauhanen <br>
 Uncle Tutor Boss (1 pc): Ella Koivula <br>
 Senior International Student Captain (1 pc): Ilene Blanco <br>
@@ -57,7 +57,7 @@ Golden Graphic Artist (1 pc):
 ### Sexton Committee (led by Sexton Master, under Master of Culture)
 
 Sexton Master (1 pc): <br>
-Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen
+Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 
 ### Committee of ASki (led by Master of Aski):
 
@@ -74,11 +74,11 @@ Electro Workshop Manager (1 pc):
 
 Bit Master (1 pc): <br>
 Server Person (1 pc): <br>
-IT Person (4 pc):
+IT Person (4 pc): Jyri Kolu
 
 ### Public Relations Committee (led by Head of Corporate Relations):
 
-Public Relations Journeyman (n pc): <br>
+Public Relations Journeyman (n pc): Jyri Kolu <br>
 Public Relations Consultant (1 pc): Leo Matikainen <br>
 TEKSAS Ranger (1 pc):
 
@@ -103,3 +103,10 @@ Vice-Inspector (2 pc):
 ### Suggested roles:
 
 [rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
+
+### Suggested Committees:
+
+#### [Committee of Foreign Excursions (led by Master of Foreign Excursions)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
+
+Master of Foreign Excursions (1 kpl) <br>
+Foreign excursion person (3 kpl)
