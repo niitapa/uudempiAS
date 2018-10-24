@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Vaalit 2018
+title: Ehdokkaat 2018
 ---
-Päivitetty: 21.10. 18:00
+Päivitetty: 24.10. 19:50
 
 ### Hallitus:
 
 Puheenjohtaja: <br>
 Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Rahastonhoitaja: <br>
-Kulttuurimestari: [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=406) <br>
+Kulttuurimestari: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
 Opintomestari: <br>
 Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
@@ -20,7 +20,7 @@ International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.p
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
 
-ISOpomo (1 kpl): Lassi Ihalainen <br>
+ISOpomo (1 kpl): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421) <br>
 SuurPhuksikapteeni (1 kpl): Ville Kauhanen <br>
 Tosi ISOpomo (1 kpl): Ella Koivula <br>
 Senior International Student Captain (1 kpl): Ilene Blanco <br>
@@ -39,24 +39,24 @@ Smurffi (10 kpl): Aku Heinonen
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
-Pelimies (1 kpl): Taavi Oja <br>
+Pelimies (1 kpl): Taavi Oja, Pulmu Pietikäinen <br>
 Sitsiohjelmavastaava (n kpl): <br>
 Tapahtuma- ja kulttuuriexcuvastaava (n kpl): <br>
 JuomanlASkija (n kpl): <br>
 Liikuntavastaavat (n kpl): <br>
 Jäykkäranne (1 kpl): Viet Tran<br>
-Seniilisihteeri (1 kpl): <br>
+Seniilisihteeri (1 kpl): Sanna Halmkrona<br>
 
 ### Kultainen toimitus (johdossa GTPT, Kulttuurimestarin alaisuudessa)
 
 Kultainen päätoimittaja (1 kpl): <br>
-Kultainen toimittaja (4 kpl): <br>
+Kultainen toimittaja (4 kpl): Jan Juvonen <br>
 Kultainen taittaja (1 kpl): <br>
 Kultainen graafikko (1 kpl):
 
 ### Lukkaritoimikunta (johdossa Lukkarimestari, Kulttuurimestarin alaisuudessa)
 
-Lukkarimestari (1 kpl): <br>
+Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
 Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 
 ### ASkitoimikunta (johdossa ASkimestari):
@@ -108,5 +108,5 @@ Varatoiminnantarkastaja (2 kpl):
 
 #### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
-Ulkoexcumestari (1 kpl) <br>
-Ulkoexcuhenkilö (3 kpl)
+Ulkoexcumestari (1 kpl): [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419) <br>
+Ulkoexcuhenkilö (3 kpl):

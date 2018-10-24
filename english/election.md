@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Elections 2018
+title: Candidates 2018
 ---
-Updated: 21.10. 18:00
+Updated: 24.10. 19:50
 
 ### The board:
 
 Chairperson: <br>
 Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Treasurer: <br>
-Master of Culture: [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=406) <br>
+Master of Culture: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
 Master of Studies: <br>
 Head of Corporate Relations: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Host: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
@@ -20,7 +20,7 @@ International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.p
 
 ### Freshman Committee (led by Freshman Captain and International Student Captain):
 
-Tutor Boss (1 pc): Lassi Ihalainen <br>
+Tutor Boss (1 pc): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421) <br>
 Great Freshman Captain (1 pc): Ville Kauhanen <br>
 Uncle Tutor Boss (1 pc): Ella Koivula <br>
 Senior International Student Captain (1 pc): Ilene Blanco <br>
@@ -39,24 +39,24 @@ Smurf (10 pc): Aku Heinonen
 
 ### Committee of Cultural Affairs (led by Master of Culture):
 
-Gameman (1 pc): Taavi Oja <br>
+Gameman (1 pc): Taavi Oja, Pulmu Pietikäinen <br>
 Sitsi program manager (n pc): <br>
 Director of Events and Cultural Excursions (n pc): <br>
 Cupbeares (n pc): <br>
 Sports managers (n pc): <br>
 Stiff Wrist (1 pc): Viet Tran<br>
-Senile Secretary (1 pc): <br>
+Senile Secretary (1 pc): Sanna Halmkrona <br>
 
 ### Golden Tomato (led by GTPT, under the Master of Culture)
 
 Golden Editor-in-Chief (GTPT)(1 pc): <br>
-Golden Editor (4 pc): <br>
+Golden Editor (4 pc): Jan Juvonen <br>
 Golden Layout Designer (1 pc): <br>
 Golden Graphic Artist (1 pc):
 
 ### Sexton Committee (led by Sexton Master, under Master of Culture)
 
-Sexton Master (1 pc): <br>
+Sexton Master (1 pc): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
 Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 
 ### Committee of ASki (led by Master of Aski):
@@ -108,5 +108,5 @@ Vice-Inspector (2 pc):
 
 #### [Committee of Foreign Excursions (led by Master of Foreign Excursions)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
-Master of Foreign Excursions (1 kpl) <br>
+Master of Foreign Excursions (1 kpl) [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419) <br>
 Foreign excursion person (3 kpl)
