@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vaalit 2018  
+title: vaalit 2018 - Elections 2018
 permalink: /vaalit/
 ---
 Vuosi lähestyy loppuaan, ja on aika valita killalle toimijat vuodelle 2019. Uudet toimijat valitaan vaalikokouksessa, joka pidetään keskiviikkona 31.10. klo 16:15 alkaen TU1-salissa TUASilla, osoitteessa Maarintie 8.
@@ -15,13 +15,13 @@ Muiksi toimihenkilöksi voi hakea [Google-lomakkeella](https://bit-ly.com/toimar
 
 Tarkemmat tiedot hakemisesta löytyy [täältä](https://as.fi/uutiset/2018/10/14/vaalit.html).
 
-Ehdokkaat näet [ehdokassivulta](https://as.fi/kilta/vaalit.html).
+Ehdokkaat näet [ehdokas-sivulta](https://as.fi/kilta/vaalit.html).
 
 ---
 
 The year is close to it's end and the time to choose the doers for the year 2019. New doers will be chosen in the election meeting, which is held on Wednesday 31.10. starting at 16:15 in TU1 hall at TUAS-building (Maarintie 8).
 
-[Election meeting's invitation](http://as.fi/english/meeting-invitation.md)
+[Election meeting's invitation](http://as.fi/english/meeting-invitation.html)
 
 Applying for the board, chairmen of the committees and freshmen committee (excluding DsD-captain) is done in the guild's [election forum](https://as.ayy.fi/foorumi/viewforum.php?f=12).
 
