@@ -2,13 +2,6 @@
 layout: page
 title: Kokouskutsu
 ---
-Alta löydät vaalikokouksen kokouskutsun, joka on toimitettu myös ASkin ilmoitustaululle.
-
-Vaalien lisäksi haluamme muistuttaa 26.10. klo 15:15 alkavasta vaalihiillostus tapahtumasta, jossa ehdokkaat pääsevät tarkemmin esiintymään ja kertomaan suunnitelmista tulevalle vuodelle. Hiillostuksen esiintyjälistaa voit selata täältä: <https://as.ayy.fi/ilmo/vaalihiillostus2018>
-
-<https://www.facebook.com/events/179139283006931/>
-
---------------
 
 **Automaatio- ja systeemitekniikan kilta ry** <br>
 **KOKOUSKUTSU 31.10.2018**
