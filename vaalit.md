@@ -3,7 +3,7 @@ layout: page
 title: vaalit 2018  
 permalink: /vaalit/
 ---
-Vuosi lähestyy loppuaan, ja on aika valita killalle toimijat vuodelle 2018. Uudet toimijat valitaan vaalikokouksessa, joka pidetään keskiviikkona 31.10. klo 16:15 alkaen TU1-salissa TUASilla, osoitteessa Maarintie 8.
+Vuosi lähestyy loppuaan, ja on aika valita killalle toimijat vuodelle 2019. Uudet toimijat valitaan vaalikokouksessa, joka pidetään keskiviikkona 31.10. klo 16:15 alkaen TU1-salissa TUASilla, osoitteessa Maarintie 8.
 
 [Vaalikokouksen kokouskutsu](http://as.fi/kilta/kokouskutsu.html)
 
