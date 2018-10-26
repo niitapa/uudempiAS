@@ -6,9 +6,9 @@ Päivitetty: 26.10. 17:30
 
 ### Hallitus:
 
-Puheenjohtaja: Sever Casserly <br>
+Puheenjohtaja: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424) <br>
 Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
-Rahastonhoitaja: <br>
+Rahastonhoitaja: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Kulttuurimestari: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
 Opintomestari: <br>
 Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
@@ -35,7 +35,7 @@ Muu: Helena Kaisanlahti
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): Aku Heinonen, Daniel Nikkari, Sakari Ropponen
+Smurffi (10 kpl): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 

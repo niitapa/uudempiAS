@@ -6,9 +6,9 @@ Updated: 26.10. 17:30
 
 ### The board:
 
-Chairperson: Severi Casserly <br>
+Chairperson: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424) <br>
 Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
-Treasurer: <br>
+Treasurer: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Master of Culture: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
 Master of Studies: <br>
 Head of Corporate Relations: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
@@ -35,7 +35,7 @@ Other: Helena Kaisanlahti
 
 ### Entertainment Committee (led by Host and Hostess):
 
-Smurf (10 pc): Aku Heinonen, Daniel Nikkari, Sakari Ropponen
+Smurf (10 pc): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen
 
 ### Committee of Cultural Affairs (led by Master of Culture):
 
