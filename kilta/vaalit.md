@@ -2,11 +2,11 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 26.10. 06:00
+Päivitetty: 26.10. 17:30
 
 ### Hallitus:
 
-Puheenjohtaja: <br>
+Puheenjohtaja: Sever Casserly <br>
 Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Rahastonhoitaja: <br>
 Kulttuurimestari: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
@@ -14,13 +14,13 @@ Opintomestari: <br>
 Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
-Viestintämestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=409), [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
+Viestintämestari: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
 Phuksikapteeni: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405) <br>
-International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413), ([Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405))
+International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413)
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
 
-ISOpomo (1 kpl): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421) <br>
+ISOpomo (1 kpl): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421), [Emil Huttunen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=423) <br>
 SuurPhuksikapteeni (1 kpl): Ville Kauhanen <br>
 Tosi ISOpomo (1 kpl): Ella Koivula <br>
 Senior International Student Captain (1 kpl): Ilene Blanco <br>

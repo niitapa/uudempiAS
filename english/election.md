@@ -2,11 +2,11 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 26.10. 06:00
+Updated: 26.10. 17:30
 
 ### The board:
 
-Chairperson: <br>
+Chairperson: Severi Casserly <br>
 Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Treasurer: <br>
 Master of Culture: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
@@ -14,13 +14,13 @@ Master of Studies: <br>
 Head of Corporate Relations: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Host: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Hostess: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
-Master of Communications: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=409), [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
+Master of Communications: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
 Freshman Captain: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405) <br>
-International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413), ([Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405))
+International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413)
 
 ### Freshman Committee (led by Freshman Captain and International Student Captain):
 
-Tutor Boss (1 pc): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421) <br>
+Tutor Boss (1 pc): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421), [Emil Huttunen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=423) <br>
 Great Freshman Captain (1 pc): Ville Kauhanen <br>
 Uncle Tutor Boss (1 pc): Ella Koivula <br>
 Senior International Student Captain (1 pc): Ilene Blanco <br>
