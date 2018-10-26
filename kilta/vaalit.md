@@ -2,7 +2,7 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 24.10. 19:50
+Päivitetty: 26.10. 06:00
 
 ### Hallitus:
 
@@ -35,7 +35,7 @@ Muu: Helena Kaisanlahti
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): Aku Heinonen
+Smurffi (10 kpl): Aku Heinonen, Daniel Nikkari, Sakari Ropponen
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
@@ -108,5 +108,5 @@ Varatoiminnantarkastaja (2 kpl):
 
 #### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
-Ulkoexcumestari (1 kpl): [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419) <br>
+Ulkoexcumestari (1 kpl): [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419), [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
 Ulkoexcuhenkilö (3 kpl):

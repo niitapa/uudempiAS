@@ -2,7 +2,7 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 24.10. 19:50
+Updated: 26.10. 06:00
 
 ### The board:
 
@@ -35,7 +35,7 @@ Other: Helena Kaisanlahti
 
 ### Entertainment Committee (led by Host and Hostess):
 
-Smurf (10 pc): Aku Heinonen
+Smurf (10 pc): Aku Heinonen, Daniel Nikkari, Sakari Ropponen
 
 ### Committee of Cultural Affairs (led by Master of Culture):
 
@@ -108,5 +108,5 @@ Vice-Inspector (2 pc):
 
 #### [Committee of Foreign Excursions (led by Master of Foreign Excursions)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
-Master of Foreign Excursions (1 kpl) [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419) <br>
+Master of Foreign Excursions (1 kpl) [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419), [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
 Foreign excursion person (3 kpl)
