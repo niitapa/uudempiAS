@@ -28,7 +28,7 @@ DSD Captain (1 kpl):
 
 ### Opintotoimikunta (johdossa Opintomestari):
 
-Informaatti (1 kpl): <br>
+Informaatti (1 kpl): Ville Eronen <br>
 Automaatti (1 kpl): <br>
 DSD-maatti (1 kpl): <br>
 Muu: Helena Kaisanlahti
@@ -50,7 +50,7 @@ Seniilisihteeri (1 kpl): Sanna Halmkrona<br>
 ### Kultainen toimitus (johdossa GTPT, Kulttuurimestarin alaisuudessa)
 
 Kultainen päätoimittaja (1 kpl): <br>
-Kultainen toimittaja (4 kpl): Jan Juvonen <br>
+Kultainen toimittaja (4 kpl): Jan Juvonen, Karolina Itäinen <br>
 Kultainen taittaja (1 kpl): <br>
 Kultainen graafikko (1 kpl):
 
@@ -62,7 +62,7 @@ Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 ### ASkitoimikunta (johdossa ASkimestari):
 
 ASkimestari (1 kpl): <br>
-ASkivahti (5 kpl): <br>
+ASkivahti (5 kpl): Ville Eronen<br>
 
 ### Säätötoimikunta (johdossa Säätöpomo, Varapuheenjohtajan alaisuudessa):
 

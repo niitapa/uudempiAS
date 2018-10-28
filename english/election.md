@@ -28,7 +28,7 @@ DSD Captain (1 pc):
 
 ### Study Committee (led by Master of Studies):
 
-Informant (1 pc): <br>
+Informant (1 pc): Ville Eronen <br>
 Automaton (1 pc): <br>
 DSD-maton (1 pc): <br>
 Other: Helena Kaisanlahti
@@ -50,7 +50,7 @@ Senile Secretary (1 pc): Sanna Halmkrona <br>
 ### Golden Tomato (led by GTPT, under the Master of Culture)
 
 Golden Editor-in-Chief (GTPT)(1 pc): <br>
-Golden Editor (4 pc): Jan Juvonen <br>
+Golden Editor (4 pc): Jan Juvonen, Karolina Itäinen <br>
 Golden Layout Designer (1 pc): <br>
 Golden Graphic Artist (1 pc):
 
@@ -62,7 +62,7 @@ Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
 ### Committee of ASki (led by Master of Aski):
 
 Master of ASki (1 pc): <br>
-Guardian of ASki (5 pc): <br>
+Guardian of ASki (5 pc): Ville Eronen <br>
 
 ### Control Club (led by Control Boss, under the vice chairperson)
 
