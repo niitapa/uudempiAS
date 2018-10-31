@@ -2,11 +2,11 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 31.10. 15:20
+Päivitetty: 31.10. 16:30
 
 ### Hallitus:
 
-Puheenjohtaja: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424) <br>
+Puheenjohtaja: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424), Ville Kauhanen <br>
 Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Rahastonhoitaja: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Kulttuurimestari: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
@@ -16,7 +16,7 @@ Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <b
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Viestintämestari: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
 Phuksikapteeni: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405), [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=427) <br>
-International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413)
+International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413), [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=428)
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
 
@@ -56,7 +56,7 @@ Kultainen graafikko (1 kpl):
 
 ### Lukkaritoimikunta (johdossa Lukkarimestari, Kulttuurimestarin alaisuudessa)
 
-Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
+Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418), [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=429) <br>
 Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen
 
 ### ASkitoimikunta (johdossa ASkimestari):

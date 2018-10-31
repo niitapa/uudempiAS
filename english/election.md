@@ -2,11 +2,11 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 31.10. 15:20
+Updated: 31.10. 16:30
 
 ### The board:
 
-Chairperson: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424) <br>
+Chairperson: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424), Ville Kauhanen <br>
 Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Treasurer: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Master of Culture: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
@@ -16,7 +16,7 @@ Host: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Hostess: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Master of Communications: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
 Freshman Captain: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405), [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=427) <br>
-International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413)
+International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413), [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=428)
 
 ### Freshman Committee (led by Freshman Captain and International Student Captain):
 
@@ -56,7 +56,7 @@ Golden Graphic Artist (1 pc):
 
 ### Sexton Committee (led by Sexton Master, under Master of Culture)
 
-Sexton Master (1 pc): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
+Sexton Master (1 pc): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418), [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=429) <br>
 Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen
 
 ### Committee of ASki (led by Master of Aski):
