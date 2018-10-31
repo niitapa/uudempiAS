@@ -40,7 +40,7 @@ Ulkoexcumestari: Jaakko Majuri
 ### Toimikuntien ulkopuolella
 
 Oltermanni: Ville Kyrki <br>
-Toiminnantarkastaja: Titt Saari, Jan juvonen<br>
+Toiminnantarkastaja: Titta Saari, Jan juvonen<br>
 Varatoiminnantarkastaja: Karolina Itäinen, Niilo Metsänen
 
 ---
@@ -82,5 +82,5 @@ Master of Foreign Excursions: Jaakko Majuri
 ### Toimikuntien ulkopuolella
 
 Alderman: Ville Kyrki <br>
-Inspector: Titt Saari, Jan juvonen<br>
+Inspector: Titta Saari, Jan juvonen<br>
 Vice-Inspector: Karolina Itäinen, Niilo Metsänen
