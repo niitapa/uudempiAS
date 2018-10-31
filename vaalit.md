@@ -3,32 +3,72 @@ layout: page
 title: Vaalit 2018 - Elections 2018
 permalink: /vaalit/
 ---
-Vuosi lähestyy loppuaan, ja on aika valita killalle toimijat vuodelle 2019. Uudet toimijat valitaan vaalikokouksessa, joka pidetään keskiviikkona 31.10. klo 16:15 alkaen TU1-salissa TUASilla, osoitteessa Maarintie 8.
+Vaalit ovat ohi. 31.10.2019 vaalikokouksessa valitut:
 
-[Vaalikokouksen kokouskutsu](http://as.fi/kilta/kokouskutsu.html)
+### Hallitus
+Puheenjohtaja: Severi Casserly<br>
+Sihteeri:  Jaakko Majuri<br>
+Rahastonhoitaja: Ville Eronen<br>
+Phuksikapteeni: Lassi Ihalainen<br>
+Opintomestari: Akseli Konttas<br>
+Isäntä: Vesta Kulomaa<br>
+Emäntä: Alex Korpela<br>
+Kulttuurimestari: Juhana Kekoni<br>
+Viestintämestari: Niina Tapanainen<br>
+Yrityssuhdevastaava: Jyri Kolu<br>
+International Student Captain: Mikko Hokkanen
 
-Hallitukseen, toimikuntien puheenjohtajiksi ja phuksitoimikuntaan (poislukien DsD-captain) haetaan killan [vaalifoorumilla](https://as.ayy.fi/foorumi/viewforum.php?f=12).
+### Phuksitoimikunta:
 
-Vaalifoorumilla on nähtävillä hallituksen pohjaesitykset hallitus- ja toimihenkilöviroista vuodelle 2019. Mikäli haluat ehdottaa uutta virkaa, haku tapahtuu myös foorumilla.
+ISOpomo: Emil Huttunen<br>
+SuurPhuksikapteeni: Ville Kauhanen<br>
+Tosi ISOpomo: Ella Koivula<br>
+Senior International Student Captain: Ilene Blanco<br>
 
-Muiksi toimihenkilöksi voi hakea [Google-lomakkeella](https://bit-ly.com/toimari-ilmo). Ehdolleasettuminen on nyt auki. Käy siis kirjoittamassa oma hakemuksesi. 
+### Kultainen toimitus:
 
-Tarkemmat tiedot hakemisesta löytyy [täältä](https://as.fi/uutiset/2018/10/14/vaalit.html).
+Kultainen päätoimittaja: Jan Juvonen
 
-Ehdokkaat näet [ehdokas-sivulta](https://as.fi/kilta/vaalit.html).
+### Lukkaritoimikunta
+
+Lukkarimestari: Karolina Itäinen
+
+### Ulkoexcutoimikunta
+
+Ulkoexcumestari: Jaakko Majuri
 
 ---
 
-The year is close to it's end and the time to choose the doers for the year 2019. New doers will be chosen in the election meeting, which is held on Wednesday 31.10. starting at 16:15 in TU1 hall at TUAS-building (Maarintie 8).
+The elections are now over. On 31.10.2018 election meeting the following were elected:
 
-[Election meeting's invitation](http://as.fi/english/meeting-invitation.html)
+### The board:
+Chairman: Severi Casserly<br>
+Secretary:  Jaakko Majuri<br>
+Treasurer: Ville Eronen<br>
+Freshman Captain: Lassi Ihalainen<br>
+Master of Studies: Akseli Konttas<br>
+Host: Vesta Kulomaa<br>
+Hostess: Alex Korpela<br>
+Master of Culture: Juhana Kekoni<br>
+Viestintämestari: Niina Tapanainen<br>
+Head of Corporate Relations: Jyri Kolu<br>
+International Student Captain: Mikko Hokkanen
 
-Applying for the board, chairmen of the committees and freshmen committee (excluding DsD-captain) is done in the guild's [election forum](https://as.ayy.fi/foorumi/viewforum.php?f=12).
+### Freshman Commitee:
 
-The proposals for the structures of the board and the committees for the year 2019 can be found at the election forum. If you want to suggest a new position, that also should be done at the forum.
+Tutor Boss: Lassi Ihalainen, Emil Huttunen<br>
+Great Freshman Captain: Ville Kauhanen<br>
+Uncle Tutor Boss: Ella Koivula<br>
+Senior International Student Captain: Ilene Blanco<br>
 
-Applying for the other official positions can be done through the [Google form](https://bit-ly.com/toimari-ilmo). Applying for the positions is now open, so go ahead and write your application.
+### Golden tomato:
 
-Further information about applying can be found [here](https://as.fi/uutiset/2018/10/14/elections.html).
+Golden Editor-in-Chief: Jan Juvonen
 
-The canditates can be found on the [candidates-page](https://as.fi/english/election.html).
+### Sexton Committee:
+
+Sexton Master: Karolina Itäinen
+
+### Committee of Foreign Excursions:
+
+Master of Foreign Excursions: Jaakko Majuri
