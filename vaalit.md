@@ -37,6 +37,12 @@ Lukkarimestari: Karolina Itäinen
 
 Ulkoexcumestari: Jaakko Majuri
 
+### Toimikuntien ulkopuolella
+
+Oltermanni: Ville Kyrki <br>
+Toiminnantarkastaja: Titt Saari, Jan juvonen<br>
+Varatoiminnantarkastaja: Karolina Itäinen, Niilo Metsänen
+
 ---
 
 The elections are now over. On 31.10.2018 election meeting the following were elected:
@@ -56,7 +62,7 @@ International Student Captain: Mikko Hokkanen
 
 ### Freshman Commitee:
 
-Tutor Boss: Lassi Ihalainen, Emil Huttunen<br>
+Tutor Boss: Emil Huttunen<br>
 Great Freshman Captain: Ville Kauhanen<br>
 Uncle Tutor Boss: Ella Koivula<br>
 Senior International Student Captain: Ilene Blanco<br>
@@ -72,3 +78,9 @@ Sexton Master: Karolina Itäinen
 ### Committee of Foreign Excursions:
 
 Master of Foreign Excursions: Jaakko Majuri
+
+### Toimikuntien ulkopuolella
+
+Alderman: Ville Kyrki <br>
+Inspector: Titt Saari, Jan juvonen<br>
+Vice-Inspector: Karolina Itäinen, Niilo Metsänen
