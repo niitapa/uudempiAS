@@ -2,7 +2,7 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 26.10. 17:30
+Updated: 31.10. 15:20
 
 ### The board:
 
@@ -15,7 +15,7 @@ Head of Corporate Relations: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php
 Host: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Hostess: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Master of Communications: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
-Freshman Captain: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405) <br>
+Freshman Captain: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405), [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=427) <br>
 International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413)
 
 ### Freshman Committee (led by Freshman Captain and International Student Captain):
@@ -35,7 +35,7 @@ Other: Helena Kaisanlahti
 
 ### Entertainment Committee (led by Host and Hostess):
 
-Smurf (10 pc): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen
+Smurf (10 pc): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen
 
 ### Committee of Cultural Affairs (led by Master of Culture):
 
@@ -57,12 +57,12 @@ Golden Graphic Artist (1 pc):
 ### Sexton Committee (led by Sexton Master, under Master of Culture)
 
 Sexton Master (1 pc): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
-Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
+Sexton (6 pc): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen
 
 ### Committee of ASki (led by Master of Aski):
 
 Master of ASki (1 pc): <br>
-Guardian of ASki (5 pc): Ville Eronen <br>
+Guardian of ASki (5 pc): Ville Eronen, Akseli Konttas <br>
 
 ### Control Club (led by Control Boss, under the vice chairperson)
 
@@ -78,14 +78,14 @@ IT Person (4 pc): Jyri Kolu
 
 ### Public Relations Committee (led by Head of Corporate Relations):
 
-Public Relations Journeyman (n pc): Jyri Kolu <br>
+Public Relations Journeyman (n pc): Jyri Kolu, Sanna Halmkrona, Antti Regelin <br>
 Public Relations Consultant (1 pc): Leo Matikainen <br>
-TEKSAS Ranger (1 pc):
+TEKSAS Ranger (1 pc): Roope Savolainen
 
 ### Media Committee (led by Master of Communications):
 
 Graphics Designer (2 pc): Taavi Oja <br>
-Documentator (4 pc): Helena Kaisanlahti, Lukas Wachter <br>
+Documentator (4 pc): Helena Kaisanlahti, Lukas Wachter, Taru Virtanen<br>
 Social Media Manager (1 pc):
 
 ### Stimulaatio Committee (led by Stimulantti):
@@ -110,3 +110,5 @@ Vice-Inspector (2 pc):
 
 Master of Foreign Excursions (1 kpl) [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419), [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
 Foreign excursion person (3 kpl)
+
+#### [Continuity Committee](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)

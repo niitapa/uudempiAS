@@ -2,7 +2,7 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 26.10. 17:30
+Päivitetty: 31.10. 15:20
 
 ### Hallitus:
 
@@ -15,7 +15,7 @@ Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=4
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Viestintämestari: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
-Phuksikapteeni: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405) <br>
+Phuksikapteeni: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405), [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=427) <br>
 International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413)
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
@@ -35,7 +35,7 @@ Muu: Helena Kaisanlahti
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen
+Smurffi (10 kpl): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
@@ -57,12 +57,12 @@ Kultainen graafikko (1 kpl):
 ### Lukkaritoimikunta (johdossa Lukkarimestari, Kulttuurimestarin alaisuudessa)
 
 Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
-Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran
+Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
 ASkimestari (1 kpl): <br>
-ASkivahti (5 kpl): Ville Eronen<br>
+ASkivahti (5 kpl): Ville Eronen, Akseli Konttas<br>
 
 ### Säätötoimikunta (johdossa Säätöpomo, Varapuheenjohtajan alaisuudessa):
 
@@ -78,14 +78,14 @@ ATK-henkilö (4 kpl): Jyri Kolu
 
 ### Yrityssuhdetoimikunta (johdossa Yrityssuhdemestari):
 
-Yrityssuhdekisälli (n kpl): Jyri Kolu <br>
+Yrityssuhdekisälli (n kpl): Jyri Kolu, Sanna Halmkrona, Antti Regelin <br>
 Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
-TEKSAS Ranger (1 kpl):
+TEKSAS Ranger (1 kpl): Roope Savolainen
 
 ### Mediatoimikunta (johdossa Viestintämestari):
 
 Graafikko (2 kpl): Taavi Oja <br>
-Dokumentoija (4 kpl): Helena Kaisanlahti, Lukas Wachter <br>
+Dokumentoija (4 kpl): Helena Kaisanlahti, Lukas Wachter, Taru Virtanen <br>
 Somevastaava (1 kpl):
 
 ### Stimulaatio toimikunta (johdossa Stimulantti):
@@ -110,3 +110,5 @@ Varatoiminnantarkastaja (2 kpl):
 
 Ulkoexcumestari (1 kpl): [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419), [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
 Ulkoexcuhenkilö (3 kpl):
+
+#### [Jatkuvuustoimikunta](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
