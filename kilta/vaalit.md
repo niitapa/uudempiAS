@@ -111,6 +111,6 @@ Ulkoexcuhenkilö (3 kpl): []
 
 ### Toimikuntien ulkopuolelta:
 
-Oltermanni (1 kpl): []<br>
-Toiminnantarkastaja (2 kpl): []<br>
-Varatoiminnantarkastaja (2 kpl): []
+Oltermanni (1 kpl): Ville Kyrki<br>
+Toiminnantarkastaja (2 kpl): Titta Saari, Jan Juvonen<br>
+Varatoiminnantarkastaja (2 kpl): Karolina Itäinen, Niilo Metsänen
