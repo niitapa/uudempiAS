@@ -2,113 +2,115 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 31.10. 16:30
+Päivitetty: 4.11. 20:30
+
+Haku toimikuntiin on auki 11.11. asti ja paikkoja on vielä jäljellä! Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
+
+Alla olevista toimiviroista hakasulkeissa olevat henkilöt **eivät ole** valittuja, vaan hakeneita.
 
 ### Hallitus:
 
-Puheenjohtaja: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424), Ville Kauhanen <br>
+Puheenjohtaja: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424)<br>
 Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Rahastonhoitaja: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Kulttuurimestari: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
-Opintomestari: <br>
+Opintomestari: Matias Mäki-Leppilampi<br>
 Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
 Viestintämestari: [Niina Tapanainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=410) <br>
-Phuksikapteeni: [Mari Pulkkinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=411), [Arttu Rintala](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=405), [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=427) <br>
-International Student Captain: [Taavi Oja](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=413), [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=428)
+Phuksikapteeni: [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=427) <br>
+International Student Captain: [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=428)
 
 ### Phuksitoimikunta (johdossa Phuksikapteeni ja International Student Captain):
 
-ISOpomo (1 kpl): [Lassi Ihalainen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=421), [Emil Huttunen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=423) <br>
+ISOpomo (1 kpl): [Emil Huttunen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=423) <br>
 SuurPhuksikapteeni (1 kpl): Ville Kauhanen <br>
 Tosi ISOpomo (1 kpl): Ella Koivula <br>
 Senior International Student Captain (1 kpl): Ilene Blanco <br>
-DSD Captain (1 kpl): 
+DSD Captain (1 kpl):  [Arttu Rintala, Helena Kaisanlahti]
 
 ### Opintotoimikunta (johdossa Opintomestari):
 
-Informaatti (1 kpl): Ville Eronen <br>
-Automaatti (1 kpl): <br>
-DSD-maatti (1 kpl): <br>
-Muu: Helena Kaisanlahti
+Informaatti (1 kpl): [Ville Eronen] <br>
+Automaatti (1 kpl): []<br>
+DSD-maatti (1 kpl): []<br>
+Muu: [Helena Kaisanlahti]
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen
+Smurffi (10 kpl): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi]
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
-Pelimies (1 kpl): Taavi Oja, Pulmu Pietikäinen <br>
-Sitsiohjelmavastaava (n kpl): <br>
-Tapahtuma- ja kulttuuriexcuvastaava (n kpl): <br>
-JuomanlASkija (n kpl): <br>
-Liikuntavastaavat (n kpl): <br>
-Jäykkäranne (1 kpl): Viet Tran<br>
-Seniilisihteeri (1 kpl): Sanna Halmkrona<br>
+Pelimies (1 kpl): [Taavi Oja, Pulmu Pietikäinen] <br>
+Sitsiohjelmavastaava (n kpl): []<br>
+Tapahtuma- ja kulttuuriexcuvastaava (n kpl): []<br>
+JuomanlASkija (n kpl): []<br>
+Liikuntavastaavat (n kpl): []<br>
+Jäykkäranne (1 kpl): [Viet Tran]<br>
+Seniilisihteeri (1 kpl): [Sanna Halmkrona]<br>
 
-### Kultainen toimitus (johdossa GTPT, Kulttuurimestarin alaisuudessa)
+### Kultainen toimitus (johdossa GTPT)
 
-Kultainen päätoimittaja (1 kpl): <br>
-Kultainen toimittaja (4 kpl): Jan Juvonen, Karolina Itäinen <br>
-Kultainen taittaja (1 kpl): <br>
-Kultainen graafikko (1 kpl):
+Kultainen päätoimittaja (1 kpl): [Jan Juvonen]<br>
+Kultainen toimittaja (4 kpl): [Karolina Itäinen] <br>
+Kultainen taittaja (1 kpl): []<br>
+Kultainen graafikko (1 kpl): []
 
-### Lukkaritoimikunta (johdossa Lukkarimestari, Kulttuurimestarin alaisuudessa)
+### Lukkaritoimikunta (johdossa Lukkarimestari)
 
-Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418), [Mikko Hokkanen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=429) <br>
-Lukkari (6 kpl): Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen
+Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418)<br>
+Lukkari (6 kpl): [Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen]
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
-ASkimestari (1 kpl): <br>
-ASkivahti (5 kpl): Ville Eronen, Akseli Konttas<br>
+ASkimestari (1 kpl): []<br>
+ASkivahti (5 kpl): [Ville Eronen, Akseli Konttas]<br>
 
-### Säätötoimikunta (johdossa Säätöpomo, Varapuheenjohtajan alaisuudessa):
+### Säätötoimikunta (johdossa Säätöpomo):
 
-Säätöpomo (1 kpl): <br>
-Säätökisälli (1 kpl): <br>
-Elepajavastaava (1 kpl)
+Säätöpomo (1 kpl): []<br>
+Säätökisälli (1 kpl): []<br>
+Elepajavastaava (1 kpl): []
 
 ### ATK-toimikunta (johdossa Bittimestari):
 
-Bittimestari (1 kpl): <br>
-Serverihenkilö (1 kpl): <br>
-ATK-henkilö (4 kpl): Jyri Kolu
+Bittimestari (1 kpl): []<br>
+Serverihenkilö (1 kpl): []<br>
+ATK-henkilö (4 kpl): [Jyri Kolu]
 
-### Yrityssuhdetoimikunta (johdossa Yrityssuhdemestari):
+### Yrityssuhdetoimikunta (johdossa Yrityssuhdevastaava):
 
-Yrityssuhdekisälli (n kpl): Jyri Kolu, Sanna Halmkrona, Antti Regelin <br>
-Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
-TEKSAS Ranger (1 kpl): Roope Savolainen
+Yrityssuhdekisälli (n kpl): [Jyri Kolu, Sanna Halmkrona, Antti Regelin] <br>
+Yrityssuhdeneuvonantaja (1 kpl): [Leo Matikainen] <br>
+TEKSAS Ranger (1 kpl): [Roope Savolainen]
 
 ### Mediatoimikunta (johdossa Viestintämestari):
 
-Graafikko (2 kpl): Taavi Oja <br>
-Dokumentoija (4 kpl): Helena Kaisanlahti, Lukas Wachter, Taru Virtanen <br>
-Somevastaava (1 kpl):
+Graafikko (2 kpl): [Taavi Oja] <br>
+Dokumentoija (4 kpl): [Helena Kaisanlahti, Lukas Wachter, Taru Virtanen] <br>
+Somevastaava (1 kpl): []
 
-### Stimulaatio toimikunta (johdossa Stimulantti):
+### Stimulaatiotoimikunta (johdossa Stimulantti):
 
-Stimulantti (1 kpl): <br>
-Depressantti (n kpl): Helena Kaisanlahti <br>
-Eskalaattori (1 kpl):
+Stimulantti (1 kpl): []<br>
+Depressantti (n kpl): [Helena Kaisanlahti] <br>
+Eskalaattori (1 kpl): []
+
+### rrrRankkatoimikunta (johdossa Yrityssuhdevastaava)
+
+[rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): [Onni Lampi, Roope Pääkkönen, Ville Kauhanen]
+
+### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
+
+Ulkoexcumestari (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
+Ulkoexcuhenkilö (3 kpl): []
+
+### [Jatkuvuusneuvosto](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 
 ### Toimikuntien ulkopuolelta:
 
-Oltermanni (1 kpl): <br>
-Toiminnantarkastaja (2 kpl): <br>
-Varatoiminnantarkastaja (2 kpl):
-
-### Ehdotetut virat:
-
-[rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
-
-### Ehdotetut toimikunnat:
-
-#### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
-
-Ulkoexcumestari (1 kpl): [Niko Soininen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=419), [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Ulkoexcuhenkilö (3 kpl):
-
-#### [Jatkuvuustoimikunta](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
+Oltermanni (1 kpl): []<br>
+Toiminnantarkastaja (2 kpl): []<br>
+Varatoiminnantarkastaja (2 kpl): []
