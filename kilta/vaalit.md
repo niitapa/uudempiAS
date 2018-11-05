@@ -2,7 +2,7 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 4.11. 20:30
+Päivitetty: 5.11. 15:00
 
 Haku toimikuntiin on auki 11.11. asti ja paikkoja on vielä jäljellä! Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
 
@@ -14,7 +14,7 @@ Puheenjohtaja: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=
 Sihteeri: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Rahastonhoitaja: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Kulttuurimestari: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
-Opintomestari: Matias Mäki-Leppilampi<br>
+Opintomestari: Akseli Konttas<br>
 Yrityssuhdemestari: [Jyri Kolu](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=416) <br>
 Isäntä: [Vesta Kulomaa](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=407) <br>
 Emäntä: [Alex Korpela](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=408) <br>
@@ -61,7 +61,7 @@ Kultainen graafikko (1 kpl): []
 ### Lukkaritoimikunta (johdossa Lukkarimestari)
 
 Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418)<br>
-Lukkari (6 kpl): [Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen]
+Lukkari (6 kpl): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen, Ville Piesala]
 
 ### ASkitoimikunta (johdossa ASkimestari):
 

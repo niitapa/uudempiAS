@@ -2,7 +2,7 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 4.11. 20:30
+Updated: 5.11. 15:00
 
 The application period for the next year's committees is still open! It will end at 11.11. and there are some places left. Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
 
@@ -61,7 +61,7 @@ Golden Graphic Artist (1 pc): []
 ### Sexton Committee (led by Sexton Master)
 
 Sexton Master (1 pc): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
-Sexton (6 pc): [Arttu Rintala, Karolina Itäinen, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen]
+Sexton (6 pc): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen, Ville Piesala]
 
 ### Committee of ASki (led by Master of Aski):
 
