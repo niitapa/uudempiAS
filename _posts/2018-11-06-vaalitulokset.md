@@ -1,9 +1,17 @@
 ---
-layout: page
-title: Vaalit 2018 - Elections 2018
-permalink: /vaalit/
+layout: post
+title: "Vaalitulokset - Election Results"
+date: 2018-11-04 22:40:00 +0300
+language: fin
+author: Viestintämestari
+categories: AS pääuutiset
 ---
-Vaalit ovat ohi. 31.10.2019 vaalikokouksessa valitut:
+
+#### Toimarivirkoihin haku
+
+Toimarivirkoihin haku on auki 11.11. asti, lisätietoa hakemisesta ja toimikunnista löytyy [TÄÄLTÄ](https://as.fi/kilta/vaalit.html)
+
+31.10.2019 vaalikokouksessa valitut:
 
 ### Hallitus
 Puheenjohtaja: Severi Casserly<br>
@@ -43,9 +51,12 @@ Oltermanni: Ville Kyrki <br>
 Toiminnantarkastaja: Titta Saari, Jan juvonen<br>
 Varatoiminnantarkastaja: Karolina Itäinen, Niilo Metsänen
 
----
 
-The elections are now over. On 31.10.2018 election meeting the following were elected:
+---
+#### Applying for official positions
+The application period is still open till 11.11. More information about applying and committees can be found [HERE](https://as.fi/english/election.html).
+
+On 31.10.2018 election meeting the following were elected:
 
 ### The board:
 Chairman: Severi Casserly<br>
@@ -79,7 +90,7 @@ Sexton Master: Karolina Itäinen
 
 Master of Foreign Excursions: Jaakko Majuri
 
-### Outside committees
+### Outside committees:
 
 Alderman: Ville Kyrki <br>
 Inspector: Titta Saari, Jan juvonen<br>

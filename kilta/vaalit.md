@@ -2,9 +2,11 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 5.11. 15:00
+Päivitetty: 6.11. 11:00
 
 Haku toimikuntiin on auki 11.11. asti ja paikkoja on vielä jäljellä! Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
+
+Toimikuntien puheenjohtajiksi voi hakea [toimari-ilmon](http://bit.ly/toimari-ilmo) kautta tai lähettämällä vapaamuotoisen hakemuksen seuraavalle hallitukselle osoitteeseen tulevahallitus [at] as.fi.
 
 Alla olevista toimiviroista hakasulkeissa olevat henkilöt **eivät ole** valittuja, vaan hakeneita.
 

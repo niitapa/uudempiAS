@@ -2,9 +2,11 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 5.11. 15:00
+Updated: 6.11. 11:00
 
 The application period for the next year's committees is still open! It will end at 11.11. and there are some places left. Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
+
+Applying for chairperson of committees can be done through the [Official-registration](bit.ly/toimari-ilmo) or by sending an application to the next board at tulevahallitus [at] as.fi
 
 Below this, the positions with names in brackets have the applicant's for the position, they **have not been** selected for the position yet.
 
