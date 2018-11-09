@@ -2,7 +2,7 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 6.11. 11:00
+Päivitetty: 9.11. 14:40
 
 Haku toimikuntiin on auki 11.11. asti ja paikkoja on vielä jäljellä! Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
 
@@ -41,7 +41,7 @@ Muu: [Helena Kaisanlahti]
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi]
+Smurffi (10 kpl): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen]
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
@@ -55,8 +55,8 @@ Seniilisihteeri (1 kpl): [Sanna Halmkrona]<br>
 
 ### Kultainen toimitus (johdossa GTPT)
 
-Kultainen päätoimittaja (1 kpl): [Jan Juvonen]<br>
-Kultainen toimittaja (4 kpl): [Karolina Itäinen] <br>
+Kultainen päätoimittaja (1 kpl): Jan Juvonen<br>
+Kultainen toimittaja (4 kpl): [Karolina Itäinen, Sanna Halmkrona] <br>
 Kultainen taittaja (1 kpl): []<br>
 Kultainen graafikko (1 kpl): []
 
@@ -67,7 +67,7 @@ Lukkari (6 kpl): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mi
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
-ASkimestari (1 kpl): []<br>
+ASkimestari (1 kpl): [Taavi Oja]<br>
 ASkivahti (5 kpl): [Ville Eronen, Akseli Konttas]<br>
 
 ### Säätötoimikunta (johdossa Säätöpomo):
@@ -85,7 +85,7 @@ ATK-henkilö (4 kpl): [Jyri Kolu]
 ### Yrityssuhdetoimikunta (johdossa Yrityssuhdevastaava):
 
 Yrityssuhdekisälli (n kpl): [Jyri Kolu, Sanna Halmkrona, Antti Regelin] <br>
-Yrityssuhdeneuvonantaja (1 kpl): [Leo Matikainen] <br>
+Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
 TEKSAS Ranger (1 kpl): [Roope Savolainen]
 
 ### Mediatoimikunta (johdossa Viestintämestari):
@@ -96,7 +96,7 @@ Somevastaava (1 kpl): []
 
 ### Stimulaatiotoimikunta (johdossa Stimulantti):
 
-Stimulantti (1 kpl): []<br>
+Stimulantti (1 kpl): [Noora Salminen & Sanna Halmkrona]<br>
 Depressantti (n kpl): [Helena Kaisanlahti] <br>
 Eskalaattori (1 kpl): []
 
@@ -107,7 +107,7 @@ Eskalaattori (1 kpl): []
 ### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
 Ulkoexcumestari (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Ulkoexcuhenkilö (3 kpl): []
+Ulkoexcuhenkilö (3 kpl): [Riikka Nousiainen]
 
 ### [Jatkuvuusneuvosto](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 
