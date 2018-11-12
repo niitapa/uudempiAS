@@ -2,9 +2,9 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 9.11. 14:40
+Updated: 12.11. 13:50
 
-The application period for the next year's committees is still open! It will end at 11.11. and there are some places left. Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
+Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
 
 Applying for chairperson of committees can be done through the [Official-registration](bit.ly/toimari-ilmo) or by sending an application to the next board at tulevahallitus [at] as.fi
 
@@ -35,7 +35,7 @@ DSD Captain (1 pc): [Arttu Rintala, Helena Kaisanlahti]
 ### Study Committee (led by Master of Studies):
 
 Informant (1 pc): [Ville Eronen] <br>
-Automaton (1 pc): []<br>
+Automaton (1 pc): [Arttu Pohja]<br>
 DSD-maton (1 pc): []<br>
 Other: [Helena Kaisanlahti]
 
@@ -47,8 +47,8 @@ Smurf (10 pc): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, J
 
 Gameman (1 pc): [Taavi Oja, Pulmu Pietikäinen] <br>
 Sitsi program manager (n pc): []<br>
-Director of Events and Cultural Excursions (n pc): <br>
-Cupbeares (n pc): []<br>
+Director of Events and Cultural Excursions (n pc): [Ilene Blanco] <br>
+Cupbearer (n pc): []<br>
 Sports managers (n pc): []<br>
 Stiff Wrist (1 pc): [Viet Tran] <br>
 Senile Secretary (1 pc): [Sanna Halmkrona] <br>
@@ -56,7 +56,7 @@ Senile Secretary (1 pc): [Sanna Halmkrona] <br>
 ### Golden Tomato (led by GTPT)
 
 Golden Editor-in-Chief (GTPT)(1 pc): Jan Juvonen<br>
-Golden Editor (4 pc): [Karolina Itäinen] <br>
+Golden Editor (4 pc): [Karolina Itäinen, Sanna Halmkrona] <br>
 Golden Layout Designer (1 pc): []<br>
 Golden Graphic Artist (1 pc): []
 
@@ -84,7 +84,7 @@ IT Person (4 pc): [Jyri Kolu]
 
 ### Public Relations Committee (led by Head of Corporate Relations):
 
-Public Relations Journeyman (n pc): [Jyri Kolu, Sanna Halmkrona, Antti Regelin] <br>
+Public Relations Journeyman (n pc): [Sanna Halmkrona, Antti Regelin, Timo Polvinen] <br>
 Public Relations Consultant (1 pc): Leo Matikainen <br>
 TEKSAS Ranger (1 pc): [Roope Savolainen]
 
@@ -107,7 +107,7 @@ Escalator (1 pc): []
 ### [Committee of Foreign Excursions (led by Master of Foreign Excursions)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
 Master of Foreign Excursions (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Foreign excursion person (3 kpl): [Riikka Nousiainen]
+Foreign excursion person (3 kpl): [Riikka Nousiainen, Juuso Määttä, Niko Soininen]
 
 ### [Continuity Counsil](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 

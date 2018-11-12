@@ -2,9 +2,9 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 9.11. 14:40
+Päivitetty: 12.11. 13:50
 
-Haku toimikuntiin on auki 11.11. asti ja paikkoja on vielä jäljellä! Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
+Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
 
 Toimikuntien puheenjohtajiksi voi hakea [toimari-ilmon](http://bit.ly/toimari-ilmo) kautta tai lähettämällä vapaamuotoisen hakemuksen seuraavalle hallitukselle osoitteeseen tulevahallitus [at] as.fi.
 
@@ -35,7 +35,7 @@ DSD Captain (1 kpl):  [Arttu Rintala, Helena Kaisanlahti]
 ### Opintotoimikunta (johdossa Opintomestari):
 
 Informaatti (1 kpl): [Ville Eronen] <br>
-Automaatti (1 kpl): []<br>
+Automaatti (1 kpl): [Arttu Pohja]<br>
 DSD-maatti (1 kpl): []<br>
 Muu: [Helena Kaisanlahti]
 
@@ -47,7 +47,7 @@ Smurffi (10 kpl): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen
 
 Pelimies (1 kpl): [Taavi Oja, Pulmu Pietikäinen] <br>
 Sitsiohjelmavastaava (n kpl): []<br>
-Tapahtuma- ja kulttuuriexcuvastaava (n kpl): []<br>
+Tapahtuma- ja kulttuuriexcuvastaava (n kpl): [Ilene Blanco]<br>
 JuomanlASkija (n kpl): []<br>
 Liikuntavastaavat (n kpl): []<br>
 Jäykkäranne (1 kpl): [Viet Tran]<br>
@@ -84,7 +84,7 @@ ATK-henkilö (4 kpl): [Jyri Kolu]
 
 ### Yrityssuhdetoimikunta (johdossa Yrityssuhdevastaava):
 
-Yrityssuhdekisälli (n kpl): [Jyri Kolu, Sanna Halmkrona, Antti Regelin] <br>
+Yrityssuhdekisälli (n kpl): [Sanna Halmkrona, Antti Regelin, Timo Polvinen] <br>
 Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
 TEKSAS Ranger (1 kpl): [Roope Savolainen]
 
@@ -107,7 +107,7 @@ Eskalaattori (1 kpl): []
 ### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
 Ulkoexcumestari (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Ulkoexcuhenkilö (3 kpl): [Riikka Nousiainen]
+Ulkoexcuhenkilö (3 kpl): [Riikka Nousiainen, Juuso Määttä, Niko Soininen]
 
 ### [Jatkuvuusneuvosto](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 
