@@ -2,7 +2,7 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 12.11. 13:50
+Updated: 14.11. 15:20
 
 Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
 
@@ -56,7 +56,7 @@ Senile Secretary (1 pc): [Sanna Halmkrona] <br>
 ### Golden Tomato (led by GTPT)
 
 Golden Editor-in-Chief (GTPT)(1 pc): Jan Juvonen<br>
-Golden Editor (4 pc): [Karolina Itäinen, Sanna Halmkrona] <br>
+Golden Editor (4 pc): [Karolina Itäinen, Sanna Halmkrona, Pulmu Pietikäinen] <br>
 Golden Layout Designer (1 pc): []<br>
 Golden Graphic Artist (1 pc): []
 
@@ -67,7 +67,7 @@ Sexton (6 pc): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikk
 
 ### Committee of ASki (led by Master of Aski):
 
-Master of ASki (1 pc): [Taavi Oja]<br>
+Master of ASki (1 pc): Taavi Oja<br>
 Guardian of ASki (5 pc): [Ville Eronen, Akseli Konttas] <br>
 
 ### Control Club (led by Control Boss)
@@ -96,7 +96,7 @@ Social Media Manager (1 pc): []
 
 ### Stimulaatio Committee (led by Stimulantti):
 
-Stimulant (1 pc): [Noora Salminen & Sanna Halmkrona]<br>
+Stimulant (1 pc): Noora Salminen & Sanna Halmkrona<br>
 Depressant (n pc): [Helena Kaisanlahti] <br>
 Escalator (1 pc): []
 

@@ -2,7 +2,7 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 12.11. 13:50
+Päivitetty: 14.11. 15:20
 
 Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
 
@@ -56,7 +56,7 @@ Seniilisihteeri (1 kpl): [Sanna Halmkrona]<br>
 ### Kultainen toimitus (johdossa GTPT)
 
 Kultainen päätoimittaja (1 kpl): Jan Juvonen<br>
-Kultainen toimittaja (4 kpl): [Karolina Itäinen, Sanna Halmkrona] <br>
+Kultainen toimittaja (4 kpl): [Karolina Itäinen, Sanna Halmkrona, Pulmu Pietikäinen] <br>
 Kultainen taittaja (1 kpl): []<br>
 Kultainen graafikko (1 kpl): []
 
@@ -67,7 +67,7 @@ Lukkari (6 kpl): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mi
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
-ASkimestari (1 kpl): [Taavi Oja]<br>
+ASkimestari (1 kpl): Taavi Oja<br>
 ASkivahti (5 kpl): [Ville Eronen, Akseli Konttas]<br>
 
 ### Säätötoimikunta (johdossa Säätöpomo):
@@ -96,7 +96,7 @@ Somevastaava (1 kpl): []
 
 ### Stimulaatiotoimikunta (johdossa Stimulantti):
 
-Stimulantti (1 kpl): [Noora Salminen & Sanna Halmkrona]<br>
+Stimulantti (1 kpl): [oora Salminen & Sanna Halmkrona<br>
 Depressantti (n kpl): [Helena Kaisanlahti] <br>
 Eskalaattori (1 kpl): []
 
