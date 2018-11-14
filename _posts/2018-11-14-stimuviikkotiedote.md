@@ -6,7 +6,7 @@ language: fin
 author: Viestintämestari
 categories: AS pääuutiset
 ---
-Killallemme erittäin tärkeä viikko, Stimulaatioviikko, on ensi viikolla ja koska silloin on joka päivä jotain tapahtumaa niin haluamme varmistaa että kaikki ovat vähintäänkin kuullet niistä kaikista.
+Killallemme erittäin tärkeä viikko, Stimulaatioviikko (kiltamme vuosijuhlaviikko), on ensi viikolla ja koska silloin on joka päivä jotain tapahtumaa niin haluamme varmistaa että kaikki ovat vähintäänkin kuullet niistä kaikista.
 
 ### Maanantai 19.11.
 #### Mopon läpilaulanta
