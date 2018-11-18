@@ -2,7 +2,7 @@
 layout: page
 title: Ehdokkaat 2018
 ---
-Päivitetty: 14.11. 15:20
+Päivitetty: 18.11. 21:00
 
 Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
 
@@ -92,11 +92,11 @@ TEKSAS Ranger (1 kpl): [Roope Savolainen]
 
 Graafikko (2 kpl): [Taavi Oja] <br>
 Dokumentoija (4 kpl): [Helena Kaisanlahti, Lukas Wachter, Taru Virtanen] <br>
-Somevastaava (1 kpl): []
+Somevastaava (4 kpl): []
 
 ### Stimulaatiotoimikunta (johdossa Stimulantti):
 
-Stimulantti (1 kpl): [oora Salminen & Sanna Halmkrona<br>
+Stimulantti (1 kpl): Noora Salminen & Sanna Halmkrona<br>
 Depressantti (n kpl): [Helena Kaisanlahti] <br>
 Eskalaattori (1 kpl): []
 

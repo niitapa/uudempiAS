@@ -2,7 +2,7 @@
 layout: page
 title: Candidates 2018
 ---
-Updated: 14.11. 15:20
+Updated: 18.11. 21:00
 
 Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
 
@@ -92,7 +92,7 @@ TEKSAS Ranger (1 pc): [Roope Savolainen]
 
 Graphics Designer (2 pc): [Taavi Oja] <br>
 Documentator (4 pc): [Helena Kaisanlahti, Lukas Wachter, Taru Virtanen]<br>
-Social Media Manager (1 pc): []
+Social Media Manager (4 pc): []
 
 ### Stimulaatio Committee (led by Stimulantti):
 
