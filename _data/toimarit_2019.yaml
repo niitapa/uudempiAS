@@ -149,7 +149,7 @@ committees:
   - name: Mediatoimikunta
     description:
     positions:
-           - name: Graafikko
+      - name: Graafikko
         description:
         members:
           - name: Taavi Oja
@@ -173,13 +173,13 @@ committees:
       - name: Stimulantti
         description:
         members:
-            - name: Noora Salminen
-            - name: Sanna Halmkrona
+          - name: Noora Salminen
+          - name: Sanna Halmkrona
       - name: Depressantti
         description:
         members:
-            - name: Riikka Nousiainen
-            - name: Helena Kaisanlahti
+          - name: Riikka Nousiainen
+          - name: Helena Kaisanlahti
 
   - name: Ulkoexcutoimikunta
     description:
