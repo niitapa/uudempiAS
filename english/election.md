@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Candidates 2018
+title: Officials 2019
 ---
-Updated: 18.11. 21:00
+The following people have been chosen as officials for the year 2019.
 
-Being part of a committee is a good way to get to know the guild better and also do cool stuff. Apply at <http://bit.ly/toimari-ilmo>. You can find more info about the committee positions here: <https://as.fi/static/virallisuudet/2019committeeproposal.pdf>
-
-Applying for chairperson of committees can be done through the [Official-registration](bit.ly/toimari-ilmo) or by sending an application to the next board at tulevahallitus [at] as.fi
-
-Below this, the positions with names in brackets have the applicant's for the position, they **have not been** selected for the position yet.
+Some of the committees do still take in members, chairmen of each committee can be asked about the positions.
 
 ### The board:
 
-Chairperson: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424), Ville Kauhanen <br>
+Chairperson: [Severi Casserly](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=424)<br>
 Secretary: [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=412) <br>
 Treasurer: [Ville Eronen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=425) <br>
 Master of Culture: [Juhana Kekoni](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=420) <br>
@@ -30,45 +26,45 @@ Tutor Boss (1 pc): [Emil Huttunen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&
 Great Freshman Captain (1 pc): Ville Kauhanen <br>
 Uncle Tutor Boss (1 pc): Ella Koivula <br>
 Senior International Student Captain (1 pc): Ilene Blanco <br>
-DSD Captain (1 pc): [Arttu Rintala, Helena Kaisanlahti] 
+DSD Captain (1 pc): Arttu Rintala 
 
 ### Study Committee (led by Master of Studies):
 
-Informant (1 pc): [Ville Eronen] <br>
-Automaton (1 pc): [Arttu Pohja]<br>
+Informant (1 pc): Ville Eronen <br>
+Automaton (1 pc): Arttu Pohja<br>
 DSD-maton (1 pc): []<br>
-Other: [Helena Kaisanlahti]
+Abisintti (1 pc): Helena Kaisanlahti
 
 ### Entertainment Committee (led by Host and Hostess):
 
-Smurf (10 pc): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen]
+Smurf (10 pc): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen, Antti Regelin
 
 ### Committee of Cultural Affairs (led by Master of Culture):
 
-Gameman (1 pc): [Taavi Oja, Pulmu Pietikäinen] <br>
+Gameman (1 pc): Taavi Oja, Pulmu Pietikäinen <br>
 Sitsi program manager (n pc): []<br>
-Director of Events and Cultural Excursions (n pc): [Ilene Blanco] <br>
+Director of Events and Cultural Excursions (n pc): Ilene Blanco, Karolina Itäinen <br>
 Cupbearer (n pc): []<br>
 Sports managers (n pc): []<br>
-Stiff Wrist (1 pc): [Viet Tran] <br>
-Senile Secretary (1 pc): [Sanna Halmkrona] <br>
+Stiff Wrist (1 pc): Viet Tran <br>
+Senile Secretary (1 pc): Sanna Halmkrona <br>
 
 ### Golden Tomato (led by GTPT)
 
 Golden Editor-in-Chief (GTPT)(1 pc): Jan Juvonen<br>
-Golden Editor (4 pc): [Karolina Itäinen, Sanna Halmkrona, Pulmu Pietikäinen] <br>
+Golden Editor (4 pc): Karolina Itäinen, Sanna Halmkrona, Pulmu Pietikäinen <br>
 Golden Layout Designer (1 pc): []<br>
 Golden Graphic Artist (1 pc): []
 
 ### Sexton Committee (led by Sexton Master)
 
 Sexton Master (1 pc): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418) <br>
-Sexton (6 pc): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen, Ville Piesala]
+Sexton (6 pc): Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen, Ville Piesala, Jaakko Majuri
 
 ### Committee of ASki (led by Master of Aski):
 
 Master of ASki (1 pc): Taavi Oja<br>
-Guardian of ASki (5 pc): [Ville Eronen, Akseli Konttas] <br>
+Guardian of ASki (5 pc): Ville Eronen, Akseli Konttas <br>
 
 ### Control Club (led by Control Boss)
 
@@ -84,32 +80,32 @@ IT Person (4 pc): [Jyri Kolu]
 
 ### Public Relations Committee (led by Head of Corporate Relations):
 
-Public Relations Journeyman (n pc): [Sanna Halmkrona, Antti Regelin, Timo Polvinen] <br>
+Public Relations Journeyman (n pc): Sanna Halmkrona, Antti Regelin, Timo Polvinen <br>
 Public Relations Consultant (1 pc): Leo Matikainen <br>
-TEKSAS Ranger (1 pc): [Roope Savolainen]
+TEKSAS Ranger (1 pc): Roope Savolainen
 
 ### Media Committee (led by Master of Communications):
 
-Graphics Designer (2 pc): [Taavi Oja] <br>
-Documentator (4 pc): [Helena Kaisanlahti, Lukas Wachter, Taru Virtanen]<br>
-Social Media Manager (4 pc): []
+Graphics Designer (2 pc): Taavi Oja, Emma Riikonen <br>
+Documentator (4 pc): Helena Kaisanlahti, Lukas Wachter, Taru Virtanen<br>
+Social Media Manager (4 pc): Noora Salminen, Ella Koivula, Helena Kaisanlahti
 
 ### Stimulaatio Committee (led by Stimulantti):
 
 Stimulant (1 pc): Noora Salminen & Sanna Halmkrona<br>
-Depressant (n pc): [Helena Kaisanlahti] <br>
+Depressant (n pc): Riikka Nousiainen, Helena Kaisanlahti <br>
 Escalator (1 pc): []
 
-### rrrRankkacommittee (led by Head of Corporate Relations):
+### rrrRankka Committee (led by Head of Corporate Relations):
 
-[rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): [Onni Lampi, Roope Pääkkönen, Ville Kauhanen]
+[rrrRankka Correspondent](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
 
 ### [Committee of Foreign Excursions (led by Master of Foreign Excursions)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
 Master of Foreign Excursions (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Foreign excursion person (3 kpl): [Riikka Nousiainen, Juuso Määttä, Niko Soininen]
+Foreign excursion person (3 kpl): Arttu Rintala, Juuso Määttä, Niko Soininen
 
-### [Continuity Counsil](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
+### [Continuity Council](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 
 ### Outside committees:
 

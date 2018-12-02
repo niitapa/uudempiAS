@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Ehdokkaat 2018
+title: Toimijat 2019
 ---
-Päivitetty: 18.11. 21:00
+Killan toimijoiksi vuodelle 2019 on valittu allaolevat henkilöt. 
 
-Hae osoitteessa <http://bit.ly/toimari-ilmo>. Tarkempia kuvauksia kaikista pesteistä löytyy osoitteesta <https://as.fi/static/virallisuudet/2019toimariehdotus.pdf>
-
-Toimikuntien puheenjohtajiksi voi hakea [toimari-ilmon](http://bit.ly/toimari-ilmo) kautta tai lähettämällä vapaamuotoisen hakemuksen seuraavalle hallitukselle osoitteeseen tulevahallitus [at] as.fi.
-
-Alla olevista toimiviroista hakasulkeissa olevat henkilöt **eivät ole** valittuja, vaan hakeneita.
+Joihinkin toimikuntiin otetaan vielä halukkaita mukaan, toimikuntien puheenjohtajilta voi kysellä tarkemmin asiasta.
 
 ### Hallitus:
 
@@ -30,45 +26,45 @@ ISOpomo (1 kpl): [Emil Huttunen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=
 SuurPhuksikapteeni (1 kpl): Ville Kauhanen <br>
 Tosi ISOpomo (1 kpl): Ella Koivula <br>
 Senior International Student Captain (1 kpl): Ilene Blanco <br>
-DSD Captain (1 kpl):  [Arttu Rintala, Helena Kaisanlahti]
+DSD Captain (1 kpl):  Arttu Rintala
 
 ### Opintotoimikunta (johdossa Opintomestari):
 
-Informaatti (1 kpl): [Ville Eronen] <br>
-Automaatti (1 kpl): [Arttu Pohja]<br>
+Informaatti (1 kpl): Ville Eronen <br>
+Automaatti (1 kpl): Arttu Pohja<br>
 DSD-maatti (1 kpl): []<br>
-Muu: [Helena Kaisanlahti]
+Abisintti (1 kpl): Helena Kaisanlahti
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): [Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen]
+Smurffi (10 kpl): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen, Antti Regelin
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
-Pelimies (1 kpl): [Taavi Oja, Pulmu Pietikäinen] <br>
+Pelimies (1 kpl): Taavi Oja, Pulmu Pietikäinen <br>
 Sitsiohjelmavastaava (n kpl): []<br>
-Tapahtuma- ja kulttuuriexcuvastaava (n kpl): [Ilene Blanco]<br>
+Tapahtuma- ja kulttuuriexcuvastaava (n kpl): Ilene Blanco, Karolina Itäinen <br>
 JuomanlASkija (n kpl): []<br>
 Liikuntavastaavat (n kpl): []<br>
-Jäykkäranne (1 kpl): [Viet Tran]<br>
-Seniilisihteeri (1 kpl): [Sanna Halmkrona]<br>
+Jäykkäranne (1 kpl): Viet Tran<br>
+Seniilisihteeri (1 kpl): Sanna Halmkrona<br>
 
 ### Kultainen toimitus (johdossa GTPT)
 
 Kultainen päätoimittaja (1 kpl): Jan Juvonen<br>
-Kultainen toimittaja (4 kpl): [Karolina Itäinen, Sanna Halmkrona, Pulmu Pietikäinen] <br>
+Kultainen toimittaja (4 kpl): Karolina Itäinen, Sanna Halmkrona, Pulmu Pietikäinen <br>
 Kultainen taittaja (1 kpl): []<br>
 Kultainen graafikko (1 kpl): []
 
 ### Lukkaritoimikunta (johdossa Lukkarimestari)
 
 Lukkarimestari (1 kpl): [Karolina Itäinen](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=418)<br>
-Lukkari (6 kpl): [Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen, Ville Piesala]
+Lukkari (6 kpl): Arttu Rintala, Sakari Ropponen, Viet Tran, Juuso Määttä, Mikko Hokkanen, Ville Piesala, Jaakko Majuri
 
 ### ASkitoimikunta (johdossa ASkimestari):
 
 ASkimestari (1 kpl): Taavi Oja<br>
-ASkivahti (5 kpl): [Ville Eronen, Akseli Konttas]<br>
+ASkivahti (5 kpl): Ville Eronen, Akseli Konttas<br>
 
 ### Säätötoimikunta (johdossa Säätöpomo):
 
@@ -84,30 +80,30 @@ ATK-henkilö (4 kpl): [Jyri Kolu]
 
 ### Yrityssuhdetoimikunta (johdossa Yrityssuhdevastaava):
 
-Yrityssuhdekisälli (n kpl): [Sanna Halmkrona, Antti Regelin, Timo Polvinen] <br>
+Yrityssuhdekisälli (n kpl): Sanna Halmkrona, Antti Regelin, Timo Polvinen <br>
 Yrityssuhdeneuvonantaja (1 kpl): Leo Matikainen <br>
-TEKSAS Ranger (1 kpl): [Roope Savolainen]
+TEKSAS Ranger (1 kpl): Roope Savolainen
 
 ### Mediatoimikunta (johdossa Viestintämestari):
 
-Graafikko (2 kpl): [Taavi Oja] <br>
-Dokumentoija (4 kpl): [Helena Kaisanlahti, Lukas Wachter, Taru Virtanen] <br>
-Somevastaava (4 kpl): []
+Graafikko (2 kpl): Taavi Oja, Emma Riikonen <br>
+Dokumentoija (4 kpl): Helena Kaisanlahti, Lukas Wachter, Taru Virtanen <br>
+Somevastaava (4 kpl): Noora Salminen, Ella Koivula, Helena Kaisanlahti
 
 ### Stimulaatiotoimikunta (johdossa Stimulantti):
 
 Stimulantti (1 kpl): Noora Salminen & Sanna Halmkrona<br>
-Depressantti (n kpl): [Helena Kaisanlahti] <br>
+Depressantti (n kpl):  Riikka Nousiainen, Helena Kaisanlahti <br>
 Eskalaattori (1 kpl): []
 
 ### rrrRankkatoimikunta (johdossa Yrityssuhdevastaava)
 
-[rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): [Onni Lampi, Roope Pääkkönen, Ville Kauhanen]
+[rrrRankkavastaava](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=415): Onni Lampi, Roope Pääkkönen, Ville Kauhanen
 
 ### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
 Ulkoexcumestari (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Ulkoexcuhenkilö (3 kpl): [Riikka Nousiainen, Juuso Määttä, Niko Soininen]
+Ulkoexcuhenkilö (3 kpl): Riikka Nousiainen, Juuso Määttä, Niko Soininen
 
 ### [Jatkuvuusneuvosto](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 
