@@ -37,11 +37,11 @@ Abisintti (1 kpl): Helena Kaisanlahti
 
 ### Huvitoimikunta (johdossa Isäntä ja Emäntä):
 
-Smurffi (10 kpl): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen, Antti Regelin
+Smurffi (10 kpl): Eetu Suominen, Jenna Kerkkänen, Sakari Ropponen, Matias Mäki-Leppilampi, Aku Heinonen, Tiia-Maria Hyvönen, Leia Nummisalo, Samu Mustonen, Antti Regelin
 
 ### Kulttuuri- ja liikuntatoimikunta (johdossa Kulttuurimestari):
 
-Pelimies (1 kpl): Taavi Oja, Pulmu Pietikäinen <br>
+Pelimies (2 kpl): Taavi Oja, Pulmu Pietikäinen <br>
 Sitsiohjelmavastaava (n kpl): []<br>
 Tapahtuma- ja kulttuuriexcuvastaava (n kpl): Ilene Blanco, Karolina Itäinen <br>
 JuomanlASkija (n kpl): []<br>
@@ -103,7 +103,7 @@ Eskalaattori (1 kpl): []
 ### [Ulkoexcutoimikunta (johdossa Ulkoexcumestari)](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=417):
 
 Ulkoexcumestari (1 kpl): [Jaakko Majuri](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=422) <br>
-Ulkoexcuhenkilö (3 kpl): Riikka Nousiainen, Juuso Määttä, Niko Soininen
+Ulkoexcuhenkilö (3 kpl): Arttu Rintala, Juuso Määttä, Niko Soininen
 
 ### [Jatkuvuusneuvosto](https://as.ayy.fi/foorumi/viewtopic.php?f=12&t=426)
 

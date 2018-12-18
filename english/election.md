@@ -37,11 +37,11 @@ Abisintti (1 pc): Helena Kaisanlahti
 
 ### Entertainment Committee (led by Host and Hostess):
 
-Smurf (10 pc): Aku Heinonen, Leia Nummisalo, Daniel Nikkari, Sakari Ropponen, Jenna Kerkkainen, Eetu Suominen, Matias Mäki-Leppilampi, Tiia-Maria Hyvönen, Antti Regelin
+Smurf (10 pc): Eetu Suominen, Jenna Kerkkänen, Sakari Ropponen, Matias Mäki-Leppilampi, Aku Heinonen, Tiia-Maria Hyvönen, Leia Nummisalo, Samu Mustonen, Antti Regelin
 
 ### Committee of Cultural Affairs (led by Master of Culture):
 
-Gameman (1 pc): Taavi Oja, Pulmu Pietikäinen <br>
+Gameman (2 pc): Taavi Oja, Pulmu Pietikäinen <br>
 Sitsi program manager (n pc): []<br>
 Director of Events and Cultural Excursions (n pc): Ilene Blanco, Karolina Itäinen <br>
 Cupbearer (n pc): []<br>
